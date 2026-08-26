@@ -1,0 +1,12 @@
+# === ব্যাকআপ সোর্স প্লেলিস্ট (৬টি) ===
+https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
+https://raw.githubusercontent.com/johirxofficial/otv-auto-updated-playlist/main/otv.m3u
+https://raw.githubusercontent.com/shidul100/Iptv/refs/heads/main/playlist.m3u
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u
+https://raw.githubusercontent.com/abusaeeidx/Ayna-BDIX-IPTV-Playlist/refs/heads/main/ayna-playlist.m3u
+https://raw.githubusercontent.com/ahan443/FAST-IPTV/refs/heads/main/z.m3u
+
+# === লাইভ স্পোর্টস প্লেলিস্ট (৩টি - এগুলো একদম নিচেই থাকতে হবে) ===
+https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
+https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u
+https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
