@@ -6,6 +6,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u
 https://raw.githubusercontent.com/abusaeeidx/Ayna-BDIX-IPTV-Playlist/refs/heads/main/ayna-playlist.m3u
 
 # === লাইভ স্পোর্টস প্লেলিস্ট (৩টি - এগুলো একদম নিচেই থাকতে হবে) ===
-https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
+https://github.com/srhady/axsports/blob/main/playlist.m3u
 https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u
 https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
