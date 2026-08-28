@@ -1,5 +1,4 @@
 # === ব্যাকআপ সোর্স প্লেলিস্ট (৬টি) ===
-https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u
 https://raw.githubusercontent.com/johirxofficial/otv-auto-updated-playlist/main/otv.m3u
 https://raw.githubusercontent.com/shidul100/Iptv/refs/heads/main/playlist.m3u
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bd-test.m3u
