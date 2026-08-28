@@ -311,28 +311,20 @@ http://mxonlive.xyz/live/xap/66180.m3u8?e=1787966327&token=efb76c997b84fef2386ca
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1787966327&token=09336690b27107a4a0944fa28a4f36b7744e6d763c1f341b93a6ee6e75a1ae6c
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1787966327&token=9163afd26bb8d44dad7b4f06f6649b1e836c5f14cd975b1e4ef62c5111f089e5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20vs%20Bay%20Of%20Plenty.jpg" group-title="Live Events", Auckland vs Bay Of Plenty - NPC
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787996847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c2dfae4cd7ef03cf8b8f9ea730895df4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ural%20U20%20vs%20Zenit%20U19.jpg" group-title="Live Events", Ural U20 vs Zenit U19 - Youth Championship [Server 1]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edbe-backup/chunks.m3u8?is_vip=false&token=1787996849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-717f80ad67908c0e6ae00e58ffb65690
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ural%20U20%20vs%20Zenit%20U19.jpg" group-title="Live Events", Ural U20 vs Zenit U19 - Youth Championship [Server 2]
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edbe/chunks.m3u8?is_vip=false&token=1787996850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5c32673e5145c96c0aa767bf63c3632
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ROAD%20TO%20UFC%20S5%20Semifinals.jpg" group-title="Live Events", ROAD TO UFC S5: Semifinals - MMA
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1787996852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1919e5ab30b4500972a6e694271c97c8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="Live Events", England vs Pakistan - Pakistan tour of England
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787996853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8e7c11ac54d486fa76152a1ca6152866
 #EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Live Events", England vs Pakistan | Pakistan Tour of England 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876550711020x576.jpg" group-title="Live Events", Men's Semi Final B Session - Guiyang, China Live | UIPM 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16205" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878175671020x576MEN.jpg" group-title="Live Events", Wales vs Malaysia | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16375" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878225751020x576.jpg" group-title="Live Events", Georgia vs Pakistan Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16781" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878304861020x576.jpg" group-title="Live Events", Maheshate vs Flowers | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16378" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878228601020x576.jpg" group-title="Live Events", Ukraine vs Lebanon Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16206" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878178611020x576MEN.jpg" group-title="Live Events", Pakistan vs South Africa | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090540725" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023057/1787840589436647_ENGvsPAK_2nd_test_day2_landscape_thumb.jpg" group-title="Live Events", Day 2 - 2nd Test - 28 Aug 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/master.m3u8?hdnea=exp=1787932234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1bbc8e08c1065117412844bd2ea89aa1e31f4df44db4099e3749701c3d7bc9c0
+#EXTINF:-1 tvg-id="sonyliv-1090540683" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023085/1787864511179299_UEL_UECL_League_Phase_Draw_live_landscape_thumb.jpg" group-title="Live Events", League Phase Draw - UEFA Europa & Conference League - 28 Aug 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2808/ENG/master.m3u8?hdnea=exp=1787935831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c272938c5e3a50c2c7c568b3e3ad771f52f45aabf6b75f0bb7b0b3a2ecd95983
 #EXTINF:-1 tvg-id="sonyliv-1090540680" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023084/1787862402507494_Road_TO_UFC_S5_Semi_Final_landscape_thumb.png" group-title="Live Events", Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 | Road To UFC Season 5
 https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/master.m3u8?hdnea=exp=1787928633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9f984c980af772942d957176cce3c01bf6596e2b72f164549bb8d245d46f63a2
 #EXTINF:-1 tvg-id="sonyliv-1090540652" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664967865164_JPL_26_Rajasthan-Rajvansh-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg" group-title="Live Events", Rajasthan Rajvansh vs Golden Eagles Delhi - 28 Aug 2026 | JITO Premier League 2026
