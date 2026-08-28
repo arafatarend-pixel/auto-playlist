@@ -2,9 +2,8 @@ name: Auto Update M3U Playlist
 
 on:
   schedule:
-    # প্রতি ১০ মিনিট পর পর রান করবে
     - cron: '*/10 * * * *'
-  workflow_dispatch: # ম্যানুয়ালি রান করার বাটন
+  workflow_dispatch:
 
 jobs:
   update-playlist:
@@ -12,10 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10'
 
