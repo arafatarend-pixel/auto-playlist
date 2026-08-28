@@ -781,8 +781,6 @@ https://tvsen6.aynaott.com/btSport2/index.m3u8?e=1784102657&u=ee5437a7-c16b-4700
 https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a9cdf8d7d3bacb7c8aea83611a6c3906
 #EXTINF:-1 tvg-id="eacf6c3f-0773-4bc3-a03a-cfee09f10348" tvg-name="PTV Sports" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Live Events",PTV Sports
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=b75669e4aa0dd58c602b637ab66af304
-#EXTINF:-1 tvg-id="tapmad-16211" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878193351020x576MEN.jpg" group-title="Live Events", Germany vs Argentina | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879247771020x576.jpg" group-title="Live Events", Alaves vs Villarreal | Laliga 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16399" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879136231020x576.jpg" group-title="Live Events", France vs Libya Live | Socca World Cup 2026
