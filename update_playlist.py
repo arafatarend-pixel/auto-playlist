@@ -15,6 +15,22 @@ def fetch_m3u(url):
         print(f"Failed to fetch {url}: {e}")
         return ""
 
+def normalize_name(name):
+    """চ্যানেল নাম পরিষ্কার করে ম্যাচিংয়ের জন্য"""
+    name = name.lower().strip()
+    
+    # সাধারণ কোয়ালিটি সাফিক্স সরানো
+    name = re.sub(r'\b(hd|fhd|uhd|4k|8k|hevc|h265|h264)\b', '', name)
+    
+    # স্পেশাল ক্যারেক্টার, ইমোজি, পাইপ ইত্যাদি সরানো
+    name = re.sub(r'[┃\|\[\]\(\)\{\}•·►◄»«]', '', name)
+    name = re.sub(r'[^\w\s]', ' ', name)  # বাকি স্পেশাল ক্যারেক্টার স্পেস দিয়ে রিপ্লেস
+    
+    # অতিরিক্ত স্পেস সরানো
+    name = re.sub(r'\s+', ' ', name).strip()
+    
+    return name
+
 def parse_m3u(text):
     channels = []
     lines = text.strip().split('\n')
@@ -28,8 +44,8 @@ def parse_m3u(text):
                     url_line = lines[j].strip()
                     break
             
-            name = info_line.split(',')[-1].strip().lower()
             original_name = info_line.split(',')[-1].strip()
+            name = normalize_name(original_name)   # ← এখানে নরমালাইজ করা হচ্ছে
             
             group_match = re.search(r'group-title="([^"]*)"', info_line)
             group = group_match.group(1) if group_match else "Uncategorized"
@@ -51,13 +67,15 @@ def main():
     with open(URLS_FILE, 'r', encoding='utf-8') as f:
         urls = [line.strip() for line in f if line.strip() and not line.strip().startswith('#')]
     
-    if len(urls) < 4:
+    if len(urls) < 2:
         print("Not enough URLs in urls.txt")
         return
 
-    # শেষের ৩টি লাইভ স্পোর্টস, বাকিগুলো ব্যাকআপ
-    backup_urls = urls[:-3]
-    sports_urls = urls[-3:]
+    # শেষের অংশকে স্পোর্টস ধরা হচ্ছে (এখন আরো ফ্লেক্সিবল)
+    # তুমি urls.txt তে স্পোর্টস লিংকগুলো একদম নিচে রাখবে
+    sports_count = 2   # ← এখানে কতগুলো স্পোর্টস সোর্স আছে সেটা লিখো
+    backup_urls = urls[:-sports_count] if len(urls) > sports_count else []
+    sports_urls = urls[-sports_count:] if len(urls) >= sports_count else urls
 
     with open(MAIN_M3U, 'r', encoding='utf-8') as f:
         main_text = f.read()
@@ -72,7 +90,9 @@ def main():
         if b_text:
             b_channels = parse_m3u(b_text)
             for ch in b_channels:
-                backup_dict[ch['name']] = ch['url']
+                # আগে থেকে না থাকলেই রাখবে (আগের সোর্স প্রায়োরিটি পাবে)
+                if ch['name'] not in backup_dict:
+                    backup_dict[ch['name']] = ch['url']
 
     # লাইভ স্পোর্টস ফেচ করা
     live_channels = []
@@ -85,6 +105,7 @@ def main():
 
     # ফাইনাল প্লেলিস্ট তৈরি
     final_output = "#EXTM3U\n"
+    updated_count = 0
     
     for ch in main_channels:
         # পুরোনো Live Events রিমুভ করে নতুন করে যুক্ত করবো
@@ -97,6 +118,7 @@ def main():
         if ch['name'] in backup_dict:
             url = backup_dict[ch['name']]
             print(f"Updated: {ch['original_name']}")
+            updated_count += 1
             
         final_output += f"{info}\n{url}\n"
 
@@ -117,7 +139,8 @@ def main():
     with open(MAIN_M3U, 'w', encoding='utf-8') as f:
         f.write(final_output)
         
-    print("Playlist updated successfully!")
+    print(f"\nPlaylist updated successfully!")
+    print(f"Total channels updated: {updated_count}")
 
 if __name__ == "__main__":
     main()
