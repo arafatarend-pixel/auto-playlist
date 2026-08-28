@@ -791,3 +791,5 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879247771020x576.jpg" group-title="Live Events", Alaves vs Villarreal | Laliga 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16399" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879136231020x576.jpg" group-title="Live Events", France vs Libya Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
