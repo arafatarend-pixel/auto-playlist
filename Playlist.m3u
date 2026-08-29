@@ -311,7 +311,23 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1788069651&token=8d4ed6f99224c81bf9fbe
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1788069651&token=1cee65fedb6a996ef653f2959167e81bdc991427802c1981833223058dbb803a
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788069651&token=6b9a62161bfc6d4372e095a3a5dd7378500abb2031870fa581932d21b8effcdf
-#EXTINF:-1 tvg-id="tapmad-16405" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879141531020x576.jpg" group-title="Live Events", Denmark vs Slovenia Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Live Events", England vs Pakistan | Pakistan Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16348" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879033361020x576.jpg" group-title="Live Events", Women's Semi Final B Session - Guiyang, China Live | UIPM 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16792" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879496901020-23andlast.jpg" group-title="Live Events", GT World Challenge powered by AWS - Practice | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16411" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879148111020x576.jpg" group-title="Live Events", Greece vs Ireland Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16692" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879082101020x576.jpg" group-title="Live Events", Glasgow Cosmic vs Dublin Guardians | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15577" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875729211020x576.jpg" group-title="Live Events", Nurmagomedov vs Song | UFC 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090540809" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918548169954_ENGvsPAK_2nd_test_day3_live_landscape_thumb.jpg" group-title="Live Events", Day 3 - 2nd Test - 29 Aug 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/master.m3u8?hdnea=exp=1788018633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a585848212674e945b36b7f66883937c81e0ce8644a259e24b17188d9bb2eb6e
+#EXTINF:-1 tvg-id="sonyliv-1090540822" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg" group-title="Live Events", UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 | UFC Fight Night - Nurmagomedov vs Song
+https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/master.m3u8?hdnea=exp=1788018640~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ae049b6fcaf1b5ff7e2b9840da6a0a640567cb460cfce4730036efd5de95ed7a
 #EXTINF:-1 tvg-id="sonyliv-1090540806" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815808989770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="Live Events", Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/master.m3u8?hdnea=exp=1787997032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c639b192712c7af1a5e1bdf7188276109b64a7616835c72c33dfe33c3ec28232
+https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/master.m3u8?hdnea=exp=1788013238~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55c8a0b5c288d41ef6c4475a0de0223d097116036b4b351fd1b7a611600b55e4
+#EXTINF:-1 tvg-id="sonyliv-1090540811" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808412785204_DP_World_Tour_Husqvarna_British_Masters_day3_landscape_thumb.jpg" group-title="Live Events", Husqvarna British Masters - Day 3 - 29 Aug 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/master.m3u8?hdnea=exp=1788013244~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=18c7b6ac861a4fb4c7edd2cef01b615839af24a455d3b96d00281fadbb5dc0ca
