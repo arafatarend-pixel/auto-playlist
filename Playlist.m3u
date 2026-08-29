@@ -409,9 +409,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-15996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879210911020x576.jpg" group-title="Live Events", Al Fateh vs Al-Ittihad | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16435" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880119431020x576.jpg" group-title="Live Events", Albania vs Uruguay Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879250281020x576.jpg" group-title="Live Events", Sevilla vs Athletico Madrid | Laliga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16438" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880121451020x576.jpg" group-title="Live Events", Italy vs Peru Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
