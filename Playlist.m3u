@@ -156,7 +156,7 @@ http://mxonlive.xyz/live/xap/167590.m3u8?e=1788109440&token=ef3388909bc76d906e92
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="SPORTS",Ten Cricket
 https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="SPORTS",Willow HD
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=S7mBWz-_OJNXigYx2VwZ6A&expires=1788020813
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=8ATDyKB6zrcMcTZw3OWJUA&expires=1788032804
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="SPORTS",Bein Sports xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PK: PTV SPORTS HD
@@ -409,11 +409,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-15994" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879209561020x576.jpg" group-title="Live Events", Al Kholood vs Al-Ahli | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879249411020x576.jpg" group-title="Live Events", Real Sociedad vs Espanyol | Laliga 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879210911020x576.jpg" group-title="Live Events", Al Fateh vs Al-Ittihad | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16432" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879182641020x576.jpg" group-title="Live Events", Poland vs Kosovo Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16435" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880119431020x576.jpg" group-title="Live Events", Albania vs Uruguay Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879250281020x576.jpg" group-title="Live Events", Sevilla vs Athletico Madrid | Laliga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
