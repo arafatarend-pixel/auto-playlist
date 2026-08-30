@@ -124,7 +124,7 @@ http://mxonlive.xyz/live/xap/245900.m3u8?e=1788149237&token=f82c01fe6d3c548fdcb3
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS Cartoon",IN: Cartoon Network
 http://mxonlive.xyz/live/xap/150478.m3u8?e=1788149237&token=48a44b5b841815c66b2f730fd948039130921ea8467d73da9d7bb41063762024
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
-http://mxonlive.xyz/live/xap/150483.m3u8?e=1788149237&token=daa3bf8c240859be7c60f18d98e72208741c7fdf40a9074ceba23924cbdc7d7c
+http://mxonlive.xyz/live/xap/150483.m3u8?e=1788189057&token=5cd2bce2ef9f6bc92ea1c757c53dcdb837da2e2074c383097df15358b294a8d9
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
 http://mxonlive.xyz/live/xap/26187.m3u8?e=1788171473&token=5d1252e61fe560a4a1e0f4f89f6821db6b44b8df380a424c47901aa9ac1143ed
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
@@ -132,7 +132,7 @@ http://mxonlive.xyz/live/xap/150480.m3u8?e=1788149237&token=09df183fe691a614bb25
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1788171473&token=5d7505d6dc9ac5696e05d60ebe23ad593d32e56957e6e2d4f777afb5cf5f457c
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
-http://mxonlive.xyz/live/xap/153156.m3u8?e=1788149237&token=479874c510a14ed915d2bf85356259274dc690a13b3297311c4e3abf945595cd
+http://mxonlive.xyz/live/xap/153156.m3u8?e=1788189057&token=cd50cbb42abc63c8f730fc1de56c79c357b9df1e2ffe999113d5d56cde557835
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1788189057&token=b593282bb35ece666d56258b80a8a22fb4181aed91bd01f3a9e325a413991985
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
@@ -206,7 +206,7 @@ http://mxonlive.xyz/live/xap/383183.m3u8?e=1788149237&token=ce1c46879065e17a5eaf
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1788149237&token=02770f41687c3e17979b3af6bce0a601b2cc81cb5484e8bad437c3f4ff78dccd
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1788171473&token=fe65f40d131f53b2d60e865838373dec3bf6a56e7a12f52d8fcf96ceca38a502
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1788189057&token=94bcbea08e922745b391d7650a753ce860401dbf3f91c65d48f27fd002413e3d
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1788149237&token=e9e1cf5ce45bbea8c65bac87d2e5368e86020ea8e6377d04496b0b58c1ec9651
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
@@ -224,7 +224,7 @@ http://mxonlive.xyz/live/xap/206294.m3u8?e=1788189057&token=c0e0d19148566c85a7cf
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1788149237&token=e7d3622dd3b30e5aead9b6f95bf81e506f45fae0b0088f9a139738c7bb5855cb
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
-http://mxonlive.xyz/live/xap/206296.m3u8?e=1788149237&token=f7bf6e7f123c6dc3b2c8b966a339b2e8af74441dfff90341f24d1e1e697da7cb
+http://mxonlive.xyz/live/xap/206296.m3u8?e=1788189057&token=4b4a0848fa9bfd6add7d2e86615d2891d203e82768dde629ebb30e72bc67f51a
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1788149237&token=802963f33c1a60e757764e8d74020ad56a8868c405569a1198937290b7714919
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
@@ -409,25 +409,15 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Live Events", England vs Pakistan | Pakistan Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16840" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880152261020-23andlast.jpg" group-title="Live Events", GT World Challenge powered by AWS - Race | GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16695" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879089601020x576.jpg" group-title="Live Events", Edinburgh Castle Rockers vs Dublin Guardians | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16215" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880226891020x576MEN.jpg" group-title="Live Events", Spain vs Germany | FIH Hockey World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879270271020x576.jpg" group-title="Live Events", Real Madrid vs Malaga | Laliga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16292" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880183251020x576.jpg" group-title="Live Events", Men's & Women's Singles 1st Round | US Open 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16462" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880147801020x576.jpg" group-title="Live Events", Lebanon vs Georgia Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16465" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880221581020x576.jpg" group-title="Live Events", Uzbekistan vs Spain Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090540951" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918839284954_ENGvsPAK_2nd_test_day4_live_landscape_thumb.jpg" group-title="Live Events", Day 4 - 2nd Test - 30 Aug 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive3008/ENG/master.m3u8?hdnea=exp=1788121235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b7edc3dfc4fdf60a95de8ddfb232814b19ee735002bdc95244888df01170515c
+#EXTINF:-1 tvg-id="tapmad-16116" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879271561020x576.jpg" group-title="Live Events", Deportivo vs Valencia | Laliga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15998" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879212251020x576.jpg" group-title="Live Events", Al Qadsiah vs Al-Faisaly | Saudi Pro League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090540930" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023160/1788010300533617_PunjabT20_League26_Amritsar_Soormas_vs_Mohali_Kings_landscape_thumb.jpg" group-title="Live Events", Amritsar Soormas vs Mohali Kings - 30 Aug 2026 | Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/criclive3008/HIN/master.m3u8?hdnea=exp=1788119433~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c13efbe8d2428ff0e7327b7498f7ae599492a0fe9d4837181a239910f6756a7b
-#EXTINF:-1 tvg-id="sonyliv-1090540892" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817046893770_JPL_26_Pagaria-Strikers-Maharashtra-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg" group-title="Live Events", Pagariya Strikers vs Golden Eagles Delhi - 30 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/master.m3u8?hdnea=exp=1788115833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=83744d92f71ce09af567f845c9824b0f63c2482885ef2312b674b59df306ff78
 #EXTINF:-1 tvg-id="sonyliv-1090541007" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023193/1788103110820336_PunjabT20_League26_Amritsar_Soormas_vs_Mohali_Kings_landscape_thumb_punjabi.jpg" group-title="Live Events", Amritsar Soormas vs Mohali Kings - 30 Aug 2026 | Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/criclive3008/PAN/master.m3u8?hdnea=exp=1788126636~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d48a7e5349e413e2db0b47ede0ec74455696bc4c421f5d4e77245d2456351d38
