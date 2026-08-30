@@ -156,7 +156,7 @@ http://mxonlive.xyz/live/xap/167590.m3u8?e=1788149237&token=149a4be4e90d9c39b7f3
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="SPORTS",Ten Cricket
 https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="SPORTS",Willow HD
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=rUlcTpV3KjqFUZfYzy8JaQ&expires=1788057550
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=hGjXYztJtLx6XFRRI8u1tw&expires=1788077528
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="SPORTS",Bein Sports xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PK: PTV SPORTS HD
@@ -409,7 +409,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-16354" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879067491020x576.jpg" group-title="Live Events", Men's Final Session - Guiyang, China Live | UIPM 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16441" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880220071020x576.jpg" group-title="Live Events", Iraq vs Belgium Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16822" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880129711020-23andlast.jpg" group-title="Live Events", GT World Challenge powered by AWS - Qualifying 1,2 and 3 | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090540892" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787816196769770_JPL_26_Mumbai-Sobo-Stars-vs-Bangalore-Blasters_live_landscape_thumb.jpg" group-title="Live Events", Mumbai Sobo Stars vs Bangalore Blasters - 30 Aug 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/master.m3u8?hdnea=exp=1788083435~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=eb9bbf483ea333927a0619dbc1cdf8f0d4b90e136696eb4cdcc683476a246ffc
