@@ -120,7 +120,7 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="Bangla",IND-Bangla: Zee Bangla HD
 http://mxonlive.xyz/live/xap/245893.m3u8?e=1788224869&token=600c88eed28fe1f36d4332fe126ae57deee8b1d6db6786d18c221e4e26993dd8
 #EXTINF:-1 tvg-id="" tvg-name="IND-Bangla: Jalsa Movies HD" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="Bangla",IND-Bangla: Jalsa Movies HD
-http://mxonlive.xyz/live/xap/245900.m3u8?e=1788203103&token=bdb7c70ab9518008eac097e6f606ba519c9f5488260c792d563d550929fe6392
+http://mxonlive.xyz/live/xap/245900.m3u8?e=1788224869&token=59e94c1d1f515d070bc628da31f8bcae71b0ab969c129021642c51697f70599d
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS Cartoon",IN: Cartoon Network
 http://mxonlive.xyz/live/xap/150478.m3u8?e=1788203103&token=482f678912c6543543e8e4bdd785f5611abdea3b0b09b783f88a4a912f176f75
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
@@ -136,11 +136,11 @@ http://mxonlive.xyz/live/xap/153156.m3u8?e=1788203103&token=9587739ee67eaf04363f
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1788203103&token=68122248a6ef617da29f6473c095234b58911cc358c972bd6eed86f5ba378434
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1788203103&token=809f61d3e20e1aafbaa9bdec9a979039cfd68f3ec01ee27f2f98c98f7b73bba1
+http://fastshare1.com:80/live/25711345/late8airline/35713.ts
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1788203103&token=5f97a8ca9ace89116edcb34015c95ed1b322bd60470f24e045ec68cd9623eda7
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1788203103&token=9a533b6b55c0e7852a19c2482512333964c6b6e6c6e923247603039e925202aa
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1788224869&token=463b9b38fe74800e0716c6123dff0376916091df0254366961da985566ad9c76
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1788224869&token=4ee1d9e56e388c8726c745d7938262727185b6790c025f749eeb16d688f01c3d
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -409,7 +409,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-16293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880187141020x576.jpg" group-title="Live Events", Men's & Women's Singles 1st Round | US Open 2026
+#EXTINF:-1 tvg-id="tapmad-16477" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880161461020x576.jpg" group-title="Live Events", Afghanistan vs Italy Live | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090540967" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg" group-title="Live Events", Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/master.m3u8?hdnea=exp=1788182432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cb9b253cc52c1ed3e50902c7146bb340aaff77cc738cf367ca9d088ad1ac886e
 #EXTINF:-1 tvg-id="sonyliv-1090540966" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817348238770_JPL_26_Indore-Hawks-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="Live Events", Indore Hawks vs Pune Peshwas - 31 Aug 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/master.m3u8?hdnea=exp=1788169835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cd3795eba51c1b6609dcb48487eb2e31a8d7f820ae090129fe5ae06aede5ea9
