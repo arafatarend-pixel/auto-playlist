@@ -166,7 +166,7 @@ http://mxonlive.xyz/live/xap/167568.m3u8?e=1788224869&token=7f988fc89640ea466884
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS",PK: TEN SPORTS
 http://mxonlive.xyz/live/xap/167569.m3u8?e=1788224869&token=9bc7a01c294eb6734b09f300b224f2d1dc0b3c80042e070373da11ba4356e574
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
-http://mxonlive.xyz/live/xap/219689.m3u8?e=1788224869&token=dc548219bbf433958de0a19191429cd97c877aff5890b051db4b28b6978baa0d
+http://mxonlive.xyz/live/xap/219689.m3u8?e=1788250379&token=82ed4a64a304dcad0548acd5601bcb4c763df203ba5f114a1206948ec95e05d6
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 http://mxonlive.xyz/live/xap/167590.m3u8?e=1788203103&token=050b08423ca5e817a945ad52d545eea8a9ec6251f2062374e7119074ca469d39
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
@@ -409,7 +409,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090540967" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173572913893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_landscape_thumb.jpg" group-title="Live Events", Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/master.m3u8?hdnea=exp=1788182432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cb9b253cc52c1ed3e50902c7146bb340aaff77cc738cf367ca9d088ad1ac886e
-#EXTINF:-1 tvg-id="sonyliv-1090540966" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817583100770_JPL_26_Mumbai-Kings-Xl-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="Live Events", Mumbai Kings XI vs Bengal Indians - 31 Aug 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/master.m3u8?hdnea=exp=1788187835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d7555dbb607769c401531053592772069abdf64c48cd8386fcad62bab70c9e18
+#EXTINF:-1 tvg-id="tapmad-16492" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881561891020x576.jpg" group-title="Live Events", Nigeria vs Albani Live | Socca World Cup 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090540967" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg" group-title="Live Events", Mohali Kings vs Bathinda Royals - 31 Aug 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/master.m3u8?hdnea=exp=1788200436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=056dd89c67f58a38b987296a19b62f09e600bf00d5f74a6aa659870c04f14083
+#EXTINF:-1 tvg-id="sonyliv-1090540966" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817924978770_JPL_26_Chennai-Striker-Kings-vs-Gujarat-Gladiators_live_landscape_thumb.jpg" group-title="Live Events", Chennai Striker Kings vs Gujarat Gladiators - 31 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/master.m3u8?hdnea=exp=1788204034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5d2f9b5a330a11cd2d2bb586c11b8607233d8c5ce164faa8d2b45c4d8da821e3
