@@ -186,7 +186,7 @@ http://mxonlive.xyz/live/xap/167578.m3u8?e=1788224869&token=9060a11af23b346eb230
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 2
 http://mxonlive.xyz/live/xap/167579.m3u8?e=1788224869&token=fdb4c674fd3acad5b83b7de156d95bbf0f1b49f9d0338b6509f56b251112a69b
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Cricbuzz" tvg-logo="https://en.wikipedia.org/wiki/Cricbuzz" group-title="SPORTS",IN | Astro Cricket HD
-http://mxonlive.xyz/live/xap/167581.m3u8?e=1788189057&token=77fa246c82df93ca2b6956d6391cdbab85d7f2dcab9225217acc8558945cc8e2
+http://mxonlive.xyz/live/xap/167581.m3u8?e=1788250379&token=a036a0aa3746b9d890a1efef60fb26064e7a9118495dc459f0e76f2ba1cbdb5a
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
 http://mxonlive.xyz/live/xap/238478.m3u8?e=1788224869&token=6dcaa188f688ff15411de79977b25f88fe184e8ec5da9d079ab29b98de6aa94e
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
@@ -220,7 +220,7 @@ http://mxonlive.xyz/live/xap/206279.m3u8?e=1788250379&token=c80e458d8e7081a89dff
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1788224869&token=211dfab0bd6eb5e0967338d77d20acf35b251404659d6dfd6aac3d016cae38bb
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
-http://mxonlive.xyz/live/xap/206294.m3u8?e=1788189057&token=c0e0d19148566c85a7cf76e71fe727f85b8a2d56f941ffefd9de319203119678
+http://mxonlive.xyz/live/xap/206294.m3u8?e=1788250379&token=b66ca5678005aa7177c08f2678452c733432520d3abf4443290379a281da160a
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1788224869&token=10d50d61800e5b609eb55f4e55a028a6ad326774a35b7aa55f3248199fba58ec
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
@@ -230,7 +230,7 @@ http://mxonlive.xyz/live/xap/221258.m3u8?e=1788224869&token=6473cf252f56f5d2926a
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1788224869&token=e97f9514fdf1bfb189f282f702c10cd3a64ba2c109b568521f8ece8f2f2a98e5
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1788189057&token=db1ff46a9a6c180cbbf843badafebe0e9efea4c4453357b2bf0138b347e0a95c
+http://mxonlive.xyz/live/xap/66177.m3u8?e=1788250379&token=25eb0129f9e8103a339fba974817e3b86f6a1ba1920158a9d6783dee449273fd
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
 http://mxonlive.xyz/live/xap/221257.m3u8?e=1788224869&token=7f766c57cf023a50eb7a86f695cfeeedac12158497ac221f3edcc881a12f7c14
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select FHD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select FHD
@@ -409,7 +409,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-16492" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881561891020x576.jpg" group-title="Live Events", Nigeria vs Albani Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-5693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881642271020x576.jpg" group-title="Live Events", Men's & Women's Singles 1st Round | US Open 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16498" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881566501020x576.jpg" group-title="Live Events", Syria vs Ireland Live | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090540967" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg" group-title="Live Events", Mohali Kings vs Bathinda Royals - 31 Aug 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/master.m3u8?hdnea=exp=1788200436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=056dd89c67f58a38b987296a19b62f09e600bf00d5f74a6aa659870c04f14083
