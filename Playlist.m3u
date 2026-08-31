@@ -72,7 +72,7 @@ https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8?e=1784102563&u=ee5437
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="Bangla",NEXUS TV
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8?e=1784102571&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=61db2452abffc778eb75333c98c136a2
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Bangla",Global TV
-https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b36e6e9d0ee3e8ec8ddd9a8c61acf71
+http://116.204.149.16/globaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-name="Green TV HD" tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d" group-title="Bangla",Green TV HD
 https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangla",Channel S
@@ -210,7 +210,7 @@ http://mxonlive.xyz/live/xap/206587.m3u8?e=1788224869&token=33e8dc5b5f7e072ef498
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1788149237&token=e9e1cf5ce45bbea8c65bac87d2e5368e86020ea8e6377d04496b0b58c1ec9651
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
-http://mxonlive.xyz/live/xap/206289.m3u8?e=1788203103&token=bf4b14e72cbbeca011f8eefd959fb48225874d78ed12342412d47fcf2f3ecb87
+http://mxonlive.xyz/live/xap/206289.m3u8?e=1788224869&token=908aaac40f1713f989c432373383d795fd7e7dabef250c62ead28b841dab18f2
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1788224869&token=fe03e57fcb70f1e9c0a2195dd9b090d0618c7616976ca74d62231e2fea5c0134
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
@@ -266,7 +266,7 @@ http://mxonlive.xyz/live/xap/206315.m3u8?e=1788149237&token=4ea00c349969d5d08230
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max (TATAPLAY)
 http://mxonlive.xyz/live/xap/221259.m3u8?e=1788149237&token=50aabd0e9831762de52b813c0795c9251a2aa9d357684ea6b59bc1e46cc3196b
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max HD
-http://mxonlive.xyz/live/xap/66179.m3u8?e=1788149237&token=4e220b8626a20de1e72e796547267c751e7d42b9c19628a0ab54979a264248fb
+http://mxonlive.xyz/live/xap/66179.m3u8?e=1788224869&token=54a69e80b09435cc56d74bdb5ebe882aac86e9f9496c4cc2b610db3aae04d755
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max [FHD]
 http://mxonlive.xyz/live/xap/66179.m3u8?e=1788149237&token=4e220b8626a20de1e72e796547267c751e7d42b9c19628a0ab54979a264248fb
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
@@ -411,3 +411,5 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 #EXTINF:-1 tvg-id="tapmad-16293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880187141020x576.jpg" group-title="Live Events", Men's & Women's Singles 1st Round | US Open 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090540966" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817348238770_JPL_26_Indore-Hawks-vs-Pune-Peshwas_live_landscape_thumb.jpg" group-title="Live Events", Indore Hawks vs Pune Peshwas - 31 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/master.m3u8?hdnea=exp=1788169835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cd3795eba51c1b6609dcb48487eb2e31a8d7f820ae090129fe5ae06aede5ea9
