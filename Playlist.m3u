@@ -126,7 +126,7 @@ http://mxonlive.xyz/live/xap/150478.m3u8?e=1788333816&token=6645a41dabb3f9e55675
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
 http://mxonlive.xyz/live/xap/150483.m3u8?e=1788310887&token=3546abb4587ed25da5be9e21dda18e1376f4d4fd0613280548257f513175895d
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
-http://mxonlive.xyz/live/xap/26187.m3u8?e=1788333816&token=cf28949402c7f48043da7e36365dabc9ddedef22fd1a3af324f97cb801fba886
+http://mxonlive.xyz/live/xap/26187.m3u8?e=1788370759&token=ef3d0d3069a9cdbd8cf32d485c6877f69029a4dccbbaed40343d507b4f4e95d8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1788333816&token=95b360155c2761d99d7c5e3d71ca0f460330ace81c155d8f3ce570fcab1f5b96
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
@@ -238,11 +238,11 @@ http://mxonlive.xyz/live/xap/221257.m3u8?e=1788310887&token=eb239135d9f32dea26c0
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="INDIAN | MOVIES",IND: Star Gold 2
 http://mxonlive.xyz/live/xap/106133.m3u8?e=1788310887&token=477a99e92570281de3ec67c8b655130f0d954dbf56f236484cc72085dae9437c
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD HD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="INDIAN | MOVIES",IN: STAR GOLD HD (TATASKY)
-http://mxonlive.xyz/live/xap/112982.m3u8?e=1788310887&token=1119a77cf8fe1122c37f536168ba2ba950320632d21a6cdd46f2432987bcdfa7
+http://mxonlive.xyz/live/xap/112982.m3u8?e=1788370759&token=2c71687ed232188a9778f69988a736e64ee3b6329cff038e2132dab5581d1a3e
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures SD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures SD
 http://mxonlive.xyz/live/xap/221260.m3u8?e=1788310887&token=64a7a800dcae90cfa4a35aa95cb9fbaff90d02332846173c7d7a4c2595757712
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures HD
-http://mxonlive.xyz/live/xap/66181.m3u8?e=1788310887&token=818477d6bb5de65be5374d2a620c90d74b170c7ff55092b3512342433541accf
+http://mxonlive.xyz/live/xap/66181.m3u8?e=1788370759&token=b230ff8f1ac2cb528cc2b903f96bb24237aa744eb5d307111703a27299237133
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures [FHD]
 http://mxonlive.xyz/live/xap/66181.m3u8?e=1788310887&token=818477d6bb5de65be5374d2a620c90d74b170c7ff55092b3512342433541accf
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA FHD (TATASKY)
@@ -413,3 +413,5 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16543" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882448271020x576.jpg" group-title="Live Events", Ukraine vs Georgia Live | Socca World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16546" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882450761020x576.jpg" group-title="Live Events", Brazil vs USA Live | Socca World Cup 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
