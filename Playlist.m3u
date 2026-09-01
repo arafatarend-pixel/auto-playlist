@@ -411,3 +411,5 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 #EXTINF:-1 tvg-id="tapmad-16295" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881655651020x576.jpg" group-title="Live Events", Men's & Women's Singles 1st Round | US Open 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090541057" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023158/1787991155507882_JPL_26_Chennai-Strikers-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Live Events", Chennai Strikers vs Indore Hawks - 1 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/master.m3u8?hdnea=exp=1788258033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ea6236b54caa6f288ace3bfbbffb089005194e11b1b52362ba474660568056fb
