@@ -136,7 +136,7 @@ http://mxonlive.xyz/live/xap/153156.m3u8?e=1788333816&token=565a28e0d8e385e60ec2
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1788381641&token=aa55c287eca51de73c877d6721173a1dd6c8cf34053123775fd594a11f9b7ea9
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://fastshare1.com:80/live/25711345/late8airline/35713.ts
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1788405636&token=d17a98d4cce76e7fac17dde2e56a763b4391e40e253e7e61b6249b614d8da8be
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1788381641&token=78613289d090649f62ad4101cb260839070032c9a8e18de2b5d00a9a5f4befbd
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
@@ -170,13 +170,13 @@ http://mxonlive.xyz/live/xap/219689.m3u8?e=1788333816&token=2b1d1e6eef8f7bbd0097
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 http://mxonlive.xyz/live/xap/167590.m3u8?e=1788370759&token=4fa12d85638008f2762176e4f40c20bd93ae72f552850a65ae0c6553c0feacd9
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
-http://mxonlive.xyz/live/xap/167570.m3u8?e=1788390284&token=022b5edcf862f7c8518b17524443f88d2bdf15a6ec3ff27e67efd2014f668a59
+http://mxonlive.xyz/live/xap/167570.m3u8?e=1788405636&token=40a4c72951916f5d79b5723a6e4e04979f327e7c8cc20b26701e0bb004f27799
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
 http://mxonlive.xyz/live/xap/167571.m3u8?e=1788370759&token=151383acf44d33391f8b2d66a41124ce88d3e30d21d0641273a0f148c6433eea
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
 http://mxonlive.xyz/live/xap/167572.m3u8?e=1788333816&token=4e6b784cea1fccc418532fb5b1488418b3ba18375a031ab8837b9709011923ca
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5 HD
-http://mxonlive.xyz/live/xap/167580.m3u8?e=1788333816&token=7c0597f69d8092a6b6b40d52756d1d6c324c365fe369642bbe18b5de6b767037
+http://mxonlive.xyz/live/xap/167580.m3u8?e=1788405636&token=31a4444e9f834440f1b9e447007f15c3ce7e916d91eaf244e8fce852e2313d3c
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
 http://mxonlive.xyz/live/xap/167575.m3u8?e=1788381641&token=65aeafbafe3b4eb748a6afd234e7ecc228eb82c3f5e1453bb829487f490ec676
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
@@ -194,7 +194,7 @@ http://mxonlive.xyz/live/xap/238479.m3u8?e=1788390284&token=ad1aca2c45f794154ab5
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
 http://mxonlive.xyz/live/xap/206278.m3u8?e=1788390284&token=50a1119d0d3ebee5ad2816602384be4beb82642e1f2da439e02d4a3a3b0f512c
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
-http://mxonlive.xyz/live/xap/383184.m3u8?e=1788381641&token=53fe5aa5856e96c5f8899c04ca6f500329025060444bbea015bd9580fdda806f
+http://mxonlive.xyz/live/xap/383184.m3u8?e=1788405636&token=7f181f6d12cc7c694cb408d95fb5295d47fb395038a5dac23b78578f62599bfc
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1788333816&token=b8d071aa4a55b64da6f7e9807b7e448d387e761cbe145ea0463cd540a2841f89
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
@@ -411,3 +411,5 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 #EXTINF:-1 tvg-id="tapmad-16297" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882464341020x576.jpg" group-title="Live Events", Men's & Women's Singles 1st Round | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090541190" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023158/1787992407824882_JPL_26_Bengal-Indians-vs-Gujarat-Gladiators_live_landscape_thumb.jpg" group-title="Live Events", Bengal Indians vs Gujarat Gladiators - 2 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/master.m3u8?hdnea=exp=1788344437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=43d7ad37a5aba719c291d8dab2f9d6c1c1057b167d81c15559d0e683612ee70c
