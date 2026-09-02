@@ -210,7 +210,7 @@ http://mxonlive.xyz/live/xap/206587.m3u8?e=1788405636&token=d64de0880cd76c56e058
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1788390284&token=222221bf71ad3f58266d99db6fd39b12bd5f0ff33be1b7661d86ae76a86d1b5a
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
-http://mxonlive.xyz/live/xap/206289.m3u8?e=1788333816&token=390deb205c388b9f41b4e8d29de157084b09c5a9e793d49d5104f49e6c1b8853
+http://mxonlive.xyz/live/xap/206289.m3u8?e=1788405636&token=77725eb18eea09a3da0228edd1db8553d509ac9010461a2dd5b5ce5241771d4d
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1788390284&token=ad9758f0b76fa5e92326f17a72cf0a8ddeee996bb94182d75c2fd9cee19012b6
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
@@ -409,9 +409,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-16549" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882452911020x576.jpg" group-title="Live Events", India vs England Live | Socca World Cup 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16552" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17883272781020x576.jpg" group-title="Live Events", Costa Rica vs Bulgaria Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541196" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023292/1788179695909802_Punjan_T20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg" group-title="Live Events", Mohali Kings vs Ludhiana Lions - 2 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/master.m3u8?hdnea=exp=1788353429~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a664e584daafd99071ca5678ac88c4f56250f5f70bed94f8336615d864864edc
-#EXTINF:-1 tvg-id="sonyliv-1090541190" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023158/1787992407824882_JPL_26_Bengal-Indians-vs-Gujarat-Gladiators_live_landscape_thumb.jpg" group-title="Live Events", Bengal Indians vs Gujarat Gladiators - 2 Sep 2026 | JITO Premier League 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541190" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023297/178824727602054_JPL_26_Indore-Hawks-vs-Chennai-Strikers_live_landscape_thumb.jpg" group-title="Live Events", Indore Hawks vs Chennai Strikers - 2 Sep 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/master.m3u8?hdnea=exp=1788344437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=43d7ad37a5aba719c291d8dab2f9d6c1c1057b167d81c15559d0e683612ee70c
