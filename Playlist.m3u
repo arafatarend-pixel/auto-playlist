@@ -212,7 +212,7 @@ http://mxonlive.xyz/live/xap/206287.m3u8?e=1788467913&token=6ed7d10468b01c8dc117
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://mxonlive.xyz/live/xap/206289.m3u8?e=1788492140&token=6771a230a50e355bebb143f6d5a44ba99561cc5eea09f9bfb63bc6432be28aac
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
-http://mxonlive.xyz/live/xap/206291.m3u8?e=1788476548&token=64cabaea62e00cd412d22d9311029ca1abdeca5c06ea82ed28c0adf4544d21e9
+http://mxonlive.xyz/live/xap/206291.m3u8?e=1788492140&token=88d617dff69eb415d27cef02c40d7ac688333a8093d1637560dc34076dab9759
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1788457207&token=86760537b423b1523de457df774c2efe9b73b1ff2be84d4cc698e4852993d1c9
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
@@ -409,5 +409,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090541268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Live Events", Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/master.m3u8?hdnea=exp=1788439834~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b6c81f7fee586720f5474a401328e4e60c7d97bbea17c5d8c87fc257d3ca0fc3
 #EXTINF:-1 tvg-id="sonyliv-1090541267" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Live Events", Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788429034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2d45b8c1d70307107551221020fcac50079d38a7f45c828407daa07faec3e044
