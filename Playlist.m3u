@@ -200,7 +200,7 @@ http://mxonlive.xyz/live/xap/206282.m3u8?e=1788441579&token=79cd105b5e479589e926
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
 http://mxonlive.xyz/live/xap/206283.m3u8?e=1788441579&token=e05abcb0f9661f9f21892bec9a038389d959980d8f17f86ce494f102f3f6af15
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
-http://mxonlive.xyz/live/xap/206285.m3u8?e=1788424164&token=3f9c24bd6f2d589312ecc7ea9a6f3f3076511bfd08f99f44a07481c17d5096bb
+http://mxonlive.xyz/live/xap/206285.m3u8?e=1788492140&token=bb57613b0374edee7aa82e04baef2e0e39a41af04a9eada51bcc3c2c6f8ee1d9
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
 http://mxonlive.xyz/live/xap/383183.m3u8?e=1788441579&token=0e016f8d5c943e5feff770c22467e54d57ab4a77faf63355d96d3f8c7a96b081
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
@@ -228,11 +228,11 @@ http://mxonlive.xyz/live/xap/206296.m3u8?e=1788457207&token=dd61e78cb91a459847d6
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1788441579&token=ab181e7b8abebc989feedf20b4c12158fd8b2e4e80e1c946804947db005a4937
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1788424164&token=cca2144271c3ad839d5c724b5a4379cf27525df1b425d998528d4dbdaffa0d70
+http://mxonlive.xyz/live/xap/66177.m3u8?e=1788492140&token=8ce206921aaa6cad836e27a07e3197d4e700d7ef1a3ea64088710a29bd292685
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1788441579&token=3ad6e90eda070af3d5f4c91978ac753be4e004047b88a55fe602977a6209232c
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
-http://mxonlive.xyz/live/xap/221257.m3u8?e=1788424164&token=4698d8ebdb0b07e10d94f3fec90744f5183a298100762286e965c84047e50adc
+http://mxonlive.xyz/live/xap/221257.m3u8?e=1788492140&token=2695e6116f8d47ea18004790af8e77889b77622dd8b29e651d69e7994c8b9995
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select FHD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select FHD
 http://mxonlive.xyz/live/xap/221257.m3u8?e=1788441579&token=8c16a7820784ae499bbef3aa1c7d73934b140e51e8af73c0a443e4c26a69758b
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="INDIAN | MOVIES",IND: Star Gold 2
@@ -411,5 +411,5 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Live Events", Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/master.m3u8?hdnea=exp=1788439834~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b6c81f7fee586720f5474a401328e4e60c7d97bbea17c5d8c87fc257d3ca0fc3
-#EXTINF:-1 tvg-id="sonyliv-1090541267" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Live Events", Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788429034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2d45b8c1d70307107551221020fcac50079d38a7f45c828407daa07faec3e044
+#EXTINF:-1 tvg-id="sonyliv-1090541267" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256657160994_JPL_26_Golden-Eagles-Delhi-vs-Mumbai-Sobo-Stars_live_landscape_thumb.jpg" group-title="Live Events", Golden Eagles Delhi vs Mumbai Sobo Stars - 3 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788445233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c279b2df132a1373ee65bbfb1376e40309d9881904a89c151b898431b4337ff5
