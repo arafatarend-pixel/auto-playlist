@@ -132,7 +132,7 @@ http://mxonlive.xyz/live/xap/150480.m3u8?e=1788441579&token=724c6f56bc0596615ceb
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1788441579&token=299bdf15136c65cdb4c2469cfb3c071b3e4cd26e54e2f0c465f214e98e2f67d3
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
-http://mxonlive.xyz/live/xap/153156.m3u8?e=1788405636&token=018217bed4bb30eca02a40cc8912a55186f0e4726f98f34856844053dab6cfb7
+http://mxonlive.xyz/live/xap/153156.m3u8?e=1788492140&token=5e0c5c2ae07d12d032988a015df8635d2234527c4c9b57bb911a2fbe81a94b7e
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1788441579&token=96d5642266864ab53d21e7a11173fd39cba2319825471f5440b9db64f18d4138
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
@@ -166,7 +166,7 @@ http://mxonlive.xyz/live/xap/167568.m3u8?e=1788441579&token=02f68fab7141e1f632c1
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS",PK: TEN SPORTS
 http://mxonlive.xyz/live/xap/167569.m3u8?e=1788441579&token=94feba8c138b768f35637a7cd443fb1b8ed3ba04f76d8c7727e82ca638dff708
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
-http://mxonlive.xyz/live/xap/219689.m3u8?e=1788405636&token=2911c443970f21f0f7cb1322f9b752bb092e4238645ba959ea63419c0bee35da
+http://mxonlive.xyz/live/xap/219689.m3u8?e=1788492140&token=aecaeffa9c0abd020a94dcf85ee926bd53a4c5b3ffab9ad020e950c279993ded
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
@@ -174,9 +174,9 @@ http://mxonlive.xyz/live/xap/167570.m3u8?e=1788441579&token=02233c03291b18f308df
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
 http://mxonlive.xyz/live/xap/167571.m3u8?e=1788441579&token=1755bac5e09c79c177135d73423bf2117201fd5b254ecd72625ac4881cc14604
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
-http://mxonlive.xyz/live/xap/167572.m3u8?e=1788405636&token=6307deeb2012b28379332d47e92f51a91b29d72b67b63b68fca86a7970db1fc7
+http://mxonlive.xyz/live/xap/167572.m3u8?e=1788492140&token=333dd451bb82de3312eaa44a3f44716d24e461ff4496886fa28486c660f97f4d
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5 HD
-http://mxonlive.xyz/live/xap/167580.m3u8?e=1788405636&token=31a4444e9f834440f1b9e447007f15c3ce7e916d91eaf244e8fce852e2313d3c
+http://mxonlive.xyz/live/xap/167580.m3u8?e=1788492140&token=5db953a4f2867129377cfa555f8c0de32f017e1e490fde1f5c32c169b4f4b453
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
 http://mxonlive.xyz/live/xap/167575.m3u8?e=1788441579&token=6a0b09e1e032877248a266e81e9af80aa3f73f6dacdd82e7fe2ad5eb0094a6f6
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
@@ -262,7 +262,7 @@ http://mxonlive.xyz/live/xap/66186.m3u8?e=1788476548&token=61f1cd1000db492363e5b
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX
 http://mxonlive.xyz/live/xap/206315.m3u8?e=1788441579&token=ba8d30bc08ca08d2ffec4e5ad66b71347eb81c427701926d5757a21121a1ba2e
 #EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX FHD
-http://mxonlive.xyz/live/xap/206315.m3u8?e=1788405636&token=91d8ec36873413ce8d935a6c90294d993704a3ad99379a8e2d54f0e8c79f2674
+http://mxonlive.xyz/live/xap/206315.m3u8?e=1788492140&token=e5ff7ae95d77def874352d09ef25eaf93928a92b60de7006f7f49ffe34cb1555
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max (TATAPLAY)
 http://mxonlive.xyz/live/xap/221259.m3u8?e=1788441579&token=8b13942aef79c147cc773eb3ed1218c35713336e26263722e2ed2418a7c1de7f
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max HD
@@ -409,7 +409,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-15799" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882574311020x576.jpg" group-title="Live Events", Trinbago Knight Riders vs Antigua and Barbuda Falcons | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16299" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882633841020x576.jpg" group-title="Live Events", Men's & Women's Singles 2nd Round | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090541267" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Live Events", Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788429034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2d45b8c1d70307107551221020fcac50079d38a7f45c828407daa07faec3e044
