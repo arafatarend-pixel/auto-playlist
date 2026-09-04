@@ -224,7 +224,7 @@ http://mxonlive.xyz/live/xap/206294.m3u8?e=1788562844&token=b975c6152b2eaede9890
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1788554240&token=6bcae63086cdeeecbbf7ea4cd8db8bbdcf5af2d0c2c30a5cb4c12c27150794dd
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
-http://mxonlive.xyz/live/xap/206296.m3u8?e=1788527923&token=df5a28e766dfac4debc63bc578a06c035b0d5884e6a879e8aaac4b5e13dfc322
+http://mxonlive.xyz/live/xap/206296.m3u8?e=1788578416&token=6aefe031368101343939eb71524a8b576c7ad2917bd78a9738fa6085a719625d
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1788527923&token=021fd7fed98233934a0c0d3e11d9dda137da34e382d62c9f00305d77770679cc
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
@@ -411,3 +411,5 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 #EXTINF:-1 tvg-id="tapmad-16301" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884403161020x576.jpg" group-title="Live Events", Men's & Women's Singles 2nd Round | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090541354" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788465934799679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb.jpg" group-title="Live Events", Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/master.m3u8?hdnea=exp=1788517232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a41fd65e130b717ba1013332ef4128b2337f9a3ff79d37f6feb297908d19df29
