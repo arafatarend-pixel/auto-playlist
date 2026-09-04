@@ -121,7 +121,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908680.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR JALSHA MOVIES.png", ┃BANGLA┃ STAR JALSHA MOVIES
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908675.m3u8
-
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS Cartoon",IN: Cartoon Network
 http://mxonlive.xyz/live/xap/150478.m3u8?e=1788597167&token=8bbac2a8f466597c0484659f5df87e8b6a882d6724178864390363d46c97322f
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
@@ -152,7 +151,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="KIDS Cartoon",Mr Bean Animated
 http://mxonlive.xyz/live/xap/389692.m3u8?e=1788613952&token=bab35da1201a5f79a9c68553ba625182e5dc59846a9a8d0dabd1152b13d12ec0
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T SPORTS
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="SPORTS",Ten Cricket
@@ -226,7 +224,7 @@ http://mxonlive.xyz/live/xap/206294.m3u8?e=1788562844&token=b975c6152b2eaede9890
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1788554240&token=6bcae63086cdeeecbbf7ea4cd8db8bbdcf5af2d0c2c30a5cb4c12c27150794dd
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
-http://mxonlive.xyz/live/xap/206296.m3u8?e=1788578416&token=6aefe031368101343939eb71524a8b576c7ad2917bd78a9738fa6085a719625d
+http://mxonlive.xyz/live/xap/206296.m3u8?e=1788629042&token=44300ff2dc290580d894701b77a0a626d64f34d9e04ba9eb7ebbc2c1b412784d
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1788613952&token=b0b04abfb1eba8f19a632a151a86942cb2095a37e35c5cc1aa28513e81ade1b2
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
@@ -275,4 +273,13 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1788613952&token=cbf76c83b693ac9b663ca
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1788613952&token=484b448c352dd140f85c3a914ea54af59c521fdf1b516ebc6b89f4c07f888cf8
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788613952&token=584c28dfb8bdaf5786ef441f07cef36537038dd861c454ba63e859cf9f936b11
-
+#EXTINF:-1 tvg-id="tapmad-16302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884404471020x576.jpg" group-title="Live Events", Men's & Women's Singles 3rd Round | US Open 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16896" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296761020x576.jpg" group-title="Live Events", Al-Shabab vs Al-Hilal | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296021020x576.jpg" group-title="Live Events", Al-Ahli vs Al-Riyadh | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885130561020x576.jpg" group-title="Live Events", Ukraine vs Australia Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16938" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885300491020x576.jpg" group-title="Live Events", Betis vs Real Madrid | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
