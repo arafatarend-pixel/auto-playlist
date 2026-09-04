@@ -202,7 +202,7 @@ http://mxonlive.xyz/live/xap/206283.m3u8?e=1788527923&token=389d87de8636bd74b91a
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1788492140&token=bb57613b0374edee7aa82e04baef2e0e39a41af04a9eada51bcc3c2c6f8ee1d9
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
-http://mxonlive.xyz/live/xap/383183.m3u8?e=1788527923&token=793ee5bc1efbe2b01c85a38ed5b48ef1f94c8a7f09bab81dfd9c76531567836a
+http://mxonlive.xyz/live/xap/383183.m3u8?e=1788562844&token=08794d15a10c96acf65f90d2c7885add5e9244c60a479ae26f2b5698576f3d19
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1788527923&token=0d912b862fd4ef5d1712cc98361f047d0221f4b99aba16882318d710c83d8698
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
@@ -296,7 +296,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png",[BD] Toffee TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png",[BD] Ekhon TV
-http://mxonlive.xyz/live/xap/245943.m3u8?e=1788554240&token=d93dccb9034d31fbac66aa1404f0e46ed1f68c56005c01f58fd83e326a22610a
+http://mxonlive.xyz/live/xap/245943.m3u8?e=1788562844&token=2b602620b6e6d6b8977b4290d28a87f480e7ebcf1a18f88c57878cdbe9cc6518
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png",[BD] Global TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/globaltv/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png",[BD] Toffee Movies
