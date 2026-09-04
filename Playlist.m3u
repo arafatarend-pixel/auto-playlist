@@ -194,7 +194,7 @@ http://mxonlive.xyz/live/xap/238479.m3u8?e=1788543282&token=788fe898962d63dc1d2e
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
 http://mxonlive.xyz/live/xap/206278.m3u8?e=1788527923&token=b64315b9df31b4792fa197aabf2db46a7494d38fa7f873e1d4737d6ddff0e1b3
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
-http://mxonlive.xyz/live/xap/383184.m3u8?e=1788562844&token=f0a6aefde46ea1556432dd9b78ebb8e1e6594975f99a45a89c2d18328ddcecaf
+http://mxonlive.xyz/live/xap/383184.m3u8?e=1788597167&token=385cfeb520290088ad499c9ccfb22311ca6ebe0821c837ea96f87a6ed883a2d4
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1788527923&token=ea70dcb3a4fcc4574db081e7981c1df3e219ebe94d678beec763508c1913cabc
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
@@ -409,9 +409,5 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-16915" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884400071020x576.jpg" group-title="Live Events", 3K OCR - Beijing, China Live | UIPM 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541355" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" group-title="Live Events", Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/master.m3u8?hdnea=exp=1788528040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3257c21b0a4aa86bbabf3d1e5687237b84113f28e89a4ea00f32f57aa1d0d110
-#EXTINF:-1 tvg-id="sonyliv-1090541354" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498900551134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb_rev.jpg" group-title="Live Events", Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026 | JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/master.m3u8?hdnea=exp=1788517232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a41fd65e130b717ba1013332ef4128b2337f9a3ff79d37f6feb297908d19df29
