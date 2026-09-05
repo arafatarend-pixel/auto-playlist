@@ -142,9 +142,9 @@ http://mxonlive.xyz/live/xap/150482.m3u8?e=1788720577&token=418401af79e0ab4db973
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
 http://mxonlive.xyz/live/xap/153156.m3u8?e=1788728254&token=68c411a2dae338d241a4fb2e00cae01b0f8e7350db56ab9c65a21c4067fa47d5
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
-http://mxonlive.xyz/live/xap/76723.m3u8?e=1788702119&token=ceb0a55d8c1e804c02023fd2f0f0a8d594a786473460dd29eb5ab95cef272022
+http://mxonlive.xyz/live/xap/76723.m3u8?e=1788728254&token=89de5d1fb0418c30045858cc9f5911ff9805c52cc05d72f7e995df9963906af3
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1788720577&token=507c60e26bd761b6204c99ec5da7655b5b3197a1a78ba65af39dc59abc24ba0b
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1788728254&token=2275cfd652f64b4293374569c4887719fa8051e9845ca6c78210827953d46b58
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1788728254&token=f730d2e9ac94de7aa8fbde150616b3ae7ef2cd24fac3f65bc4aa1dae7af6974f
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
