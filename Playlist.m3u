@@ -188,7 +188,7 @@ http://mxonlive.xyz/live/xap/167580.m3u8?e=1788671954&token=3543ba004611945953aa
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
 http://mxonlive.xyz/live/xap/167575.m3u8?e=1788689136&token=fd6e874d81e617f571a89fd56f4d6f8d09ee4bd3da8d310d6b2129d7cd3f04c3
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
-http://mxonlive.xyz/live/xap/167577.m3u8?e=1788689136&token=b6b09e9980880dc67bc634fdd0e34a5a597291308b8716b7d8810fbe2add7a9e
+http://mxonlive.xyz/live/xap/167577.m3u8?e=1788702119&token=f254391e2f5cdbe5635de2faa7db051a9dac053d7cd8efa83a955b6fec36f6b0
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 1
 http://mxonlive.xyz/live/xap/167578.m3u8?e=1788689136&token=f8bacb07fe9aec1b4ffea8a0294552d6bd988d7d4ed8b24b042962ca0d23d94e
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 2
@@ -260,7 +260,7 @@ http://mxonlive.xyz/live/xap/206307.m3u8?e=1788689136&token=8ae9f152fb3e80eb66a6
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA [FHD]
 http://mxonlive.xyz/live/xap/206307.m3u8?e=1788671954&token=c11294f83bddaeb855e89ee3fc6134f9bf52e73c1e94c63814e43ba4ff5bedef
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
-http://mxonlive.xyz/live/xap/206268.m3u8?e=1788655158&token=73e344c2a99b922c126be7ed9426f9f0bbed7191bfd028ca40206e96079d4968
+http://mxonlive.xyz/live/xap/206268.m3u8?e=1788702119&token=c0712416ef5d4d860680482e3daa29ce1e425405683aa0774a87b8146ba8b56c
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
 http://mxonlive.xyz/live/xap/66184.m3u8?e=1788639820&token=38f0283def74c545b3e68f7b5364c7c54f3b20797f810264fb4b002c8a32f40a
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
