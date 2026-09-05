@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629845642.png" group-title="Bangla",BTV
+https://btv.hridoytv-channel.workers.dev/btv.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg" group-title="Bangla",BTV News
 https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" group-title="Bangla",Somoy TV
@@ -30,7 +32,7 @@ http://fastshare1.com:8080//live/25711345/late8airline/423.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png" group-title="Bangla",News 24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55" group-title="Bangla",Channel 24
-http://fastshare1.com:8080//live/25711345/late8airline/391.ts
+https://stream.ottplus.live/live/channel_24_abr/live/channel_24_720/chunks.m3u8
 #EXTINF:-1 tvg-id="97000" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="Bangla",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8?e=1784102531&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d17e86aa2e6745043e84e0547d4fb69a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="Bangla",Gazi TV
