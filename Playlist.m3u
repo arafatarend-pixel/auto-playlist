@@ -268,7 +268,7 @@ http://mxonlive.xyz/live/xap/66185.m3u8?e=1788689136&token=54542aef8ebeb82f3230f
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
 http://mxonlive.xyz/live/xap/66186.m3u8?e=1788648556&token=27281686b2fa7c8b3bef5d3dc631ca217d00b9de80715dd06d958ab9ee38cab0
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX
-http://mxonlive.xyz/live/xap/206315.m3u8?e=1788689136&token=bffe49d1d75f2c7b6fe2f4440184f883bff05762479dad673d73a0f74be845e5
+http://mxonlive.xyz/live/xap/206315.m3u8?e=1788702119&token=6c566742cf0a12eef2f93c65317b564ff4e8b23fc8bd144bbf2260739fefd4b9
 #EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX FHD
 http://mxonlive.xyz/live/xap/206315.m3u8?e=1788655158&token=da3403d7769e16a3e2f3f684a4d69863d9cf1102a5bc07b1939e2a8084d29a08
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max (TATAPLAY)
@@ -289,6 +289,8 @@ https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17074" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885279751020x576.jpg" group-title="Live Events", Skate Men Final - Street Plaza Live | Extreme Barcelona 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16898" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885297511020x576.jpg" group-title="Live Events", Al-Taawoun vs Al Fateh | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541487" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418830046255_PT20_Jalandhar-Warriors-vs-Mohali-Kings_live_landscape_thumb.jpg" group-title="Live Events", Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/master.m3u8?hdnea=exp=1788643237~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=53510d19bc5669ea8a25475c60fc54fac5dc689ab50a4c04f5d1048e2db47b37
 #EXTINF:-1 tvg-id="sonyliv-1090541528" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023522/1788600066961184_JPL_Final_Pune-Peshwas-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Live Events", Pune Peshwas vs Rajasthan Rajvansh - Final - 5 Sep 2026 | JITO Premier League 2026
