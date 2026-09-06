@@ -144,7 +144,7 @@ http://mxonlive.xyz/live/xap/153156.m3u8?e=1788815187&token=785c3c7ed1c0e9f56990
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1788789541&token=4af4b140c4427d51fee5cea72bb3607ae0edf0c8ebd3a5dcfde8f166033ae6b7
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1788807249&token=5f3b7962535ad85cbc60523f417a90b09a07f0c623487d93af040fe69c35a58c
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1788815187&token=7cf616b5c3f08fbcc10862ddec98b73baa53c5c2e8b0f8f527fac1b0e5cd4dc8
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1788815187&token=5e7b1e32ba78c1d751f25201291eb3ff7248c6568547b74866c0fa59fe890501
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
@@ -224,7 +224,7 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1788807249&token=f5fc6cb8d5f0a1399a0b
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1788789541&token=0cc50fa356c5c4e341c083f93e41835bddefddb0a6a22eca2540acaeee67c1a3
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1788800007&token=20d5923e6c7c82cbfc1db786a11f924585673222043f1925ca129ce9998fb092
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1788815187&token=2139a826fb2fa4d8bbb731c03119abd9dd2d06069f839fdff07912952173ffcc
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1788789541&token=435bd24da84e170ddead4a19bcd608da56442ee0cd191cfea31f7cead6e0c50b
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
