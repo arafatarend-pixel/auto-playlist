@@ -138,13 +138,13 @@ http://mxonlive.xyz/live/xap/26187.m3u8?e=1788741544&token=a25e17daeeed348c7cace
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1788741544&token=fb9e4b7212fb2f1afbf3034cd5af6bbbfbf8f2aa26daaddae4806044114491df
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
-http://mxonlive.xyz/live/xap/150482.m3u8?e=1788720577&token=418401af79e0ab4db9738f4ee4c326a187ce29b16ced06b0ec92205d1c8cd68f
+http://mxonlive.xyz/live/xap/150482.m3u8?e=1788807249&token=0cc50a5023d64cd202ed38ba52f1368facc78d70f0e50532f1c2fd7e3372b457
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
 http://mxonlive.xyz/live/xap/153156.m3u8?e=1788741544&token=12ec25047d9545cc2bd675ee4af9f6634b2543301047a5b5a8041278c48726fb
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1788789541&token=4af4b140c4427d51fee5cea72bb3607ae0edf0c8ebd3a5dcfde8f166033ae6b7
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1788759311&token=84b5cb3f9fc16cb11ea041810aa51da041420f8189c70d070deb8cb8a66658fc
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1788807249&token=5f3b7962535ad85cbc60523f417a90b09a07f0c623487d93af040fe69c35a58c
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1788728254&token=f730d2e9ac94de7aa8fbde150616b3ae7ef2cd24fac3f65bc4aa1dae7af6974f
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
@@ -220,7 +220,7 @@ http://mxonlive.xyz/live/xap/206287.m3u8?e=1788759311&token=bc2dfe1b5e8d0401276e
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://mxonlive.xyz/live/xap/206289.m3u8?e=1788789541&token=d5bf80753a23bab2b5e533f06f7540ddfb3eace3caf3f32b6e390e695dca5a4e
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
-http://mxonlive.xyz/live/xap/206291.m3u8?e=1788789541&token=2e5c15a6e2f6dba5a2bb653cdb0ddce8251718755683eb20d7ef37a8dd524268
+http://mxonlive.xyz/live/xap/206291.m3u8?e=1788807249&token=f5fc6cb8d5f0a1399a0bcd172d18ec2a852c099b6f2ed9c60ce9b6b813b5d24d
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1788789541&token=0cc50fa356c5c4e341c083f93e41835bddefddb0a6a22eca2540acaeee67c1a3
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
@@ -283,11 +283,9 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1788759311&token=967c3f5be5ac3d9a84e1d
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788759311&token=418551de82808856ebadfbb650e8529f67af4100f63f90a4c04d0ebe80390b8e
 #EXTINF:-1 tvg-id="tapmad-16306" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725131020x576.jpg" group-title="Live Events", Men's & Women's Singles | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16943" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885305871020x576.jpg" group-title="Live Events", Alaves vs Osasuna | LaLiga 2026/27
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16944" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885306571020x576.jpg" group-title="Live Events", Malaga vs Levante | LaLiga 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17086" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885288331020x576.jpg" group-title="Live Events", Scootering Men Final - Central Plaza Live | Extreme Barcelona 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17052" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885712691020x576.jpg" group-title="Live Events", Guyana Amazon Warriors Women vs Jamaica Empress Women | Women's Caribbean Premier League 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16654" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886464861020x576.jpg" group-title="Live Events", Brazil vs Germany | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15803" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885697191020x576.jpg" group-title="Live Events", Guyana Amazon Warriors vs St Kitts and Nevis Patriots | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16945" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885307861020x576.jpg" group-title="Live Events", Espanyol vs Sevilla | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
