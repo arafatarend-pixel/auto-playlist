@@ -142,7 +142,7 @@ http://mxonlive.xyz/live/xap/150482.m3u8?e=1788720577&token=418401af79e0ab4db973
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
 http://mxonlive.xyz/live/xap/153156.m3u8?e=1788741544&token=12ec25047d9545cc2bd675ee4af9f6634b2543301047a5b5a8041278c48726fb
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
-http://mxonlive.xyz/live/xap/76723.m3u8?e=1788776774&token=116ce09d6c41e62958c1d1da6a11c1af3d5652a6cd82a898c5dc216fdbf3acf3
+http://mxonlive.xyz/live/xap/76723.m3u8?e=1788789541&token=4af4b140c4427d51fee5cea72bb3607ae0edf0c8ebd3a5dcfde8f166033ae6b7
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
 http://mxonlive.xyz/live/xap/153175.m3u8?e=1788759311&token=84b5cb3f9fc16cb11ea041810aa51da041420f8189c70d070deb8cb8a66658fc
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
@@ -248,7 +248,7 @@ http://mxonlive.xyz/live/xap/106133.m3u8?e=1788776774&token=b05c54643fc6e2a3cf8f
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD HD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="INDIAN | MOVIES",IN: STAR GOLD HD (TATASKY)
 http://mxonlive.xyz/live/xap/112982.m3u8?e=1788776774&token=1cd12b26ea88932de684f524323424b8bd5b79bae9a27ed57d0366bae15d071c
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures SD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures SD
-http://mxonlive.xyz/live/xap/221260.m3u8?e=1788776774&token=e540f11d395abb81567db444184ff66ed13261cc3158a35314da4532ad588465
+http://mxonlive.xyz/live/xap/221260.m3u8?e=1788789541&token=06dc549708943115f620b6d4124a23800934564bb0265d1da84a522505c70baa
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures HD
 http://mxonlive.xyz/live/xap/66181.m3u8?e=1788712501&token=b1bc116020d6821dad6aa8ba66568074f2fd0adfe29e8d22a8ec54e3e8f408d7
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures [FHD]
@@ -268,7 +268,7 @@ http://mxonlive.xyz/live/xap/66185.m3u8?e=1788776774&token=7af44431b0e91d9656d47
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
 http://mxonlive.xyz/live/xap/66186.m3u8?e=1788734727&token=95003ce418245c0b837eaeccf3eda7ff4becb7f8f0345456afa24224df481a1f
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX
-http://mxonlive.xyz/live/xap/206315.m3u8?e=1788702119&token=6c566742cf0a12eef2f93c65317b564ff4e8b23fc8bd144bbf2260739fefd4b9
+http://mxonlive.xyz/live/xap/206315.m3u8?e=1788789541&token=ea579c4004b14b54e741c8cca30ba540ad41c170271f8905fa3c7e577259808f
 #EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX FHD
 http://mxonlive.xyz/live/xap/206315.m3u8?e=1788741544&token=c142f833d610b8cdb7aadc4252fc69a845d6f18545c3a34661e0e86dad07de12
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max (TATAPLAY)
@@ -285,11 +285,13 @@ http://mxonlive.xyz/live/xap/66187.m3u8?e=1788759311&token=418551de82808856ebadf
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17080" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885285131020x576.jpg" group-title="Live Events", BMX Women UCI HC Final - Central Plaza Live | Extreme Barcelona 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17052" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885712691020x576.jpg" group-title="Live Events", Guyana Amazon Warriors Women vs Jamaica Empress Women | Women's Caribbean Premier League 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541545" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333199816860_ENGW_vs_IREW_3odi_landscape.jpg" group-title="Live Events", 3rd ODI - 6 Sep 2026 | Ireland Women's Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/master.m3u8?hdnea=exp=1788708033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=056b1c8ae14925409f0bee17da645e13147990ee83bd38f8f8343c418503641a
+https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/master.m3u8?hdnea=exp=1788724233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6630829b15727ec134b76a32aa5e0dca05002760c45de8ea3a09e9ffa9fbb01a
 #EXTINF:-1 tvg-id="sonyliv-1090541651" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023497/1788536600255108_VCL26_Auction_live_landscape_thumb.jpg" group-title="Live Events", Auction - 6 Sep 2026 | Volleyball Championship League 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/master.m3u8?hdnea=exp=1788720632~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8eb5aa3cf598a9df455891a29ec4f2f0e1a486531c7791695e305379a5fe5b4e
 #EXTINF:-1 tvg-id="sonyliv-1090541579" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023401/1788419688654373_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_live_landscape_thumb.jpg" group-title="Live Events",  Ludhiana Lions vs Fazilka Falcons - 6 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/master.m3u8?hdnea=exp=1788715235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8e508917d6e04e503faf12aeba5d0a16f17156e01029383f6fa32628d448687d
 #EXTINF:-1 tvg-id="sonyliv-1090541532" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341923917287_DP-World-2026-Omega-European-Masters_Day4_landscape_thumb.jpg" group-title="Live Events", Omega European Masters - Day 4 - 6 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/master.m3u8?hdnea=exp=1788709829~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8e621396fa01a8fc1b2aa40b07ecf4e6a316b96b90d474f209fdabd043801ada
+https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/master.m3u8?hdnea=exp=1788724240~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=59d6d9330ea99187df18e7c272fda72e55c3798f3f0dfbbc208154142a2906c6
