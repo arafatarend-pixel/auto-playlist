@@ -202,7 +202,7 @@ http://mxonlive.xyz/live/xap/238479.m3u8?e=1788671954&token=6fcce69fd0b4926746ae
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
 http://mxonlive.xyz/live/xap/206278.m3u8?e=1788671954&token=97c4b86c13266f0a8472907ce4957caca1fb35dd3966e5ea31e84951752d9546
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
-http://mxonlive.xyz/live/xap/383184.m3u8?e=1788671954&token=7aa95cbc84ddb02ddb59315c421de74aa467737f5544bfc9104d924626504c8b
+http://mxonlive.xyz/live/xap/383184.m3u8?e=1788734727&token=b4d996b33b25194ebf744a6538abb4fd82a94188282084cf57563cb7e6f8cfa4
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1788734727&token=c5f0f1c1a741ccc720f01eac826cf14de1194e65c55ac0f7682e8839227fec41
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
@@ -260,9 +260,9 @@ http://mxonlive.xyz/live/xap/206307.m3u8?e=1788689136&token=8ae9f152fb3e80eb66a6
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA [FHD]
 http://mxonlive.xyz/live/xap/206307.m3u8?e=1788671954&token=c11294f83bddaeb855e89ee3fc6134f9bf52e73c1e94c63814e43ba4ff5bedef
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
-http://mxonlive.xyz/live/xap/206268.m3u8?e=1788702119&token=c0712416ef5d4d860680482e3daa29ce1e425405683aa0774a87b8146ba8b56c
+http://mxonlive.xyz/live/xap/206268.m3u8?e=1788734727&token=bf380404ea6035b56acabd7e232919d26f773a54cb4360ca9f43e78d4e96ef28
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
-http://mxonlive.xyz/live/xap/66184.m3u8?e=1788728254&token=45f2e374fd2fdd7051bdf35e717826bb835166620d418a156da4623611a88356
+http://mxonlive.xyz/live/xap/66184.m3u8?e=1788734727&token=d2e25d90666d49e506c91fe8d88a34c19d4383823901b39aef20b54deb73fa2c
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
 http://mxonlive.xyz/live/xap/66185.m3u8?e=1788689136&token=54542aef8ebeb82f3230f0e4b86c72f97defc64de97a19737a368c726704edd0
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
@@ -283,3 +283,5 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1788689136&token=8a91d3c16e19e6b759513
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788689136&token=10b5ff0f4a1ddf8437a56caeafda535c593bdcefbecea9cdf8ab69cbbd94d332
 #EXTINF:-1 tvg-id="tapmad-16305" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885717061020x576.jpg" group-title="Live Events", Men's & Women's Singles 3rd Round | US Open 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-15802" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885687511020x576.jpg" group-title="Live Events", Barbados Tridents vs Trinbago Knight Riders | Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
