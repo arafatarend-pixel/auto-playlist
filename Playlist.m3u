@@ -144,11 +144,11 @@ http://mxonlive.xyz/live/xap/153156.m3u8?e=1788824006&token=d85ff8cf4e6e7cb93ce8
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1788789541&token=4af4b140c4427d51fee5cea72bb3607ae0edf0c8ebd3a5dcfde8f166033ae6b7
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1788824006&token=034327aae8c46d7f20f00fec47917784c9c3354dab3ab2df4e0be01e7e8cc4be
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1788837719&token=60d9109a6cad15b74f1b13f46de41371c21b144f3bb86d16ec18da26d9166373
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1788815187&token=5e7b1e32ba78c1d751f25201291eb3ff7248c6568547b74866c0fa59fe890501
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1788776774&token=8b3bfca7e22f83713dad0d35b160e284f439c7fea1774a1d340c35af9a972766
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1788837719&token=67ddc504c04893fcde21c77a7ef6b66873aac168d4a73a81b4dee00674bcb91e
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1788815187&token=4c50c4c5fa3d811357716e8e421597aec17149fad0aa69267af16019cccbe58a
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -281,7 +281,3 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1788776774&token=c07b235dad3dc9c92df81
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1788759311&token=967c3f5be5ac3d9a84e1dd6d2207f55fb6882c47c1e1a2be3b56252f68a04262
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788759311&token=418551de82808856ebadfbb650e8529f67af4100f63f90a4c04d0ebe80390b8e
-#EXTINF:-1 tvg-id="tapmad-15804" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885702801020x576.jpg" group-title="Live Events", Barbados Tridents vs St Lucia Kings | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16307" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725731020x576.jpg" group-title="Live Events", Men's & Women's Singles | US Open 2026
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
