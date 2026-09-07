@@ -136,9 +136,9 @@ http://mxonlive.xyz/live/xap/150483.m3u8?e=1788858070&token=08a83d1dd49c7a343dd1
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
 http://mxonlive.xyz/live/xap/26187.m3u8?e=1788824006&token=2831ab110d147d3756744b20cbf6b6bc0ab9cc4b897d43a1858eb2da8875fc37
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
-http://mxonlive.xyz/live/xap/150480.m3u8?e=1788824006&token=e4e22a16ce367af37f84863ecbef4c685c257994608baab3aeebc837f9f4655a
+http://mxonlive.xyz/live/xap/150480.m3u8?e=1788858070&token=b3b77ceed5ff20ed8be84ef19aa503b056e44318ec15887fe2a2f54f6fcd8bba
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
-http://mxonlive.xyz/live/xap/150482.m3u8?e=1788807249&token=0cc50a5023d64cd202ed38ba52f1368facc78d70f0e50532f1c2fd7e3372b457
+http://mxonlive.xyz/live/xap/150482.m3u8?e=1788858070&token=7c824a02a7bee64adf8ad3163f4e0c15889a4bda2e7cc327d856cd8b5cb1ff31
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
 http://mxonlive.xyz/live/xap/153156.m3u8?e=1788824006&token=d85ff8cf4e6e7cb93ce8d4cf5a2c2016277cbd1cc9fbb9f0556f64452ae23fb9
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
@@ -220,7 +220,7 @@ http://mxonlive.xyz/live/xap/206287.m3u8?e=1788837719&token=729785001dda8bfa0480
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://mxonlive.xyz/live/xap/206289.m3u8?e=1788858070&token=7a13340b3aeb90162618431598c119b50a9cdcc40c8a94608ac295c668345978
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
-http://mxonlive.xyz/live/xap/206291.m3u8?e=1788807249&token=f5fc6cb8d5f0a1399a0bcd172d18ec2a852c099b6f2ed9c60ce9b6b813b5d24d
+http://mxonlive.xyz/live/xap/206291.m3u8?e=1788858070&token=b54e3accf5c06d9ea364f936189b83a0c8a51a26e580636b4edec24418c3db1b
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1788858070&token=4a2f96a564d5e89adee98293fceb9d0ab507e7507e2234d08b1a7bc164ac50cc
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
@@ -283,7 +283,7 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1788837719&token=c51f0a55f16088831fc37
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788837719&token=2bc3c798e1be4c763f16db6a7e28f7434c40d716992d6ccb6b690c9b86b97fbc
 #EXTINF:-1 tvg-id="tapmad-16308" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885726311020x576.jpg" group-title="Live Events", Men's & Women's Singles | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16946" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885308601020x576.jpg" group-title="Live Events", Getafe vs CELTA | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887860251020x576.jpg" group-title="Live Events", Al-Hilal vs Neom | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16947" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887877901020x576.jpg" group-title="Live Events", Elche vs Real Sociedad | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
