@@ -281,5 +281,9 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1788858070&token=1666f0872ec46c8571dfe
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1788837719&token=c51f0a55f16088831fc37d4608d4296e29498299c941f46528b0025b0843209e
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788837719&token=2bc3c798e1be4c763f16db6a7e28f7434c40d716992d6ccb6b690c9b86b97fbc
+#EXTINF:-1 tvg-id="tapmad-16308" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885726311020x576.jpg" group-title="Live Events", Men's & Women's Singles | US Open 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887718871020x576.jpg" group-title="Live Events", Sailing Day 7 Live | The Ocean Race Atlantic 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg" group-title="Live Events", Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/master.m3u8?hdnea=exp=1788803446~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=50024cdee14188504248fd4c08a63d94819097d3e572ef933d6f489bf34c3ca8
