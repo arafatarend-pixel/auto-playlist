@@ -144,7 +144,7 @@ http://mxonlive.xyz/live/xap/153156.m3u8?e=1788824006&token=d85ff8cf4e6e7cb93ce8
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1788858070&token=d4c82eb7559b9daddb06f8d5db33a43afe31723c4f5cf3e7a2f69022877d3916
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1788837719&token=60d9109a6cad15b74f1b13f46de41371c21b144f3bb86d16ec18da26d9166373
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1788858070&token=09a40ddf652b34096e4fe864a7fa091b0bca7ec50efdfefc9b9a11b9969f03ef
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1788815187&token=5e7b1e32ba78c1d751f25201291eb3ff7248c6568547b74866c0fa59fe890501
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
@@ -184,7 +184,7 @@ http://mxonlive.xyz/live/xap/167571.m3u8?e=1788858070&token=5bb423e6814fcd22aa1d
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
 http://mxonlive.xyz/live/xap/167572.m3u8?e=1788837719&token=4241c318051c5d9c625d36cf47fee2dadb6dc22d7694f7565e1255d8c2b554b4
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5 HD
-http://mxonlive.xyz/live/xap/167580.m3u8?e=1788800007&token=2188b2e8cc3fc777ea6775acd5f9972709616c1d4cf71dfb175ebcbe0ceeb5db
+http://mxonlive.xyz/live/xap/167580.m3u8?e=1788858070&token=9e2bae00019e4c49f45460a0215b550321a432931a2277b7e6c54ffb797b7c90
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
 http://mxonlive.xyz/live/xap/167575.m3u8?e=1788815187&token=b99b4e386978ca5a1afca80ef7586ff21d88f3200cef8462eae8b9b9f447fe3a
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
@@ -224,7 +224,7 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1788807249&token=f5fc6cb8d5f0a1399a0b
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1788858070&token=4a2f96a564d5e89adee98293fceb9d0ab507e7507e2234d08b1a7bc164ac50cc
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1788824006&token=524d7c79ff4590355d8fa5706ef07e168ddd1750a53b4a62ae0861755b95dc7c
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1788858070&token=89bfeef7f71b156c2f7df97378f869fbda83e5d2c136b68a17d0c5de250c2ace
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1788858070&token=fe32825eb2c5272eb945d27c09845a2730be5add40beec0f526d8861d18c4329
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
@@ -283,7 +283,7 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1788837719&token=c51f0a55f16088831fc37
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788837719&token=2bc3c798e1be4c763f16db6a7e28f7434c40d716992d6ccb6b690c9b86b97fbc
 #EXTINF:-1 tvg-id="tapmad-16308" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885726311020x576.jpg" group-title="Live Events", Men's & Women's Singles | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887718871020x576.jpg" group-title="Live Events", Sailing Day 7 Live | The Ocean Race Atlantic 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090541606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg" group-title="Live Events", Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/master.m3u8?hdnea=exp=1788803446~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=50024cdee14188504248fd4c08a63d94819097d3e572ef933d6f489bf34c3ca8
+#EXTINF:-1 tvg-id="tapmad-16946" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885308601020x576.jpg" group-title="Live Events", Getafe vs CELTA | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887860251020x576.jpg" group-title="Live Events", Al-Hilal vs Neom | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
