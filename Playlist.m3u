@@ -281,3 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1788858070&token=1666f0872ec46c8571dfe
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1788915450&token=c9eea8c9c00b15cb5d4f00ed628b3a6fdca82cdc8dc168afe98cbf4d9b05842c
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788915450&token=68a7ee1dcfba8d4a598479bfa927a27af142ce9d017ee4ff1d740cf6df97317b
+#EXTINF:-1 tvg-id="sonyliv-1090541702" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="Live Events", Amritsar Soormas vs Mohali Kings - 8 Sep 2026 | Sher-E-Punjab T20 League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/master.m3u8?hdnea=exp=1788871835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=10cf5d3a15309f5b89c1066280050907f473c4aecc63e954b43bfc40331b85ab
