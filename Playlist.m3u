@@ -260,9 +260,9 @@ http://mxonlive.xyz/live/xap/206307.m3u8?e=1789011143&token=045896671f4f472e0c31
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA [FHD]
 http://mxonlive.xyz/live/xap/206307.m3u8?e=1789046989&token=01cfc4c30a4c320907b321eced3c170a6a3ef8dc8908b9aa3801ea654faa2c1e
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
-http://mxonlive.xyz/live/xap/206268.m3u8?e=1789046989&token=3ed462d0b593708bac39c3da1c52c80285c7ce8d6edc825fd223a50d9ba81424
+http://mxonlive.xyz/live/xap/206268.m3u8?e=1789062003&token=93bebdaef02529f7dd24cfe8e122b0c4afb9e632c7c7cb3b10258d55b17aff94
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
-http://mxonlive.xyz/live/xap/66184.m3u8?e=1789029856&token=13c64ef38c68827c8d14d6be7b1722860cf033ee2dbd138f39e756b4c717c852
+http://mxonlive.xyz/live/xap/66184.m3u8?e=1789062003&token=2cb085ffe15dc3bc4303938902036c5e81a862508783ff04fdd8a4018afe461b
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
 http://mxonlive.xyz/live/xap/66185.m3u8?e=1788989859&token=4c75ee7ccbec9f5c1193bd2a54c2fa9093de5187f026b9759692daf5b9ddf7b1
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
@@ -293,11 +293,3 @@ https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17024" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889426231020x576.jpg" group-title="Live Events", SCP vs Galatasaray | UEFA Champions League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090541848" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518397151822_UCL_26_MD1_Liverpool-vs-Atletico-Madrid_live_landscape_thumb.jpg" group-title="Live Events", Liverpool vs Atletico Madrid - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
-#EXTINF:-1 tvg-id="sonyliv-1090541856" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg" group-title="Live Events", Napoli vs Arsenal - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
-#EXTINF:-1 tvg-id="sonyliv-1090541839" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788517907001822_UCL_26_MD1_Paris-vs-Slavia-Bratislava_live_landscape_thumb.jpg" group-title="Live Events", PSG vs Slavia Bratislava - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
-#EXTINF:-1 tvg-id="sonyliv-1090541851" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518938569822_UCL_26_MD1_Sporting-CP-vs-Galatasaray_live_landscape_thumb.jpg" group-title="Live Events", Sporting CP vs Galatasaray - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
