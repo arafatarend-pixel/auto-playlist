@@ -76,7 +76,7 @@ https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
 #EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="Bangla",NEXUS TV
 https://sm-monirul.top/toffee/play/nexus_tv.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Bangla",Global TV
-https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b36e6e9d0ee3e8ec8ddd9a8c61acf71
+http://116.204.149.16/globaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-name="Green TV HD" tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d" group-title="Bangla",Green TV HD
 https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangla",Channel S
@@ -144,7 +144,7 @@ http://mxonlive.xyz/live/xap/153156.m3u8?e=1788997987&token=18ad917535cc796078b1
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1788932866&token=4db27390db8efe38242008276fae893a22b62ac0d0f26e5d65d4778b651690d8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1788997987&token=0267da39217debc3d74863765852fac9b6f7738be1578997754cd3667c72954e
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1789011143&token=bc1d5f907ee79c5c04da024825f8b97d034fe5531e580e93d14c2bf055056791
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1788997987&token=2da3a5fd2f3ac9f94929c88625fe5bb2062fe41a16459a09fae3fad6fdae58cc
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
@@ -214,7 +214,7 @@ http://mxonlive.xyz/live/xap/383183.m3u8?e=1788997987&token=97e7deab719c54db8c8c
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1788932866&token=01389bf038c8e80761456cb3563011d50308af1136abbeaee34eb5af5403d1f1
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1788989859&token=8610a1d73a343faccce6c0138a0021336b72c06fabb21ea05b41710f0f48fe1d
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1789011143&token=a56341a03cd724330ec5bbea116d52f3d1207a1fec88cb6b140b0582ff04562b
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1788997987&token=dbfecd11398e5540f473501f156f6a1a9ff1135d21dbbe73532eb897091e95a5
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
@@ -281,11 +281,3 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1788932866&token=9075b45dcb61538ce6599
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1788997987&token=b5edb610ecc307cc02292cfdd6b7f403c6a362df0e2d9ea71cd5c41d82d35c38
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788997987&token=0146b3a31e96397714bad178b1daf855e1e1326013f2f90df598e337732aeb98
-#EXTINF:-1 tvg-id="sonyliv-1090541700" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788515051391822_UCL_26_MD1_Porto-vs-Manchester-City_live_landscape_thumb.jpg" group-title="Live Events", Porto vs Man City - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-#EXTINF:-1 tvg-id="sonyliv-1090541798" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg" group-title="Live Events", Real Madrid vs Inter - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-#EXTINF:-1 tvg-id="sonyliv-1090541701" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788516657640822_UCL_26_MD1_Dortmund-vs-Villarreal_live_landscape_thumb.jpg" group-title="Live Events", Dortmund vs Villarreal - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-#EXTINF:-1 tvg-id="sonyliv-1090541699" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788514202693822_UCL_26_MD1_Lille-vs-Real-Betis_live_landscape_thumb.jpg" group-title="Live Events", Lille vs Real Betis - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
