@@ -144,11 +144,11 @@ http://mxonlive.xyz/live/xap/153156.m3u8?e=1789011143&token=981fdb679b26ff193732
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 http://mxonlive.xyz/live/xap/76723.m3u8?e=1789011143&token=d4cf4048ebd7a45615e3fddad73d292c26af6c0aff89bc302334e0460d43dfae
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1789011143&token=bc1d5f907ee79c5c04da024825f8b97d034fe5531e580e93d14c2bf055056791
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1789029856&token=11a8e3f9e5532251d9d4b0a02d960d16e2621a82951b2a9baf03fd1c47294385
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1788997987&token=2da3a5fd2f3ac9f94929c88625fe5bb2062fe41a16459a09fae3fad6fdae58cc
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1789011143&token=f38d686834303ce653ce7f199d96bd2dfd71a5bcb92c3ba169b823fddef88d8f
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1789029856&token=e4c265f3bc57daa8036c8c6d59c4a1ea5103f5e5a780128d6bb5511e77221226
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1788997987&token=627aa55eabb9ac12daa3fbfd523d4cda664618eec4f807018530e551115fd07e
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -244,9 +244,9 @@ http://mxonlive.xyz/live/xap/221257.m3u8?e=1788989859&token=cb1bbec38ea6f4fc0105
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select FHD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select FHD
 http://mxonlive.xyz/live/xap/221257.m3u8?e=1788989859&token=cb1bbec38ea6f4fc01056003af14aad83a05ba696582f532dc2264d05f12a6bf
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="INDIAN | MOVIES",IND: Star Gold 2
-http://mxonlive.xyz/live/xap/106133.m3u8?e=1788950795&token=6ff06c4ba5f8e471818b2c9d6b62b16f9c694a34798d74c48d402b91e7910b32
+http://mxonlive.xyz/live/xap/106133.m3u8?e=1789029856&token=be3928e2856e0967596a89ea38a8277d455762634a53871938ea3e78d1e4e95b
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD HD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="INDIAN | MOVIES",IN: STAR GOLD HD (TATASKY)
-http://mxonlive.xyz/live/xap/112982.m3u8?e=1788950795&token=af36f9dfe8963466f96c29b459e6c549e287eb1b6b04846e7a6e9286a823a82a
+http://mxonlive.xyz/live/xap/112982.m3u8?e=1789029856&token=479a52cbb6db70500c303f6f50c7ec60d8b34e794af43368e761802cb8d98048
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures SD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures SD
 http://mxonlive.xyz/live/xap/221260.m3u8?e=1789011143&token=97d614f5c234d811b65dfd145ad76ff7d23160abb1a3e46a37378d4f81fb127c
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures HD
@@ -283,5 +283,5 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1788997987&token=b5edb610ecc307cc02292
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1788997987&token=0146b3a31e96397714bad178b1daf855e1e1326013f2f90df598e337732aeb98
 #EXTINF:-1 tvg-id="sonyliv-1090541741" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg" group-title="Live Events", Day 1 - 3rd Test - 9 Sep 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
-#EXTINF:-1 tvg-id="sonyliv-1090541733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="Live Events", Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 | Sher-E-Punjab T20 League
+#EXTINF:-1 tvg-id="sonyliv-1090541733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Live Events", Mohali Kings vs Bathinda Royals - 9 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/master.m3u8?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca
