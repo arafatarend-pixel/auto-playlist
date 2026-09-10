@@ -224,7 +224,7 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1789081180&token=a0209669ac5544238777
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1789123752&token=fc96f9030785cb983438f965fff3b4f5481bd6e562c24dd13b4c3b19658ef76d
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1789105829&token=0fcc0c47db956c6e3656d7f2ee733a3389bd2e1bdb9ac58456e2987f6da5145a
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1789138444&token=b9140d4b6925058b41db041a23864c0d5575b1b309317098b08ebfd0600951e8
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1789123752&token=740c2df1cfd730b122320de53749574adb0d98cd01851c37dffcc520076914ae
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
@@ -283,8 +283,10 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1789081180&token=4709c220e80c968885ea3
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789081180&token=2c2d998f841b0dac147ee14832acacfabe0aa6d83b490401b6da1d5b93136d57
 #EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Live Events", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16706" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889407001020x576.jpg" group-title="Live Events", Rotterdam Dockers vs Glasgow Cosmic | European T20 Premier League 2026
+#EXTINF:-1 tvg-id="tapmad-16707" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889408221020x576.jpg" group-title="Live Events", Belfast Wolves vs Amsterdam Flames | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16314" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg" group-title="Live Events", Junior & Wheelchair Semifinals | US Open 2026
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541867" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" group-title="Live Events", Day 2 - 3rd Test - 10 Sep 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
 #EXTINF:-1 tvg-id="sonyliv-1090541928" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Live Events", Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 | Sher-E-Punjab T20 League
