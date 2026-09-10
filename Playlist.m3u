@@ -136,7 +136,7 @@ http://mxonlive.xyz/live/xap/150483.m3u8?e=1789081180&token=2d6cacb91e89202a47fd
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
 http://mxonlive.xyz/live/xap/26187.m3u8?e=1789138444&token=8c62d2d298fc06e830426a4a5ebf15cf6f502be96f1ce9221c8235c1700cdef1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
-http://mxonlive.xyz/live/xap/150480.m3u8?e=1789072513&token=9f1b70208df98b91ca2523c639bc518c378e51294fadb75c8ac798585d57cf13
+http://mxonlive.xyz/live/xap/150480.m3u8?e=1789150250&token=fbe888636284229589bdbe54087fd2ba419ede116817a6d324aa775610f4deb6
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1789123752&token=5996a4d3cb75b4b5a9949a9bca746ce985a5624fc31e228dec03d5c91552144c
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
@@ -281,19 +281,25 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789072513&token=87b3b282f06542c6e2def
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789081180&token=4709c220e80c968885ea355c857405e1378c1a27e7bc5e1e4e86b5001a4e29f6
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789081180&token=2c2d998f841b0dac147ee14832acacfabe0aa6d83b490401b6da1d5b93136d57
+#EXTINF:-1 tvg-id="tapmad-17030" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890222621020x576.jpg" group-title="Live Events", Man United vs Sabah | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16314" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg" group-title="Live Events", Junior & Wheelchair Semifinals | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-17025" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg" group-title="Live Events", Fenerbahce vs Roma | UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17026" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg" group-title="Live Events", PSV vs Shakhtar Donetsk | UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090541928" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Live Events", Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
-#EXTINF:-1 tvg-id="sonyliv-1090541953" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Live Events", India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 | DP World Women's Asia Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
-#EXTINF:-1 tvg-id="sonyliv-1090541967" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023703/1788946669572354_UCL_26_MD1_Fenerbahce-vs-Roma_live_landscape_thumb.jpg" group-title="Live Events", Fenerbahce vs Roma - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
-#EXTINF:-1 tvg-id="sonyliv-1090541965" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522865090822_UCL_26_MD1_PSV-vs-Shakhtar_live_landscape_thumb.jpg" group-title="Live Events", PSV vs Shakhtar - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
-#EXTINF:-1 tvg-id="sonyliv-1090541930" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419148422889_DP_World_Tour_Amgen_Irish_Open_day1_landscape_thumb.jpg" group-title="Live Events", Amgen Irish Open - Day 1 - 10 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="tapmad-17027" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890217791020x576.jpg" group-title="Live Events", Bayern vs Bodo/Glimt | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17028" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890219421020x576.jpg" group-title="Live Events", Slavia Praha vs Lens | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17029" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890220801020x576.jpg" group-title="Live Events", Como vs RB Leipzig | UEFA Champions League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090542011" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788527714323822_UCL_26_MD1_Manchester-United-vs-Sabah_live_landscape_thumb.jpg" group-title="Live Events", Manchester United vs Sabah - MD 1 - 11 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090542008" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788525716058822_UCL_26_MD1_Bayern-Munchen-vs-Bodo-Glimt_live_landscape_thumb.jpg" group-title="Live Events", Bayern Munchen vs Bodo/Glimt - MD 1 - 11 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090542013" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788528128258822_UCL_26_MD1_Como-vs-Leipziglive_landscape_thumb.jpg" group-title="Live Events", Como vs Leipzig - MD 1 - 11 Sep 2026  | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090542012" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788528531995822_UCL_26_MD1_Slavia-Praha-vs-Lens_landscape_thumb.jpg" group-title="Live Events", Slavia Praha vs Lens - MD 1 - 11 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
