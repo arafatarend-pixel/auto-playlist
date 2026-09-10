@@ -202,7 +202,7 @@ http://mxonlive.xyz/live/xap/238479.m3u8?e=1789081180&token=82ec0c563217e6b1ce0e
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
 http://mxonlive.xyz/live/xap/206278.m3u8?e=1789062003&token=ef4d2bbddb0512883d86d1fcd019bfb7e7298bd846251eef735bd8a90ca2f83c
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
-http://mxonlive.xyz/live/xap/383184.m3u8?e=1789072513&token=6f7b68ba0b025aaf4657c67dfe2d9a9d5d6ee62097f004ee080ca621cddcdffe
+http://mxonlive.xyz/live/xap/383184.m3u8?e=1789088371&token=6e6d8f063fd902bb203fd1d3c5bbdf71ed6d9d8f38c7bb07c76c494ea128b520
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1789011143&token=72815210eb70ede4105b6123e336421e6d97d0324106c37f251b6bb50b15cc62
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
@@ -234,7 +234,7 @@ http://mxonlive.xyz/live/xap/206295.m3u8?e=1789088371&token=9b02e35ba5a3b6073a43
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
 http://mxonlive.xyz/live/xap/206296.m3u8?e=1789081180&token=fe7793bdd89ad6a7e8c46dfcca907679f8d808553a7b7609f965bacd66c6e49d
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
-http://mxonlive.xyz/live/xap/221258.m3u8?e=1789081180&token=7ff47056d0be08209f035259278f594b28d0ccf2d7947849038262cfa3535ac4
+http://mxonlive.xyz/live/xap/221258.m3u8?e=1789088371&token=d654cb0fdcaad0cd20a8f96ef5818077f7e794c84519370e06ce4f5d21e038b5
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1789011143&token=0811ce192c76ce12c9d1cb197231d4ea5691008c173fd14004320697f49763e5
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
@@ -281,7 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789072513&token=87b3b282f06542c6e2def
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789081180&token=4709c220e80c968885ea355c857405e1378c1a27e7bc5e1e4e86b5001a4e29f6
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789081180&token=2c2d998f841b0dac147ee14832acacfabe0aa6d83b490401b6da1d5b93136d57
-#EXTINF:-1 tvg-id="tapmad-15806" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889393571020x576.jpg" group-title="Live Events", Guyana Amazon Warriors vs St Lucia Kings | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16313" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889400781020x576.jpg" group-title="Live Events", Men's & Women's Singles Quarterfinals | US Open 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
