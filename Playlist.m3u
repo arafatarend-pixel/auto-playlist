@@ -134,7 +134,7 @@ http://mxonlive.xyz/live/xap/150478.m3u8?e=1789088371&token=de6ca3557a3b6c956eaa
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
 http://mxonlive.xyz/live/xap/150483.m3u8?e=1789081180&token=2d6cacb91e89202a47fdea540574a7bd62c86a54ed673312e8b972954eb3da3e
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
-http://mxonlive.xyz/live/xap/26187.m3u8?e=1789062003&token=dca38902b6c8f9bfc76b84f88dbf821bb68e8018abd041f6465dc9a3eae71988
+http://mxonlive.xyz/live/xap/26187.m3u8?e=1789138444&token=8c62d2d298fc06e830426a4a5ebf15cf6f502be96f1ce9221c8235c1700cdef1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1789072513&token=9f1b70208df98b91ca2523c639bc518c378e51294fadb75c8ac798585d57cf13
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
@@ -200,13 +200,13 @@ http://mxonlive.xyz/live/xap/238478.m3u8?e=1789105829&token=c6b0d7faefceb9963113
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
 http://mxonlive.xyz/live/xap/238479.m3u8?e=1789081180&token=82ec0c563217e6b1ce0ecb1860b20492de88f284f34b5d3835fbe11770f61c74
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
-http://mxonlive.xyz/live/xap/206278.m3u8?e=1789062003&token=ef4d2bbddb0512883d86d1fcd019bfb7e7298bd846251eef735bd8a90ca2f83c
+http://mxonlive.xyz/live/xap/206278.m3u8?e=1789138444&token=a590e5633a970e5bbf1629ea1b22c173e488c5a6890674eac9bcb78df69d459c
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
 http://mxonlive.xyz/live/xap/383184.m3u8?e=1789088371&token=6e6d8f063fd902bb203fd1d3c5bbdf71ed6d9d8f38c7bb07c76c494ea128b520
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1789088371&token=781034f538890f863f07816234a1ba089e05197e8998ff0e99b327ec091b7de0
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
-http://mxonlive.xyz/live/xap/206283.m3u8?e=1789062003&token=cadb3ea3d06830602d92f95dcb467ef1f07f47472dafb5b42b6a55ae05cf2bfb
+http://mxonlive.xyz/live/xap/206283.m3u8?e=1789138444&token=64f07b436565d75ad04abfaae637a115788130179bc82c12864fbca3d1f9b4dd
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1789105829&token=0974a410d852b6f87b099260c44bab882de0f77d277294674ad5331d0a5a7979
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
@@ -236,7 +236,7 @@ http://mxonlive.xyz/live/xap/206296.m3u8?e=1789081180&token=fe7793bdd89ad6a7e8c4
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1789088371&token=d654cb0fdcaad0cd20a8f96ef5818077f7e794c84519370e06ce4f5d21e038b5
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1789088371&token=52baa124f39209cfb39d9571a6fd846fd6026b70b53e490be3ba1d29ad33fe63
+http://mxonlive.xyz/live/xap/66177.m3u8?e=1789138444&token=b47d6b4d64768382af60df6a19c727341955c0f19bd397a18d31264feb936ae5
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1789088371&token=52baa124f39209cfb39d9571a6fd846fd6026b70b53e490be3ba1d29ad33fe63
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
@@ -281,19 +281,19 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789072513&token=87b3b282f06542c6e2def
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789081180&token=4709c220e80c968885ea355c857405e1378c1a27e7bc5e1e4e86b5001a4e29f6
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789081180&token=2c2d998f841b0dac147ee14832acacfabe0aa6d83b490401b6da1d5b93136d57
-#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Live Events", England vs Pakistan | Pakistan Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16707" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889408221020x576.jpg" group-title="Live Events", Belfast Wolves vs Amsterdam Flames | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16314" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg" group-title="Live Events", Junior & Wheelchair Semifinals | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090541867" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" group-title="Live Events", Day 2 - 3rd Test - 10 Sep 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="tapmad-17025" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889437111020x576.jpg" group-title="Live Events", Fenerbahce vs Roma | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17026" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889438811020x576.jpg" group-title="Live Events", PSV vs Shakhtar Donetsk | UEFA Champions League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541928" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Live Events", Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
 #EXTINF:-1 tvg-id="sonyliv-1090541953" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Live Events", India Women vs Bangladesh Women - Semi-final - 10 Sep 2026 | DP World Women's Asia Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
-#EXTINF:-1 tvg-id="sonyliv-1090541939" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023755/17890249560548_UYL26_Bayern_vs_Bodo_10sep_landscape_thumb.jpg" group-title="Live Events", Bayern vs Bodo/Glimt - MD 1 - 10 Sep 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090541967" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023703/1788946669572354_UCL_26_MD1_Fenerbahce-vs-Roma_live_landscape_thumb.jpg" group-title="Live Events", Fenerbahce vs Roma - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
+#EXTINF:-1 tvg-id="sonyliv-1090541965" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522865090822_UCL_26_MD1_PSV-vs-Shakhtar_live_landscape_thumb.jpg" group-title="Live Events", PSV vs Shakhtar - MD 1 - 10 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
 #EXTINF:-1 tvg-id="sonyliv-1090541930" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419148422889_DP_World_Tour_Amgen_Irish_Open_day1_landscape_thumb.jpg" group-title="Live Events", Amgen Irish Open - Day 1 - 10 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/master.m3u8?hdnea=exp=1789091430~acl=/*~id=70224030918181540459417196519197~hmac=7927153726db6ef7d4be9b5418519bcca04d64ef0d5daae9f7fa9e066bc98d86
