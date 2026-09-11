@@ -224,7 +224,7 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1789183694&token=26256d978fd8d97b2a35
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1789162071&token=0a88a0a8c0bf7ca21d7f2b1a28488ffc6f7b11702a3c623164bc11421abad81f
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1789183694&token=b668a943c2254c73351483430508727053cfced2946229b7f55db2d307a23972
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1789202437&token=285b1caf81d83d780f40b864b6f9256fe423ac6df95cbb511936fceebd820215
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1789170471&token=4d8f07da01d98ff0cbe7404c68f849e4261f344378c46b7f142fe2b191ba9ec4
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
@@ -278,8 +278,12 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789162071&token=0e6ee73553b13279b95d8
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max [FHD]
 http://mxonlive.xyz/live/xap/66179.m3u8?e=1789162071&token=0e6ee73553b13279b95d892487ad19128fffe3ef8e519fd27b50fa6d39b465d2
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
-http://mxonlive.xyz/live/xap/66189.m3u8?e=1789170471&token=e2a17af35de79896b9fc5a95c86f90c4f8db9deeae7e5b1eadade0e37b798845
+http://mxonlive.xyz/live/xap/66189.m3u8?e=1789202437&token=78429cbd6c6376d281b7b2d41ed5dfb73efd153f6c51065e056d1ab172af18cf
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789170471&token=2562334aca8d933ff6218db70b5f6a2989a85537ba365fa1aa7b6c93b4c9ac25
+#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Live Events", England vs Pakistan | Pakistan Tour of England 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090542071" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434963836794_eng_vs_pak_3test_D3_live_landscape_thumb.jpg" group-title="Live Events", Day 3 - 3rd Test - 11 Sep 2026 | Pakistan Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/master.m3u8?hdnea=exp=1789158035~acl=/*~id=39650614294299932470293454825952~hmac=80c26a809d3b97b25e161a83c33031d0fb64de8957bb6261f54e04270bac8e71
 #EXTINF:-1 tvg-id="sonyliv-1090542075" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023761/1789035247082649_DP_World_Tour_Amgen_Irish_Open_Day2_Session1_landscape_thumb.jpg" group-title="Live Events", Amgen Irish Open - Day 2 - Session 1 - 11 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/master.m3u8?hdnea=exp=1789158035~acl=/*~id=39650614294299932470293454825952~hmac=80c26a809d3b97b25e161a83c33031d0fb64de8957bb6261f54e04270bac8e71
