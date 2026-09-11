@@ -24,19 +24,26 @@ def fetch_m3u(url):
 
 
 def normalize_name(name):
-    """চ্যানেল নাম পরিষ্কার করে ম্যাচিংয়ের জন্য"""
+    """চ্যানেল নাম পরিষ্কার করে ম্যাচিংয়ের জন্য (উন্নত ভার্সন)"""
     name = name.lower().strip()
-    
-    # সাধারণ কোয়ালিটি সাফিক্স সরানো
-    name = re.sub(r'\b(hd|fhd|uhd|4k|8k|hevc|h265|h264)\b', '', name)
-    
-    # স্পেশাল ক্যারেক্টার, ইমোজি, পাইপ ইত্যাদি সরানো
-    name = re.sub(r'[┃\|\[\]\(\)\{\}•·►◄»«]', '', name)
-    name = re.sub(r'[^\w\s]', ' ', name)  # বাকি স্পেশাল ক্যারেক্টার স্পেস দিয়ে রিপ্লেস
-    
+
+    # প্রিফিক্স সরানো (┃BANGLA┃, IND-Bangla:, USA Asian: ইত্যাদি)
+    name = re.sub(r'^[\┃\|\[\]]*?(bangla|ind|india|bd|usa|asian|live)?[\┃\|\]\:\-\s]*', '', name)
+    name = re.sub(r'^\[.*?\]\s*', '', name)  # [BD], [LIVE] ইত্যাদি
+
+    # কোয়ালিটি ও অপ্রয়োজনীয় শব্দ সরানো
+    name = re.sub(r'\b(hd|fhd|uhd|4k|8k|hevc|h265|h264|sd|fhd|full\s*hd)\b', '', name)
+
+    # স্পেশাল ক্যারেক্টার ও ইমোজি সরানো
+    name = re.sub(r'[┃\|\[\]\(\)\{\}•·►◄»«★☆]', '', name)
+    name = re.sub(r'[^\w\s]', ' ', name)
+
+    # স্পেলিং ভ্যারিয়েশন ঠিক করা (jalsha / jalsa)
+    name = name.replace('jalsa', 'jalsha')
+
     # অতিরিক্ত স্পেস সরানো
     name = re.sub(r'\s+', ' ', name).strip()
-    
+
     return name
 
 
