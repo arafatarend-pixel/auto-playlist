@@ -200,7 +200,7 @@ http://mxonlive.xyz/live/xap/238478.m3u8?e=1789162071&token=9263299491d7403c1657
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
 http://mxonlive.xyz/live/xap/238479.m3u8?e=1789183694&token=f70c3d3fc7bcf092f65d1d2327c7830c5f82af09ef9b7d604df0a6a1b787d1f5
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
-http://mxonlive.xyz/live/xap/206278.m3u8?e=1789138444&token=a590e5633a970e5bbf1629ea1b22c173e488c5a6890674eac9bcb78df69d459c
+http://mxonlive.xyz/live/xap/206278.m3u8?e=1789219206&token=452dd9ca6f9a75633b0b6ae5934fabcc52a75c42295ac5c38361f536da670adf
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
 http://mxonlive.xyz/live/xap/383184.m3u8?e=1789170471&token=8878a7f00fdb425c732986c9e81d638e67cc6d4c1b5da1d963e3b777c4dea491
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
@@ -232,11 +232,11 @@ http://mxonlive.xyz/live/xap/206294.m3u8?e=1789170471&token=2d6974980468e6967039
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1789183694&token=f4e9cb7f5ae1dc5e67fcc806b36f7361b35b212ca3853ff22f1ab7c387873171
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
-http://mxonlive.xyz/live/xap/206296.m3u8?e=1789170471&token=a1324d5460513ed89cb0d0bc3bb7a10bec75012dac2962b8c8a299c5853f67b5
+http://mxonlive.xyz/live/xap/206296.m3u8?e=1789219206&token=37b9d9f42d7896b8cf231e4c0c059e53c2c5ab1235037e40d6a10b5b73e1401a
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1789162071&token=df10f8e705ef3760a13a483b82fd877429f156a684b22676a80884e0ee084464
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1789138444&token=b47d6b4d64768382af60df6a19c727341955c0f19bd397a18d31264feb936ae5
+http://mxonlive.xyz/live/xap/66177.m3u8?e=1789219206&token=82f35c0dd54b3a1817775f68d5f3c265b29867c3919f5d6a47d3ca549c74bc5c
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1789170471&token=410a7eac15659e41bb20145d34805eb7786d7517170c03be1377bdef4de6feed
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
@@ -264,9 +264,9 @@ http://mxonlive.xyz/live/xap/206268.m3u8?e=1789183694&token=c20c5504a48142e58be7
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
 http://mxonlive.xyz/live/xap/66184.m3u8?e=1789183694&token=376a89e2c1d2c325f2b5ce0f82c13d83315daaf9885eb01cbff23c8a719fb1f5
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
-http://mxonlive.xyz/live/xap/66185.m3u8?e=1789162071&token=fe71f2c821d099f084db0526a0d021157299e1e10a70406f45ce89b136d146b9
+http://mxonlive.xyz/live/xap/66185.m3u8?e=1789219206&token=0115b6dfb29790a81a2152d6492d2409cc7c19e7014faf493f5717741adaa99c
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
-http://mxonlive.xyz/live/xap/66186.m3u8?e=1789183694&token=9cfc77214f7d7fd3eae499d1db1b80b91dbe53ab5675d2f74cd82e243bd1ece4
+http://mxonlive.xyz/live/xap/66186.m3u8?e=1789219206&token=cb759d8ac88fe2593a5577b3952e3d9ef16cfb8cda2bd67d011be8305d61c864
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX
 http://mxonlive.xyz/live/xap/206315.m3u8?e=1789170471&token=23e2228e16e1a0a488b290b0e9624804465d533c31022534c49078d462fcdcf2
 #EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX FHD
@@ -289,5 +289,5 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/master.m3u8?hdnea=exp=1789170635~acl=/*~id=95647733748040008340595701256300~hmac=28ca2faed88591f6fbec29cc60005335279ce1969e4739a9bd465da1c122bdce
 #EXTINF:-1 tvg-id="sonyliv-1090542087" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023750/1789016444203995_PT20_Amritsar-Soormas-vs-Ludhiana-Lions_landscape_thumb.jpg" group-title="Live Events", Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 | Sher-E-Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/HIN/master.m3u8?hdnea=exp=1789174241~acl=/*~id=74423049729237392307499434524176~hmac=4051d019020f56c49007e86d3e74c833923ff4ca223703de39faba43f2189c5d
-#EXTINF:-1 tvg-id="sonyliv-1090542075" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023761/1789035247082649_DP_World_Tour_Amgen_Irish_Open_Day2_Session1_landscape_thumb.jpg" group-title="Live Events", Amgen Irish Open - Day 2 - Session 1 - 11 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/master.m3u8?hdnea=exp=1789170635~acl=/*~id=95647733748040008340595701256300~hmac=28ca2faed88591f6fbec29cc60005335279ce1969e4739a9bd465da1c122bdce
+#EXTINF:-1 tvg-id="sonyliv-1090542090" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023657/1788867245115826_WAC26_Semi_Final_Sri_Lanka_vs_Pakistan_8sep_eng_landscape_thumb.jpg" group-title="Live Events", Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 | DP World Women's Asia Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1109/ENG/master.m3u8?hdnea=exp=1789179642~acl=/*~id=36589603632662528717618025338865~hmac=d36a772f63b5ab0ce8fe05bb1b6d1cbc4642da46c7f3058e57a9ee70d2ea0466
