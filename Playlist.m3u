@@ -138,7 +138,7 @@ http://mxonlive.xyz/live/xap/26187.m3u8?e=1789162071&token=0cd7bf2ecfa01621bce8b
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1789150250&token=fbe888636284229589bdbe54087fd2ba419ede116817a6d324aa775610f4deb6
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
-http://mxonlive.xyz/live/xap/150482.m3u8?e=1789123752&token=5996a4d3cb75b4b5a9949a9bca746ce985a5624fc31e228dec03d5c91552144c
+http://mxonlive.xyz/live/xap/150482.m3u8?e=1789202437&token=3da6af0dc9c629bb92da57905303b5a74b4aa678c697e9eda62d9e701807f8a8
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
 http://mxonlive.xyz/live/xap/153156.m3u8?e=1789162071&token=6ef357841bff12c73cc87ac3140be275ae0d66fea63b47c75f650c892639cfdc
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
@@ -148,7 +148,7 @@ http://mxonlive.xyz/live/xap/153175.m3u8?e=1789150250&token=3d4d27cff03914f94b3e
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1789170471&token=0c83356e1fe07d688866d0b4b8d89e5587c0748fd1e4264d7a5923177249341e
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1789123752&token=e01ed17ec0da8071d207860cdee36b589340ba7aac902da2cc9fdcabd70b2213
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1789202437&token=672488f39c4ecf5fca472e83e6b112cf634a35c2b5837e64815f8488fe4a3c89
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1789170471&token=70856b19981d3621840415da39258cc6ccfd4a790cf0a299bc64f7a670a7d76f
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -172,7 +172,7 @@ http://mxonlive.xyz/live/xap/167567.m3u8?e=1789170471&token=53a047f3599621798ae4
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="SPORTS",PK | Geo Super HD
 http://mxonlive.xyz/live/xap/167568.m3u8?e=1789170471&token=2902fa557ad5327c3df4f2c6a64fffd97d791c85e8b697769c2f978680336e6e
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS",PK: TEN SPORTS
-http://mxonlive.xyz/live/xap/167569.m3u8?e=1789123752&token=003ccae9aa7e1a9f798ee45087ba8ade4fcb5fee13feb9e42d345a958fb89f4f
+http://mxonlive.xyz/live/xap/167569.m3u8?e=1789202437&token=1c5d1d0b82c42890794415c2b313c60dbf7f3a7724cadba114d43fe17cd64b68
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
 http://mxonlive.xyz/live/xap/219689.m3u8?e=1789183694&token=c32950a1324f944841cd0bd58b96c11e2cdf3fe94ebf5faa56a7390a2df2ca40
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
@@ -180,11 +180,11 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
 http://mxonlive.xyz/live/xap/167570.m3u8?e=1789170471&token=eba24dee65cefb3f55f43e24855497973dcf03fba384d3922d392a4f9c987c7e
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
-http://mxonlive.xyz/live/xap/167571.m3u8?e=1789123752&token=7fd5eda9e51100de459e0e0909a7f77cc6dd52771f5ce7901a9f73dc5f70de21
+http://mxonlive.xyz/live/xap/167571.m3u8?e=1789202437&token=885960e0192c493b84c0f475ad9e3304a7b25e250bf0947b599ff25b74e4f94a
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
 http://mxonlive.xyz/live/xap/167572.m3u8?e=1789170471&token=2a5c59ae44b5b5db8697b53d9752b51762f62e4253ed1ebd65fda70dd140a425
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5 HD
-http://mxonlive.xyz/live/xap/167580.m3u8?e=1789123752&token=09aac4789600688543056ccef9a4346fda56104205a46ae12ed489531aa66b03
+http://mxonlive.xyz/live/xap/167580.m3u8?e=1789202437&token=bf8d4c319ae251f5f67ee634c13a12c375e30817053669e24cdf13f89b3d7260
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
 http://mxonlive.xyz/live/xap/167575.m3u8?e=1789170471&token=b53e0efa417c13e68881fbf4e54d918f52399226ea48e17e267b226c9fbd0f93
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
@@ -214,7 +214,7 @@ http://mxonlive.xyz/live/xap/383183.m3u8?e=1789170471&token=6781f44723fe54294840
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1789170471&token=0c39e44ae3936597407a9fddb19dd9484cdd6cb8db260eef9e5abfeada49c253
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1789123752&token=994fee96261a7e6cf68fe1a6110ed19a671b24489cc8e6d3878456727609c654
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1789202437&token=01d484bf798fa0ef53e519b80d55b6170c7aef982fd766354362ab8733f90b6f
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1789170471&token=9bc381e9c389f8fc4f2238c6d2617e75580696d1ca68ce68d2b2deaa3502bef2
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
@@ -222,7 +222,7 @@ http://mxonlive.xyz/live/xap/206289.m3u8?e=1789170471&token=36b23f8f46cb0e67b86b
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1789183694&token=26256d978fd8d97b2a35080c9636c8a2660f85024320d45ca6fce4bed4b85cce
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
-http://mxonlive.xyz/live/xap/206292.m3u8?e=1789162071&token=0a88a0a8c0bf7ca21d7f2b1a28488ffc6f7b11702a3c623164bc11421abad81f
+http://mxonlive.xyz/live/xap/206292.m3u8?e=1789202437&token=25a285742d66ce9701968a451fa40ebca5d48a65d51b4edd3607cd877e4b561a
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
 http://mxonlive.xyz/live/xap/206279.m3u8?e=1789202437&token=285b1caf81d83d780f40b864b6f9256fe423ac6df95cbb511936fceebd820215
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
@@ -284,6 +284,6 @@ http://mxonlive.xyz/live/xap/66187.m3u8?e=1789170471&token=2562334aca8d933ff6218
 #EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Live Events", England vs Pakistan | Pakistan Tour of England 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090542071" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434963836794_eng_vs_pak_3test_D3_live_landscape_thumb.jpg" group-title="Live Events", Day 3 - 3rd Test - 11 Sep 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/master.m3u8?hdnea=exp=1789158035~acl=/*~id=39650614294299932470293454825952~hmac=80c26a809d3b97b25e161a83c33031d0fb64de8957bb6261f54e04270bac8e71
+https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/master.m3u8?hdnea=exp=1789170635~acl=/*~id=95647733748040008340595701256300~hmac=28ca2faed88591f6fbec29cc60005335279ce1969e4739a9bd465da1c122bdce
 #EXTINF:-1 tvg-id="sonyliv-1090542075" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023761/1789035247082649_DP_World_Tour_Amgen_Irish_Open_Day2_Session1_landscape_thumb.jpg" group-title="Live Events", Amgen Irish Open - Day 2 - Session 1 - 11 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/master.m3u8?hdnea=exp=1789158035~acl=/*~id=39650614294299932470293454825952~hmac=80c26a809d3b97b25e161a83c33031d0fb64de8957bb6261f54e04270bac8e71
+https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/master.m3u8?hdnea=exp=1789170635~acl=/*~id=95647733748040008340595701256300~hmac=28ca2faed88591f6fbec29cc60005335279ce1969e4739a9bd465da1c122bdce
