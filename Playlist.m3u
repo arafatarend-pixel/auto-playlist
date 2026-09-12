@@ -140,7 +140,7 @@ http://mxonlive.xyz/live/xap/150480.m3u8?e=1789270407&token=cc1345cfe1a0ab85320b
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1789287973&token=0e015c9e43403fd652ad9186eaf02246af0d12a862e2a84295e499edcdea61e0
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
-http://mxonlive.xyz/live/xap/153156.m3u8?e=1789245376&token=cbeb07feac186b6425f7904e828edc04899a0a042a8a977a125753509d8ca4fe
+http://mxonlive.xyz/live/xap/153156.m3u8?e=1789303242&token=d86db0dadeb6fff02a5dddb24928d1f705e6177a4cb100c9046bc1c7f1e623fe
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
@@ -180,13 +180,13 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
 http://mxonlive.xyz/live/xap/167570.m3u8?e=1789270407&token=6176fdbdf499a08f1e7477fe43c5132da1f3b8ca6f87e91a8cd4dbcba7c81a4b
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
-http://mxonlive.xyz/live/xap/167571.m3u8?e=1789219206&token=598d6f25eb1049f0283dcdd628c5eb53372baea88f67c48ba2bf02442b115d44
+http://mxonlive.xyz/live/xap/167571.m3u8?e=1789303242&token=c5146bd4a74b1f6ae351f3353f5d240dd3d18aec0c96a8c454eb7e86effca1a4
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
 http://mxonlive.xyz/live/xap/167572.m3u8?e=1789254128&token=b8d1232533b2e5f17c490cf74cdab2abd6249c214f9e83ee8ea6f3c2029278be
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5 HD
 http://mxonlive.xyz/live/xap/167580.m3u8?e=1789287973&token=6d37187370dae8c13a4c1e3a1f25cdbe4547a7588aa9baec99d3d956ca8c20bd
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
-http://mxonlive.xyz/live/xap/167575.m3u8?e=1789219206&token=712ad884f604b79e3e07cae3419098473f315866586316e319e71bdba566153b
+http://mxonlive.xyz/live/xap/167575.m3u8?e=1789303242&token=ad0d14e8f243ec50ac77021736fda187f43601f607fcdd32456a4c02e65405d9
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
 http://mxonlive.xyz/live/xap/167577.m3u8?e=1789270407&token=4c00c40ec3fbf1b1e562a352bb24736c0e90500c75fab76d248703e7452dc15f
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 1
@@ -200,7 +200,7 @@ http://mxonlive.xyz/live/xap/238478.m3u8?e=1789270407&token=51dc8d0d5bee366a2ab4
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
 http://mxonlive.xyz/live/xap/238479.m3u8?e=1789287973&token=ba43120353ec99a73a5ca5947caad5d32918228c6bfd246a9ffecf271ee7881f
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
-http://mxonlive.xyz/live/xap/206278.m3u8?e=1789219206&token=452dd9ca6f9a75633b0b6ae5934fabcc52a75c42295ac5c38361f536da670adf
+http://mxonlive.xyz/live/xap/206278.m3u8?e=1789303242&token=17a0facf12261f6fa85656a2a3565651ed1056606e47b0492a51f612955935af
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
 http://mxonlive.xyz/live/xap/383184.m3u8?e=1789254128&token=d06a47f4d0f687ca907636327ec56e4224de7529515a98037613ab15060ec444
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
@@ -236,7 +236,7 @@ http://mxonlive.xyz/live/xap/206296.m3u8?e=1789245376&token=315bac44968058446053
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1789245376&token=77080dd1baa715430c7fd661e51d6ee214b24f3a24a248078eb2f02cbbd67f74
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1789219206&token=82f35c0dd54b3a1817775f68d5f3c265b29867c3919f5d6a47d3ca549c74bc5c
+http://mxonlive.xyz/live/xap/66177.m3u8?e=1789303242&token=1ebcb36aca5c3608e5579c0fb43eb281502764792492866dcb98853dfbb7fefb
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1789254128&token=24a02758306345fc5081c65e8aa396e3dd7f68253bad39bd9ed1011aa78f9a3f
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
@@ -289,7 +289,5 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16949" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg" group-title="Live Events", Racing Santander vs Alaves | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090542240" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434990750794_eng_vs_pak_3test_D4_live_landscape_thumb.jpg" group-title="Live Events", Day 4 - 3rd Test - 12 Sep 2026 | Pakistan Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive1209/ENG/master.m3u8?hdnea=exp=1789249833~acl=/*~id=02908444677400515923681973450610~hmac=a5ddce227586c4e0836883c67a9afafb219b5af4599046ad9ec67683a1f121c4
 #EXTINF:-1 tvg-id="sonyliv-1090542233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Live Events", Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 | Sher-E-Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/master.m3u8?hdnea=exp=1789239039~acl=/*~id=18312086984706396017268295097690~hmac=22fb0394e786e3f760f5fd6e568036a9ff0247f42844b7c03b01348854b4d046
