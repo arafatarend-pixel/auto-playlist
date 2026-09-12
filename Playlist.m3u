@@ -146,7 +146,7 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
 http://mxonlive.xyz/live/xap/153175.m3u8?e=1789254128&token=206ddb449624b6c31751caf099e090fa7d5fbbbe341873db9d82062ce49d536b
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
-http://mxonlive.xyz/live/xap/167551.m3u8?e=1789303242&token=25fd93d0c76411d499b0d5b5bf099ce4982199135a31b35aafcf8d98c6e9b3ea
+http://mxonlive.xyz/live/xap/167551.m3u8?e=1789325954&token=5e859a403e2f53cd8b4b2f3ce17e90dec4ced9ead06ea0b7e6b97fdbeb068819
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
 http://mxonlive.xyz/live/xap/76722.m3u8?e=1789270407&token=9cf71c1353de2a9ce220d085fc0a73e8f301afee90e3f454cba2472e74790ed8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
@@ -184,9 +184,9 @@ http://mxonlive.xyz/live/xap/167571.m3u8?e=1789315355&token=c1454ad7c5373c910943
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
 http://mxonlive.xyz/live/xap/167572.m3u8?e=1789254128&token=b8d1232533b2e5f17c490cf74cdab2abd6249c214f9e83ee8ea6f3c2029278be
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5 HD
-http://mxonlive.xyz/live/xap/167580.m3u8?e=1789287973&token=6d37187370dae8c13a4c1e3a1f25cdbe4547a7588aa9baec99d3d956ca8c20bd
+http://mxonlive.xyz/live/xap/167580.m3u8?e=1789325954&token=afb7a18650c80afeb7d8fec8319bae3941134455f0c7232dde5ea2c5e177cc89
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
-http://mxonlive.xyz/live/xap/167575.m3u8?e=1789303242&token=ad0d14e8f243ec50ac77021736fda187f43601f607fcdd32456a4c02e65405d9
+http://mxonlive.xyz/live/xap/167575.m3u8?e=1789325954&token=512955a03b08042638e8388e7866a255d2d258a7f8cf7c8700a00c01979b5c49
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
 http://mxonlive.xyz/live/xap/167577.m3u8?e=1789270407&token=4c00c40ec3fbf1b1e562a352bb24736c0e90500c75fab76d248703e7452dc15f
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 1
@@ -196,17 +196,17 @@ http://mxonlive.xyz/live/xap/167579.m3u8?e=1789254128&token=45a21b70c9f5a5ffc8fe
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Cricbuzz" tvg-logo="https://en.wikipedia.org/wiki/Cricbuzz" group-title="SPORTS",IN | Astro Cricket HD
 http://mxonlive.xyz/live/xap/167581.m3u8?e=1789254128&token=388bcc18c01a452b5d095ebb82e9448947c226de39b522f19457bc1c4ea31be8
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
-http://mxonlive.xyz/live/xap/238478.m3u8?e=1789270407&token=51dc8d0d5bee366a2ab48fe62e574b44c867c76f59220a57de66364e4fc641f2
+http://mxonlive.xyz/live/xap/238478.m3u8?e=1789325954&token=0ebef18c39c38d533b3dee72d05d263f7c9ae5d0c35930cd7637962583b32429
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
 http://mxonlive.xyz/live/xap/238479.m3u8?e=1789287973&token=ba43120353ec99a73a5ca5947caad5d32918228c6bfd246a9ffecf271ee7881f
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
-http://mxonlive.xyz/live/xap/206278.m3u8?e=1789303242&token=17a0facf12261f6fa85656a2a3565651ed1056606e47b0492a51f612955935af
+http://mxonlive.xyz/live/xap/206278.m3u8?e=1789325954&token=290ca31540784b26a9924537079d1d6d5c2c3c54379a0453dde4072fbcc326e5
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
 http://mxonlive.xyz/live/xap/383184.m3u8?e=1789254128&token=d06a47f4d0f687ca907636327ec56e4224de7529515a98037613ab15060ec444
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1789315355&token=c0af7e3b3b73d7c4e25f76616d613ed503af99aed15d0107ecc90fbb0a48f279
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
-http://mxonlive.xyz/live/xap/206283.m3u8?e=1789303242&token=f4e61553ffdbcf339c79b6c8b0edcbdbda280a5c8e5368073c2c162a8097e366
+http://mxonlive.xyz/live/xap/206283.m3u8?e=1789325954&token=f0680b9c4743abc5e778e13a4a925913bf0c3b13570097467e5969f05d283f75
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1789245376&token=219b661d6baf92038d031e535f26b6f52472d00a91ce0519d062d9837f8e8dfe
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
@@ -281,15 +281,13 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789245376&token=58214416958e35d4c85ab
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789287973&token=a5ba4fb94907851a7df1abc510a588e3e2acbb4c28cb08cdc8f62af1d2ab9a0b
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789254128&token=8fba8f91a8ca6e6c567409577be51a88319567ca05882ad177ead7e4982370d9
-#EXTINF:-1 tvg-id="tapmad-17090" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891557791020x576.jpg" group-title="Live Events", Al-Taawoun vs Al-Hilal | Saudi Pro League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16952" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892134401020x576.jpg" group-title="Live Events", Real Madrid vs Rayo Vallecano | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16320" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890279041020x576.jpg" group-title="Live Events", Men's Doubles Final | US Open 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-16951" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891567281020x576.jpg" group-title="Live Events", Athletic vs Elche | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17091" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892131551020x576.jpg" group-title="Live Events", Al-Khaleej vs Al-Nassr | Saudi Pro League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090542276" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789800024248_Hyundai-Archery-World-Cup-Final_Compound-Men-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Live Events", Compound Men Elite QFs to Finals - 12 Sep 2026 | Hyundai Archery World Cup Final
+#EXTINF:-1 tvg-id="tapmad-17055" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891293781020x576.jpg" group-title="Live Events", Barbados Tridents Women vs Jamaica Empress Women | Women's Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090542276" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789770953248_Hyundai-Archery-World-Cup-Final_Compound-Women-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Live Events",  Compound Women Elite QFs to Finals - 13 Sep 2026 | Hyundai Archery World Cup Final
 https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/master.m3u8?hdnea=exp=1789271441~acl=/*~id=44860182479368830262310321006075~hmac=149868152feedd73fa3d82e6f48ac6faf99e94f764a294adfc8f5023e32f16d4
-#EXTINF:-1 tvg-id="sonyliv-1090542235" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg" group-title="Live Events", Amgen Irish Open - Day 3 - 12 Sep 2026 | DP World Tour
-https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpchea26/golf_amg1209-eng-1-ts-hls/master.m3u8?hdnea=exp=1789262439~acl=/*~id=90824958551661361923210940554021~hmac=4e125f44fe6d5943d1e8dabdf7f0cfed4212cf73cbadcc16670a18f98c94ec05
