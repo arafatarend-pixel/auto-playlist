@@ -210,7 +210,7 @@ http://mxonlive.xyz/live/xap/206283.m3u8?e=1789254128&token=0dbda939627669e91312
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1789245376&token=219b661d6baf92038d031e535f26b6f52472d00a91ce0519d062d9837f8e8dfe
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
-http://mxonlive.xyz/live/xap/383183.m3u8?e=1789170471&token=6781f44723fe54294840cdd0ca9faceb7cdcd0814fac3966c640f2a6f792fce0
+http://mxonlive.xyz/live/xap/383183.m3u8?e=1789254128&token=f5012622a3e92bcfe55131d201f2fe1e29da0d88542d8cc72bb784f0b05fed68
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1789254128&token=e3e3bace3e802830e51b4a3e08daf3302849e415f9197855158e59668cbbd0fb
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
@@ -285,3 +285,5 @@ http://mxonlive.xyz/live/xap/66187.m3u8?e=1789254128&token=8fba8f91a8ca6e6c56740
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890276661020x576.jpg" group-title="Live Events", Men's Singles Semifinal | US Open 2026
 https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-17173" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891106381020x576.jpg" group-title="Live Events", Suzuka 1000 Pre-Qualifying Round Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
