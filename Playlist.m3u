@@ -146,7 +146,7 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
 http://mxonlive.xyz/live/xap/153175.m3u8?e=1789254128&token=206ddb449624b6c31751caf099e090fa7d5fbbbe341873db9d82062ce49d536b
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
-http://mxonlive.xyz/live/xap/167551.m3u8?e=1789254128&token=0f93e37e1fcafb5dd32d0a6b106e61dad4054be6039f39892cde89c058cc6366
+http://mxonlive.xyz/live/xap/167551.m3u8?e=1789303242&token=25fd93d0c76411d499b0d5b5bf099ce4982199135a31b35aafcf8d98c6e9b3ea
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
 http://mxonlive.xyz/live/xap/76722.m3u8?e=1789270407&token=9cf71c1353de2a9ce220d085fc0a73e8f301afee90e3f454cba2472e74790ed8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
@@ -281,13 +281,15 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789245376&token=58214416958e35d4c85ab
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789287973&token=a5ba4fb94907851a7df1abc510a588e3e2acbb4c28cb08cdc8f62af1d2ab9a0b
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789254128&token=8fba8f91a8ca6e6c567409577be51a88319567ca05882ad177ead7e4982370d9
-#EXTINF:-1 tvg-id="tapmad-15935" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg" group-title="Live Events", England vs Pakistan | Pakistan Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16709" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890282571020x576.jpg" group-title="Live Events", Belfast Wolves vs Rotterdam Dockers | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17142" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890313571020x576.jpg" group-title="Live Events", Session 1 - Q1 Live | E1 Series 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16949" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg" group-title="Live Events", Racing Santander vs Alaves | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16710" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890283711020x576.jpg" group-title="Live Events", Dublin Guardians vs Glasgow Cosmic | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17054" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890235561020x576.jpg" group-title="Live Events", Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090542233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Live Events", Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 | Sher-E-Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/master.m3u8?hdnea=exp=1789239039~acl=/*~id=18312086984706396017268295097690~hmac=22fb0394e786e3f760f5fd6e568036a9ff0247f42844b7c03b01348854b4d046
+#EXTINF:-1 tvg-id="sonyliv-1090542235" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg" group-title="Live Events", Amgen Irish Open - Day 3 - 12 Sep 2026 | DP World Tour
+https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpchea26/golf_amg1209-eng-1-ts-hls/master.m3u8?hdnea=exp=1789262439~acl=/*~id=90824958551661361923210940554021~hmac=4e125f44fe6d5943d1e8dabdf7f0cfed4212cf73cbadcc16670a18f98c94ec05
