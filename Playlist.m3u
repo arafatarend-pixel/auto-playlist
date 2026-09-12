@@ -196,7 +196,7 @@ http://mxonlive.xyz/live/xap/167579.m3u8?e=1789254128&token=45a21b70c9f5a5ffc8fe
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Cricbuzz" tvg-logo="https://en.wikipedia.org/wiki/Cricbuzz" group-title="SPORTS",IN | Astro Cricket HD
 http://mxonlive.xyz/live/xap/167581.m3u8?e=1789254128&token=388bcc18c01a452b5d095ebb82e9448947c226de39b522f19457bc1c4ea31be8
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
-http://mxonlive.xyz/live/xap/238478.m3u8?e=1789245376&token=1fb0438ad454b5c3f54c53e64670d1d9ad5307ee65f4812b109358dfd879edbb
+http://mxonlive.xyz/live/xap/238478.m3u8?e=1789270407&token=51dc8d0d5bee366a2ab48fe62e574b44c867c76f59220a57de66364e4fc641f2
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
 http://mxonlive.xyz/live/xap/238479.m3u8?e=1789270407&token=5c3686d49591a608868e001b05d3b7f0b1bae5085cf2c8863815ad1623e79a4a
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
@@ -212,9 +212,9 @@ http://mxonlive.xyz/live/xap/206285.m3u8?e=1789245376&token=219b661d6baf92038d03
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
 http://mxonlive.xyz/live/xap/383183.m3u8?e=1789254128&token=f5012622a3e92bcfe55131d201f2fe1e29da0d88542d8cc72bb784f0b05fed68
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
-http://mxonlive.xyz/live/xap/206286.m3u8?e=1789254128&token=e3e3bace3e802830e51b4a3e08daf3302849e415f9197855158e59668cbbd0fb
+http://mxonlive.xyz/live/xap/206286.m3u8?e=1789270407&token=a131fbc2256516a19df1eb2e37c7ecc794abec513ec7e8aa7d0c60110fc343f2
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1789245376&token=9591274d7a10253f852c937513de3db60fc5e32c4059c946d87379aef8a2f436
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1789270407&token=d6e4d8eaeae9776699801298002228a62355c45b5c9f443243ab694c497993a9
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1789254128&token=9ce9f021a8fbf3d90b19178dd5254810c98534ea9399886c9d48f62695eb12bd
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
