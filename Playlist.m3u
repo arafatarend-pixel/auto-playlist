@@ -178,7 +178,7 @@ http://mxonlive.xyz/live/xap/219689.m3u8?e=1789357171&token=21ee129351ebd94e17cc
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
-http://mxonlive.xyz/live/xap/167570.m3u8?e=1789343329&token=dac7848a1e31770fb76ad723db909594cf064c2da1b9abe958eb8c818a5706c3
+http://mxonlive.xyz/live/xap/167570.m3u8?e=1789377078&token=a3e3cb70176f400f73dac0705dbb5a417145065a15aba7b4ead3713637899e4a
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
 http://mxonlive.xyz/live/xap/167571.m3u8?e=1789315355&token=c1454ad7c5373c9109435d3cebc1d51a6cccd8bb04ac39074106a1264dd8d598
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
@@ -232,11 +232,11 @@ http://mxonlive.xyz/live/xap/206294.m3u8?e=1789334540&token=d7591836daf8493ea0e7
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1789357171&token=a9b89cb0175ffa33a50439611280f542e5e352508a75b0e51229305a273ccd55
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
-http://mxonlive.xyz/live/xap/206296.m3u8?e=1789357171&token=ec6dabd2de0194dce18119e296a844937eeafb2c761c219f1f46a605ab9e188f
+http://mxonlive.xyz/live/xap/206296.m3u8?e=1789377078&token=8fefda6d183b3ab750bdfc0ce84bb077f4ce47c18dad3c2c6c312a60510532bd
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1789334540&token=ad38d6e119ffb2569029e425d372cb370c8b603b5f0e279a4811d7f5b503756c
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1789303242&token=1ebcb36aca5c3608e5579c0fb43eb281502764792492866dcb98853dfbb7fefb
+http://mxonlive.xyz/live/xap/66177.m3u8?e=1789377078&token=38d96e81ad50315ce3814e044a957802de8799cd57fdd44df33c6e70d545f7d1
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1789334540&token=6a47df52f631d8fd050297b9f9542725d0d64da46b1472280dd4b65ad5520884
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
@@ -283,3 +283,7 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1789357171&token=5ae6c259b2875ca72854d
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789334540&token=9b65d50bff060723b4808a24d8756799e190eb1ab7ad65f132286cb3f1256aae
 #EXTINF:-1 tvg-id="tapmad-17209" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892426431020x576.jpg" group-title="Live Events", Suzuka 1000 Race Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16711" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892918541020x576.jpg" group-title="Live Events", Edinburgh Castle Rockers vs Amsterdam Flames | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17152" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892435821020x576.jpg" group-title="Live Events", Session 3 - Group Stages Live | E1 Series 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
