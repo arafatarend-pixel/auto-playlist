@@ -218,7 +218,7 @@ http://mxonlive.xyz/live/xap/206587.m3u8?e=1789357171&token=a864afcb5470d0ee25d0
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1789334540&token=77e42f7f854457be86188479165f2c43e08dbd309503e1502fdaf3312dc64f8b
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
-http://mxonlive.xyz/live/xap/206289.m3u8?e=1789357171&token=d4fb76e6885acde85f9caf6d4d1b553fd84dd07cf1188626f9abb3733a86145f
+http://mxonlive.xyz/live/xap/206289.m3u8?e=1789377078&token=bb955a69673a1294a7cbc3ced927c9f1c93600b1f5c0bedfd4567efce295dc4a
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1789357171&token=90f6dc6bae31f010db6a81ff433433180784c9a2702455232456e086bec90a50
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
@@ -281,12 +281,14 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789334540&token=1ffee1cf7ae03a2ee3ac3
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789357171&token=5ae6c259b2875ca72854d752eb3a7f9d126178f306bb54b0bbc22612ce14120b
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789334540&token=9b65d50bff060723b4808a24d8756799e190eb1ab7ad65f132286cb3f1256aae
-#EXTINF:-1 tvg-id="tapmad-16953" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892142251020x576.jpg" group-title="Live Events", Celta vs Malaga | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892143281020x576.jpg" group-title="Live Events", Levante vs Barcelona | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16712" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892921111020x576.jpg" group-title="Live Events", Belfast Wolves vs Glasgow Cosmic | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17470" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892481601020x576.jpg" group-title="Live Events", India vs Afghanistan | India Tour of Afghanistan 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17162" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892440141020x576.jpg" group-title="Live Events", Session 5 - Finals Live | E1 Series 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090542258" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023901/1789234896847462_PT20_Final_Amritsar_Soormas_vs_Ludhiana_Lions_live_landscape_thumb.jpg" group-title="Live Events", Amritsar Soormas vs Ludhiana Lions - Final - 13 Sep 2026 | Sher-E-Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/master.m3u8?hdnea=exp=1789347045~acl=/*~id=61729219172855083481531084578657~hmac=e22944f029b52e6ad9400a53da48fba1f18f953808197e14d8f9d806217e5d6b
 #EXTINF:-1 tvg-id="sonyliv-1090542250" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="Live Events", India Women vs Sri Lanka Women - Final - 13 Sep 2026 | DP World Women's Asia Cup 2026
