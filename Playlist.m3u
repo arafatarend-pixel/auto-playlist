@@ -132,13 +132,13 @@ https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS Cartoon",IN: Cartoon Network
 http://mxonlive.xyz/live/xap/150478.m3u8?e=1789334540&token=44f5efeb9e283f9f80eabca89010e31f66c534308b89492ab52ef00e9ec98044
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
-http://mxonlive.xyz/live/xap/150483.m3u8?e=1789287973&token=bbc09ffbacfbd8a79d83115ae315039aecd405e979f579496fe6c8c2c6876c19
+http://mxonlive.xyz/live/xap/150483.m3u8?e=1789357171&token=41ecae639dc0e77689f4016a660b4467124fd784f898e2738ead4d0bc866cfc7
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
 http://mxonlive.xyz/live/xap/26187.m3u8?e=1789334540&token=6b28eda6bbd79df644ac561b45f28e54d76ec37307e099d1c4268c58c4011051
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1789357171&token=db342efb0702ec1c84e35feee82a9c6fd35071398d06f7dbe925e319f65ca4bd
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
-http://mxonlive.xyz/live/xap/150482.m3u8?e=1789287973&token=0e015c9e43403fd652ad9186eaf02246af0d12a862e2a84295e499edcdea61e0
+http://mxonlive.xyz/live/xap/150482.m3u8?e=1789357171&token=500a4ccf1c13b6535afcfbc239fc8d17c003d6bc37e2ab14428a6fc37a69b2e0
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
 http://mxonlive.xyz/live/xap/153156.m3u8?e=1789303242&token=d86db0dadeb6fff02a5dddb24928d1f705e6177a4cb100c9046bc1c7f1e623fe
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
@@ -150,7 +150,7 @@ http://mxonlive.xyz/live/xap/167551.m3u8?e=1789325954&token=5e859a403e2f53cd8b4b
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
 http://mxonlive.xyz/live/xap/76722.m3u8?e=1789325954&token=6b2fc99157a7f4919c15d9b3af13d7003a035ecb3400ffbe6b10873bd8cd7660
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
-http://mxonlive.xyz/live/xap/307079.m3u8?e=1789287973&token=016090c8056b9a3f55cbc545a2e8f08dd99b620b219696bfa4efd98a2807cf31
+http://mxonlive.xyz/live/xap/307079.m3u8?e=1789357171&token=628fbb15f97e7f077951c4f42d0425e797cdb785ded29e382d39c0d3ada35485
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
 http://mxonlive.xyz/live/xap/311373.m3u8?e=1789357171&token=431854f4e12e5890e0ef307bd788a5ad01e4fd731d4b21ede968d19e606f7da9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="KIDS Cartoon",Gopal Bhar TV
@@ -198,7 +198,7 @@ http://mxonlive.xyz/live/xap/167581.m3u8?e=1789334540&token=687e86e3bb15a560d181
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
 http://mxonlive.xyz/live/xap/238478.m3u8?e=1789357171&token=21b69b453895d03797c72e31ebea90d1bc1fa5e60c6fa1433cfb9c0729545923
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
-http://mxonlive.xyz/live/xap/238479.m3u8?e=1789287973&token=ba43120353ec99a73a5ca5947caad5d32918228c6bfd246a9ffecf271ee7881f
+http://mxonlive.xyz/live/xap/238479.m3u8?e=1789357171&token=f331cac0b9ef2532a5929b48fa9330f1f8864a627d3bbc1a08a581c5fced9f01
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
 http://mxonlive.xyz/live/xap/206278.m3u8?e=1789325954&token=290ca31540784b26a9924537079d1d6d5c2c3c54379a0453dde4072fbcc326e5
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
@@ -218,7 +218,7 @@ http://mxonlive.xyz/live/xap/206587.m3u8?e=1789357171&token=a864afcb5470d0ee25d0
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1789334540&token=77e42f7f854457be86188479165f2c43e08dbd309503e1502fdaf3312dc64f8b
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
-http://mxonlive.xyz/live/xap/206289.m3u8?e=1789287973&token=ff3ec3bcc0b9970c956d298ca778e6d15320765ff5d1e0b4d140a471023e0fba
+http://mxonlive.xyz/live/xap/206289.m3u8?e=1789357171&token=d4fb76e6885acde85f9caf6d4d1b553fd84dd07cf1188626f9abb3733a86145f
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1789357171&token=90f6dc6bae31f010db6a81ff433433180784c9a2702455232456e086bec90a50
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
@@ -278,7 +278,7 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789334540&token=1ffee1cf7ae03a2ee3ac3
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max [FHD]
 http://mxonlive.xyz/live/xap/66179.m3u8?e=1789334540&token=1ffee1cf7ae03a2ee3ac3fed7bd6a955aa732b2009c44d6bbae0e77e9c5aaa0e
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
-http://mxonlive.xyz/live/xap/66189.m3u8?e=1789287973&token=a5ba4fb94907851a7df1abc510a588e3e2acbb4c28cb08cdc8f62af1d2ab9a0b
+http://mxonlive.xyz/live/xap/66189.m3u8?e=1789357171&token=5ae6c259b2875ca72854d752eb3a7f9d126178f306bb54b0bbc22612ce14120b
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789334540&token=9b65d50bff060723b4808a24d8756799e190eb1ab7ad65f132286cb3f1256aae
 #EXTINF:-1 tvg-id="tapmad-17209" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892426431020x576.jpg" group-title="Live Events", Suzuka 1000 Race Live | GT World Challenge EU & Asia 2026
