@@ -212,7 +212,7 @@ http://mxonlive.xyz/live/xap/206285.m3u8?e=1789334540&token=6ba36e0a6d6c266189af
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
 http://mxonlive.xyz/live/xap/383183.m3u8?e=1789377078&token=976f6d3e60acd0aad2f8bff9f430b7c0eee6a8179167fb0d25ac06a0ae671d66
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
-http://mxonlive.xyz/live/xap/206286.m3u8?e=1789357171&token=49a2cd9395c14cf43c232649f813e7e11749e0129208e130da90a67364eabd99
+http://mxonlive.xyz/live/xap/206286.m3u8?e=1789408643&token=5dd06be903df11b6800964f6aa563679db2d3b3b2cf0bd8f63e6da287766f573
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
 http://mxonlive.xyz/live/xap/206587.m3u8?e=1789357171&token=a864afcb5470d0ee25d00437b2cdbac8fed80ba5627815c16e1af36b0caff304
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
@@ -222,7 +222,7 @@ http://mxonlive.xyz/live/xap/206289.m3u8?e=1789377078&token=bb955a69673a1294a7cb
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1789357171&token=90f6dc6bae31f010db6a81ff433433180784c9a2702455232456e086bec90a50
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
-http://mxonlive.xyz/live/xap/206292.m3u8?e=1789357171&token=17ffeafca456757e7ae4d3b04c88c83c87b515f0a3d40bac7c165a3575a38f9a
+http://mxonlive.xyz/live/xap/206292.m3u8?e=1789408643&token=7397ecf9dde63e498073df2b3184d68814dfe6538bafa89a4a652bbac5f474be
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
 http://mxonlive.xyz/live/xap/206279.m3u8?e=1789357171&token=e4cd49817f55a097dc3a0579f8cba12d53def676fe1cc40a96a074898070de88
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
@@ -283,7 +283,7 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1789357171&token=5ae6c259b2875ca72854d
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789334540&token=9b65d50bff060723b4808a24d8756799e190eb1ab7ad65f132286cb3f1256aae
 #EXTINF:-1 tvg-id="tapmad-16955" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892144341020x576.jpg" group-title="Live Events", Getafe vs Deportivo | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16322" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891308311020x576.jpg" group-title="Live Events", Championship Sunday Show | US Open 2026
+#EXTINF:-1 tvg-id="tapmad-16323" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891310551020x576.jpg" group-title="Live Events", Men's Singles Final | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-17056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891294991020x576.jpg" group-title="Live Events", Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
