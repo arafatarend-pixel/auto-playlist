@@ -178,7 +178,7 @@ http://mxonlive.xyz/live/xap/219689.m3u8?e=1789270407&token=a602d639da82ce99d230
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
-http://mxonlive.xyz/live/xap/167570.m3u8?e=1789270407&token=6176fdbdf499a08f1e7477fe43c5132da1f3b8ca6f87e91a8cd4dbcba7c81a4b
+http://mxonlive.xyz/live/xap/167570.m3u8?e=1789343329&token=dac7848a1e31770fb76ad723db909594cf064c2da1b9abe958eb8c818a5706c3
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
 http://mxonlive.xyz/live/xap/167571.m3u8?e=1789315355&token=c1454ad7c5373c9109435d3cebc1d51a6cccd8bb04ac39074106a1264dd8d598
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
@@ -281,9 +281,7 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789334540&token=1ffee1cf7ae03a2ee3ac3
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789287973&token=a5ba4fb94907851a7df1abc510a588e3e2acbb4c28cb08cdc8f62af1d2ab9a0b
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789334540&token=9b65d50bff060723b4808a24d8756799e190eb1ab7ad65f132286cb3f1256aae
-#EXTINF:-1 tvg-id="tapmad-16932" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890337031020x576.jpg" group-title="Live Events", Silva vs Delgado | UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15809" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891290981020x576.jpg" group-title="Live Events", Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090542394" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg" group-title="Live Events", NOCHE UFC - Silva vs Delgado - 13 Sep 2026 | NOCHE UFC - Silva vs Delgado
-https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/master.m3u8?hdnea=exp=1789289435~acl=/*~id=14000844105226145059963114022606~hmac=c04ecf2b99e36d62264ecd22abe7904e92677878dfbaf2191c52a5dd2f55e814
+#EXTINF:-1 tvg-id="tapmad-17203" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892421161020x576.jpg" group-title="Live Events", Porsche Carrera Cup Japan Race 2 Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
