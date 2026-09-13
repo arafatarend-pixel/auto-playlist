@@ -266,7 +266,7 @@ http://mxonlive.xyz/live/xap/66184.m3u8?e=1789418233&token=e4f8dd9bab7b72c6948e8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
 http://mxonlive.xyz/live/xap/66185.m3u8?e=1789418233&token=9ac23c3665f1c7b50fee694510fee13ee07083124efbb4829d3bfb25f8186c9c
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
-http://mxonlive.xyz/live/xap/66186.m3u8?e=1789334540&token=32b46550d57f2ecc3299c119c1e95e23037c22d2f709e8503b8c087177c52711
+http://mxonlive.xyz/live/xap/66186.m3u8?e=1789418233&token=6c588e40c160ea86ff401efde9d5170bb4b39228f12bb6702fb173970b30668c
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX
 http://mxonlive.xyz/live/xap/206315.m3u8?e=1789418233&token=80a72ead7939f811e2609965080826e0d56bd0fd1671b411c15512bb579446dc
 #EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX FHD
@@ -283,7 +283,5 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1789357171&token=5ae6c259b2875ca72854d
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789418233&token=f273af1e8c89a2cfa1c7b92647150ad1bf69247e9496dc859252aa123af44be4
 #EXTINF:-1 tvg-id="tapmad-16323" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891310551020x576.jpg" group-title="Live Events", Men's Singles Final | US Open 2026
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891294991020x576.jpg" group-title="Live Events", Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090542287" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Live Events", Recurve Women Elite QFs to Finals - 14 Sep 2026 | Hyundai Archery World Cup Final
 https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/master.m3u8?hdnea=exp=1789374037~acl=/*~id=40398816963422880294947269231338~hmac=a92fe639e48231b21c5bd44bf95286b3f47298c76a787a2522c026f10d06a358
