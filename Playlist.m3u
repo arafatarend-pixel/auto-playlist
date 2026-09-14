@@ -148,7 +148,7 @@ http://mxonlive.xyz/live/xap/153175.m3u8?e=1789451577&token=d4fba3add6dad1b73704
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1789451577&token=61e87e15352978b6b8ebcba13d05c7bd09b5e1e3ccad76d3ac2568893cb7fd18
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1789418233&token=b00a7d737b13ffa0e8df0e465bb565ae67beccdb7d8ea0752d66314b97bd594e
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1789496574&token=25f0d54e4d6701a3619a52af9e19f3cbcb649eff04690ef913687da81782e35c
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1789473781&token=6aca8e5ccab4cb1073726c1f041c00017873604cdf2ceec14f99d9ad5ca1855b
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -281,7 +281,11 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789418233&token=38d451371c00e56d61286
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789433452&token=d2a230d5a9783c636dc8503c0aba5cde88bf3feb3ec1086e1fb952c609ed0929
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789433452&token=0541a756147e9ae760b7314520656be1e6ca322ac26f9a716d399a516e4dc2df
-#EXTINF:-1 tvg-id="tapmad-17302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893731781020x576.jpg" group-title="Live Events", Shabab Al Ahli vs Tractor FC Live | AFC Champions League Elite 2026/27
+#EXTINF:-1 tvg-id="tapmad-17312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893740871020x576.jpg" group-title="Live Events", Al Ahli Saudi FC vs Pakhtakor Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17317" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893978571020x576.jpg" group-title="Live Events", Esteghlal FC vs Al Sadd SC Live | AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17307" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893699901020x576.jpg" group-title="Live Events", Al Shamal SC vs Al Ittihad Club Live | AFC Champions League Elite 2026/27
+#EXTINF:-1 tvg-id="tapmad-17322" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893735921020x576.jpg" group-title="Live Events", Al Qadsiah Club vs Al Wasl FC Live | AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16957" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893765981020x576.jpg" group-title="Live Events", Villarreal vs Betis | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
