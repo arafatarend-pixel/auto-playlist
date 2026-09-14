@@ -138,7 +138,7 @@ http://mxonlive.xyz/live/xap/26187.m3u8?e=1789418233&token=38a1d0c2114f9191bca16
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1789357171&token=db342efb0702ec1c84e35feee82a9c6fd35071398d06f7dbe925e319f65ca4bd
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
-http://mxonlive.xyz/live/xap/150482.m3u8?e=1789408643&token=270def85ba7b1ab605ba90f20c0cd6bf9e61f6d01f38d0b52423eaf988b11500
+http://mxonlive.xyz/live/xap/150482.m3u8?e=1789433452&token=7cf6814d56e71eaad085123f9963b4171e8b48d73e0fdd0c4b79b43031073eb9
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
 http://mxonlive.xyz/live/xap/153156.m3u8?e=1789377078&token=3bb32a19921b7b47cbd7aa56fe8bd22ec2628597769cc40960a596c77f85ed81
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
@@ -224,7 +224,7 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1789408643&token=c84545f614917e6d945a
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1789426600&token=cade739410557d8178561c1b5eb845a225fb1fcdca4a44061b9189008e15aa1b
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1789426600&token=fbbb1775c981db572927cd7166f7a558560ca8cf71644a54a4f860d35b18c064
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1789433452&token=94b1dd0f70e518afbc2a4890ae337a75d0242146ffe0127d1272c91530ec0845
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1789408643&token=22161051afcdcadf0c726f0cb226330c3b74f6b4e9e54917297bbf58680307f0
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
@@ -280,6 +280,6 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789418233&token=38d451371c00e56d61286
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789357171&token=5ae6c259b2875ca72854d752eb3a7f9d126178f306bb54b0bbc22612ce14120b
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
-http://mxonlive.xyz/live/xap/66187.m3u8?e=1789418233&token=f273af1e8c89a2cfa1c7b92647150ad1bf69247e9496dc859252aa123af44be4
+http://mxonlive.xyz/live/xap/66187.m3u8?e=1789433452&token=0541a756147e9ae760b7314520656be1e6ca322ac26f9a716d399a516e4dc2df
 #EXTINF:-1 tvg-id="tapmad-15810" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893025081020x576.jpg" group-title="Live Events", Barbados Tridents vs Guyana Amazon Warriors | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
