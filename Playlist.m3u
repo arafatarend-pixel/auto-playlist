@@ -178,7 +178,7 @@ http://mxonlive.xyz/live/xap/219689.m3u8?e=1789521208&token=2afcb4a7ef807eef99b4
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 http://mxonlive.xyz/live/xap/167590.m3u8?e=1789451577&token=e78990bbe3753a83b6e0e8d8fe3fa85e80cf68736d21d8ae72bb116f23c92c36
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
-http://mxonlive.xyz/live/xap/167570.m3u8?e=1789451577&token=af396e14d1e7b64f55706e447c668b3791b44c180f67653f6d9d6d4e5dd4c7ef
+http://mxonlive.xyz/live/xap/167570.m3u8?e=1789521208&token=11596a8864aaefd8478718554aa62a544a9f7122c999f77b1a43cd712fccd369
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
 http://mxonlive.xyz/live/xap/167571.m3u8?e=1789473781&token=c8411fd5eb321b740f295c185dffa88bcf741aefe5babb272792d82f5e0ea84d
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
@@ -280,4 +280,4 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789496574&token=59b4e39829d4a34ef9935
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789521208&token=f37e94a8f44b82630c77b77cb6b4548231570a00c24e031af61c1a419403eea5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
-http://mxonlive.xyz/live/xap/66187.m3u8?e=1789433452&token=0541a756147e9ae760b7314520656be1e6ca322ac26f9a716d399a516e4dc2df
+http://mxonlive.xyz/live/xap/66187.m3u8?e=1789521208&token=c57559b228a55b52b5d990a5e71a0257fbd566620d5d69afcd69758bb12c9fe1
