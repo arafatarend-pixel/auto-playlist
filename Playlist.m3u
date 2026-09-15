@@ -283,9 +283,15 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1789521208&token=f37e94a8f44b82630c77b
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789521208&token=c57559b228a55b52b5d990a5e71a0257fbd566620d5d69afcd69758bb12c9fe1
 #EXTINF:-1 tvg-id="tapmad-17374" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" group-title="Live Events", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg" group-title="Live Events", Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17347" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894549001020x576.jpg" group-title="Live Events", Johor Darul Ta'zim FC vs Buriram United Live | AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17352" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894559191020x576.jpg" group-title="Live Events", Beijing FC vs FC Pohang Steelers Live | AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16714" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg" group-title="Live Events", Edinburgh Castle Rockers vs Rotterdam Dockers | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17392" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894594931020x576.jpg" group-title="Live Events", Golgohar Sirjan SC vs Al Jazira Club Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17397" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894598311020x576.jpg" group-title="Live Events", FC Arkadag vs Al Muharraq SC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17471" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893759361020x576.jpg" group-title="Live Events", India vs Afghanistan | India Tour of Afghanistan 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
