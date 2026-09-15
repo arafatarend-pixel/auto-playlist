@@ -114,7 +114,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Bangla"tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bangla",IND-Bangla: Star Jalsa HD
-http://mxonlive.xyz/live/xap/245898.m3u8?e=1789521208&token=ba71b54cc0ce18adf734c7d5c5e417949ab7fc1710269ae9aa73878aaf80243e
+http://mxonlive.xyz/live/xap/245898.m3u8?e=1789593146&token=921edcec7364b7dd2f8c68f3ae8180647795cacb2bc40316eb5847addfcd4d56
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/COLORS BANGLA FHD.png", ┃BANGLA┃ COLORS BANGLA FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908665.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="BanglaPlusHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir8DIISD_3Ay4E2H__HTS4VFP7VXskYcIgkufU45epPzAFDKObL2D_p6mOal9B0RJpyaiA3feJuyaL8yvd0x-2nykRjc1pZPwT_aAGwmwFb4bEJf8oVDgty5NF30gzWlwHvh2P2c49pP2P8383ili_yboK1uSyqELcZygHTpSwru1VeK0mMwceugT5QLw/s1600/NadimRazaTVLogoDesign%282%29_copy_900x900_1.png",Bangla+ HD
@@ -214,7 +214,7 @@ http://mxonlive.xyz/live/xap/383183.m3u8?e=1789521208&token=527460a1286eea26e048
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1789521208&token=02350d4675371aca20ad2e106002472abe53449ab4c4f2dc5db8d7dcf55115dc
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1789543126&token=7560103a02592e929d602ef4b46cfd8a0f9e7091e83c52b5cb9c6f5975fcb88e
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1789593146&token=33ab5b84c3b087da850a5a9692059d2dd079671071217826d5ad9dd7fe0b61c3
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1789581520&token=cefc8bba38bb5b2326a1e75cfaf95af9b96ccaecba91078c7a44e46180f575db
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
@@ -262,7 +262,7 @@ http://mxonlive.xyz/live/xap/206307.m3u8?e=1789543126&token=4802d93af1a55a6fa238
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
 http://mxonlive.xyz/live/xap/206268.m3u8?e=1789510702&token=f881f65e172127082aea81a123c0b801f5c3f4045c8a6069927929e819309698
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
-http://mxonlive.xyz/live/xap/66184.m3u8?e=1789581520&token=44ea1cc45318fc0acaabb360854823c3fc65e6551f9fc1dbcd035789f025c97d
+http://mxonlive.xyz/live/xap/66184.m3u8?e=1789593146&token=11dd2eeb7424a8a5f0160b0d515387045c4d9e24dcac673559bfda61af81a8ba
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
 http://mxonlive.xyz/live/xap/66185.m3u8?e=1789510702&token=6e01cdaa58d2e13c823f86c060febf6619f35fe40d360ea1fa9d3d75c16b43f0
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
@@ -281,9 +281,3 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789581520&token=378f0b1dc22d09551277e
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789521208&token=f37e94a8f44b82630c77b77cb6b4548231570a00c24e031af61c1a419403eea5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789521208&token=c57559b228a55b52b5d990a5e71a0257fbd566620d5d69afcd69758bb12c9fe1
-#EXTINF:-1 tvg-id="tapmad-16960" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894708691020x576.jpg" group-title="Live Events", Elche vs Real Madrid | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17383" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893786531020x576.jpg" group-title="Live Events", England vs Sri Lanka | Sri Lanka Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090542511" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg" group-title="Live Events", 1st T20I - 15 Sep 2026 | Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/master.m3u8?hdnea=exp=1789536042~acl=/*~id=85735137634254503680806142406061~hmac=85d55024d9ab721d2ec98d41647686dea24fc2911dfa181d125d04762451af4c
