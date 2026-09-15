@@ -132,7 +132,7 @@ https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS Cartoon",IN: Cartoon Network
 http://mxonlive.xyz/live/xap/150478.m3u8?e=1789496574&token=6356ad6c50b78cbe9514592a5e59dca6037a2c1efa3e5be65238bdc3e86a7cb8
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
-http://mxonlive.xyz/live/xap/150483.m3u8?e=1789521208&token=a2d6b7053290ddfae88b09f536a72c01f6133e7104ed140d5032052b56d28d82
+http://mxonlive.xyz/live/xap/150483.m3u8?e=1789543126&token=277cf00c4f665c71cbb659c990c54691d4b952bce139e9f6ad1f759f1c585dcd
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
 http://mxonlive.xyz/live/xap/26187.m3u8?e=1789496574&token=69dd2c7019dece80ca20fe8889b08c0a3fca7ceb477231b135a8e2fb8351bef6
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
@@ -150,7 +150,7 @@ http://mxonlive.xyz/live/xap/167551.m3u8?e=1789543126&token=9b280ae7f4c24b617259
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
 http://mxonlive.xyz/live/xap/76722.m3u8?e=1789496574&token=25f0d54e4d6701a3619a52af9e19f3cbcb649eff04690ef913687da81782e35c
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
-http://mxonlive.xyz/live/xap/307079.m3u8?e=1789473781&token=6aca8e5ccab4cb1073726c1f041c00017873604cdf2ceec14f99d9ad5ca1855b
+http://mxonlive.xyz/live/xap/307079.m3u8?e=1789543126&token=9379023d6f083c9ab04b2b5d74131b1765a24d00458550e6ebb4e16cc065c01d
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
 http://mxonlive.xyz/live/xap/311373.m3u8?e=1789521208&token=a50866348bb9b5332c08ef9e40b53388dd9e65a4b8e6e27c0885a5e43af3c29b
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="KIDS Cartoon",Gopal Bhar TV
@@ -266,7 +266,7 @@ http://mxonlive.xyz/live/xap/66184.m3u8?e=1789496574&token=30bcc4536510ba302234c
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
 http://mxonlive.xyz/live/xap/66185.m3u8?e=1789510702&token=6e01cdaa58d2e13c823f86c060febf6619f35fe40d360ea1fa9d3d75c16b43f0
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
-http://mxonlive.xyz/live/xap/66186.m3u8?e=1789496574&token=9af9a36c1966ae76d9cc238a2934baa819bfc70cdaec2a72106cc0afc0e61fdf
+http://mxonlive.xyz/live/xap/66186.m3u8?e=1789543126&token=2ebf4d6db11660771cac6d3fecb9e4fc28362b44be72cc088de6f0f7573b61f2
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX
 http://mxonlive.xyz/live/xap/206315.m3u8?e=1789496574&token=26de91c3e833763aa01b87604db215f8e0c86775f5d5f1b2c61d2a25babf7398
 #EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX FHD
@@ -285,3 +285,11 @@ http://mxonlive.xyz/live/xap/66187.m3u8?e=1789521208&token=c57559b228a55b52b5d99
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg" group-title="Live Events", Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17327" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894526861020x576.jpg" group-title="Live Events", Kashima Antlers vs Newcastle Jets FC Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17332" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894533151020x576.jpg" group-title="Live Events", Daejeon Hana Citizen vs Kyota Sanga F.C Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894538321020x576.jpg" group-title="Live Events", Gamba Osaka vs Cong An Ha Noi Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894543791020x576.jpg" group-title="Live Events", Ratchaburi FC vs Shanghai Port FC Live | AFC Champions League Elite 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
