@@ -138,7 +138,7 @@ http://mxonlive.xyz/live/xap/26187.m3u8?e=1789581520&token=cb3215ec327a4d88d278f
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1789543126&token=0861c732bc57c288fa5712ef9a7aa875d6b20b613edc139bd6e65144e249b26a
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
-http://mxonlive.xyz/live/xap/150482.m3u8?e=1789521208&token=655ce535f14efc37dab7e2962bd40f09ce2993318439ccac638650e3625faf43
+http://mxonlive.xyz/live/xap/150482.m3u8?e=1789603220&token=5a736a693cd18ad3ad43a24249d8841686ef16c12450d4294f16a337ab48d7c4
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
 http://mxonlive.xyz/live/xap/153156.m3u8?e=1789593146&token=8600b8ad59fe81ce51094a699f8531aef7c532cbbb7a98d283525a3cbac11c20
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
@@ -228,7 +228,7 @@ http://mxonlive.xyz/live/xap/206279.m3u8?e=1789543126&token=e9bacff018e6b3d36268
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1789543126&token=0407d40aa1af13bb41fd3cdf8b1e5dc9d0d0a0cee6bc59e0cb9bafd421b1f77c
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
-http://mxonlive.xyz/live/xap/206294.m3u8?e=1789593146&token=a73187644e29f6c1efb9d0f5735a3b4147578a0595779804776dc938e8430a62
+http://mxonlive.xyz/live/xap/206294.m3u8?e=1789603220&token=ba60f9fb5ea062103077b408fd69e8854f8d15f6da4fa1c8b646ae56e0461026
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1789603220&token=65bf5cbaadf95a38f12c6f1630a75fd0cd0b7c67f3de4ce915e1352322220788
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
@@ -264,7 +264,7 @@ http://mxonlive.xyz/live/xap/206268.m3u8?e=1789593146&token=b7bef09420f4310140e3
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
 http://mxonlive.xyz/live/xap/66184.m3u8?e=1789593146&token=11dd2eeb7424a8a5f0160b0d515387045c4d9e24dcac673559bfda61af81a8ba
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
-http://mxonlive.xyz/live/xap/66185.m3u8?e=1789593146&token=d9df7672330bb325cf31248cc86e3829fdca9b8bf1368524ca49ea93933299da
+http://mxonlive.xyz/live/xap/66185.m3u8?e=1789603220&token=1ab6d99bf38afa7c84ed5af3aecdb97991dfe15ed8b56154c307a4b11225575f
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
 http://mxonlive.xyz/live/xap/66186.m3u8?e=1789543126&token=2ebf4d6db11660771cac6d3fecb9e4fc28362b44be72cc088de6f0f7573b61f2
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX
