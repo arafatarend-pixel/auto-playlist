@@ -281,10 +281,6 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789581520&token=378f0b1dc22d09551277e
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789603220&token=10774feb2702c6b69ca8588c67e89b804bc5d13a469dbf28f3a39c8803532839
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789603220&token=26ff50049b6fe2032d26b7f16c39075b059ae30c83f30d0584a034cb5165ce3d
-#EXTINF:-1 tvg-id="tapmad-17372" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895389651020x576.jpg" group-title="Live Events", Port FC vs Vissel Kobe Live | AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17407" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895418831020x576.jpg" group-title="Live Events", The Cong - Viettel FC vs Melbourne Victory FC Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16715" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894622951020x576.jpg" group-title="Live Events", Glasgow Cosmic vs Amsterdam Flames | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17057" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894619701020x576.jpg" group-title="Live Events", Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026
