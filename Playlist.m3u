@@ -285,3 +285,11 @@ http://mxonlive.xyz/live/xap/66187.m3u8?e=1789603220&token=26ff50049b6fe2032d26b
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17057" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894619701020x576.jpg" group-title="Live Events", Barbados Tridents Women vs Guyana Amazon Warriors Women | Women's Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17412" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895422821020x576.jpg" group-title="Live Events", Al Hussein vs East Bengal FC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17417" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895435431020x576.jpg" group-title="Live Events", Al Wahda FC vs Kuwait SC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17422" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895444071020x576.jpg" group-title="Live Events", Al Khaldiya SC vs PFC Nasaf Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17427" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895448061020x576.jpg" group-title="Live Events", Al Nahda Club vs Al Taawoun FC Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
