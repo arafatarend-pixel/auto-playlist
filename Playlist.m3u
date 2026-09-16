@@ -62,7 +62,7 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Bangla",Anando TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8?e=1784102563&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=89a6bfdee0a7ecb358080b2c44f18b41
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Bangla",Duronto TV
 https://tvsen5.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.fmp4.m3u8?token=26849003e1fe1bed0b0c40f6d3be853eb9a2b4f7-6a6a5971089a426fc1829aad7d929e8a-1784095967-1784095067&remote=no_check_ip
 #EXTINF:-1 tvg-id="141000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla",SRK TV
@@ -148,7 +148,7 @@ http://mxonlive.xyz/live/xap/153175.m3u8?e=1789603220&token=921b54ce7843244a22aa
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1789543126&token=9b280ae7f4c24b617259389da7e2f8853c79a8dc79e561dede7a572f48d57859
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1789543126&token=f5178cdd88b6f070c557ca444b9616242bf5bad7b68716fbb4128c4ce10d2edf
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1789623658&token=eab3337a4c665836101aa7786daa30a0cc3b19eec41d55cda1a6484c68ea0705
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1789543126&token=9379023d6f083c9ab04b2b5d74131b1765a24d00458550e6ebb4e16cc065c01d
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -180,7 +180,7 @@ http://mxonlive.xyz/live/xap/167590.m3u8?e=1789603220&token=0c6760c1bb3c89631a10
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
 http://mxonlive.xyz/live/xap/167570.m3u8?e=1789603220&token=1a30a1d70eadfc23438bb51def60821b75ba7ccac23bf3ee22d191728f282f64
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
-http://mxonlive.xyz/live/xap/167571.m3u8?e=1789543126&token=0bf89604294d42404754a49586f18f0e5cdf48378cc18cbc2a7e6e82d1a6061f
+http://mxonlive.xyz/live/xap/167571.m3u8?e=1789623658&token=5620c293f31e89f9b7d3fb310db1ccd00c5a488f1c84c593e41f82cce398e8a2
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
 http://mxonlive.xyz/live/xap/167572.m3u8?e=1789581520&token=2bc66cb8c8e1fff58546605914e66d49e1b2137874e352909588ae900245d201
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5 HD
@@ -188,7 +188,7 @@ http://mxonlive.xyz/live/xap/167580.m3u8?e=1789593146&token=146dfdad3152229d6507
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
 http://mxonlive.xyz/live/xap/167575.m3u8?e=1789543126&token=42977ccc3a34882b4a63ffc652f1719c341b9f6a43cf54674cdeaf4f1b9bd83a
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
-http://mxonlive.xyz/live/xap/167577.m3u8?e=1789603220&token=7646741875a815227d7ad783ed7b250558d7de32fec13e2c632a284557a2151a
+http://mxonlive.xyz/live/xap/167577.m3u8?e=1789623658&token=45e8420d4c7ffc6910ae4d04901f2275bd2d68ca7d480470cc78ae91d8068830
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 1
 http://mxonlive.xyz/live/xap/167578.m3u8?e=1789603220&token=2567966a144ceaf928a259d0dbbb55dda3fc770ee37516893417dcfb2664ebd5
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 2
