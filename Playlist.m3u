@@ -130,7 +130,7 @@ https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b9a8bdbfcea2fb4656204d06f615682a_playmist_thikana400x400.jpg" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS Cartoon",IN: Cartoon Network
-http://mxonlive.xyz/live/xap/150478.m3u8?e=1789593146&token=5fc885b419379a6bdfcbcf0897f2eb726dec596da9721a6a55bbc86698d96298
+http://mxonlive.xyz/live/xap/150478.m3u8?e=1789623658&token=376d4ae4d8b55361bd90a034420586b3f0cb4a5786ac7396cc66ad573a865506
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
 http://mxonlive.xyz/live/xap/150483.m3u8?e=1789623658&token=10e93a6ff23f218cdda2df064b03a7fb8cdb27ab5d13a46112a82cc0ddc93aeb
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
@@ -206,11 +206,11 @@ http://mxonlive.xyz/live/xap/383184.m3u8?e=1789593146&token=1e21117a03ee0f3da186
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1789593146&token=060788f3119e71fd88521af5dfe1e732087618447def637c0a6913616421f942
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
-http://mxonlive.xyz/live/xap/206283.m3u8?e=1789581520&token=b4467c5103c0ed3f60bd8ff4a8f77ef4ca825943870410f4d6d808cbf2cabe8c
+http://mxonlive.xyz/live/xap/206283.m3u8?e=1789623658&token=e2c9d6f39a23a241cac0675beb22c2d109ac3e1e4d99c01120b2a040f640111c
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1789581520&token=f842faf634b5f2ea5320af65b815496dc214a9fc0388b30b0e9715077d926c24
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
-http://mxonlive.xyz/live/xap/383183.m3u8?e=1789603220&token=bf00913f700b8159fc433431b77008f2698e554932ff4f4172322768d9e98849
+http://mxonlive.xyz/live/xap/383183.m3u8?e=1789623658&token=707529fe60fd94e496e2bba2903e6c9f5c3974401379bf742c0fc8f637f1d448
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1789603220&token=ad8de27b04faea21006c5a96a88b90fc8b6e660ddde3893f15dab2cd39439d2e
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
@@ -220,7 +220,7 @@ http://mxonlive.xyz/live/xap/206287.m3u8?e=1789581520&token=cefc8bba38bb5b2326a1
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://mxonlive.xyz/live/xap/206289.m3u8?e=1789603220&token=ca268989777648be3b252b04812374f631ed7cf9e0b75267bf2ce494f378dd89
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
-http://mxonlive.xyz/live/xap/206291.m3u8?e=1789593146&token=e00155d95123a990eb9d771764db8fe3c0ac90d4da3a81ecc223d8dd2646491c
+http://mxonlive.xyz/live/xap/206291.m3u8?e=1789623658&token=80956d9bc7c66920a618e06daf56f474d96c127a2ad6051ee9ba8530d8402cf1
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1789623658&token=d9a798b25be5d11d887e2b450795edb6c71118bcbbc4c19024e6d69b005842e9
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
@@ -281,3 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789581520&token=378f0b1dc22d09551277e
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789603220&token=10774feb2702c6b69ca8588c67e89b804bc5d13a469dbf28f3a39c8803532839
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789603220&token=26ff50049b6fe2032d26b7f16c39075b059ae30c83f30d0584a034cb5165ce3d
+#EXTINF:-1 tvg-id="tapmad-17402" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895379421020x576.jpg" group-title="Live Events", FC Seoul vs Persib Bandung Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
