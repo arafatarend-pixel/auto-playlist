@@ -222,7 +222,7 @@ http://mxonlive.xyz/live/xap/206289.m3u8?e=1789603220&token=ca268989777648be3b25
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1789623658&token=80956d9bc7c66920a618e06daf56f474d96c127a2ad6051ee9ba8530d8402cf1
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
-http://mxonlive.xyz/live/xap/206292.m3u8?e=1789623658&token=d9a798b25be5d11d887e2b450795edb6c71118bcbbc4c19024e6d69b005842e9
+http://mxonlive.xyz/live/xap/206292.m3u8?e=1789642719&token=fbb5f8f95b140826e186e2b665f38d7d1969bb52fef8fe1606c67041f7a730cf
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
 http://mxonlive.xyz/live/xap/206279.m3u8?e=1789623658&token=b461947133d2059c17fe77ea2babaa01a1b0d80503bc8a82c72fed69845027f7
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
@@ -281,5 +281,7 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789581520&token=378f0b1dc22d09551277e
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789603220&token=10774feb2702c6b69ca8588c67e89b804bc5d13a469dbf28f3a39c8803532839
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789603220&token=26ff50049b6fe2032d26b7f16c39075b059ae30c83f30d0584a034cb5165ce3d
+#EXTINF:-1 tvg-id="tapmad-17367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895385631020x576.jpg" group-title="Live Events", Jeonbuk Hyundai Motors FC vs Kashiwa Reysol Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17402" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895379421020x576.jpg" group-title="Live Events", FC Seoul vs Persib Bandung Live | AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
