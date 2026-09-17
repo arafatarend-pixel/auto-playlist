@@ -206,7 +206,7 @@ http://mxonlive.xyz/live/xap/383184.m3u8?e=1789673038&token=f993090fe042b13f5614
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1789658604&token=da9032f152a0e78340e866980f554df80a4a5d25e3ff0a56b719be239841c902
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
-http://mxonlive.xyz/live/xap/206283.m3u8?e=1789673038&token=bfe1440e064c8ff7df22fc25c475325eaef40e84803af725bbec07ea4177bdfa
+http://mxonlive.xyz/live/xap/206283.m3u8?e=1789693602&token=d44b539d12a982f8a8f73d0b00298cd69334632235ac7791b65e3b117734894e
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1789658604&token=9716151ba378f1973c18f513427a1cf7a1ad6793ad159c545b80ad1ed211957e
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
@@ -280,7 +280,7 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789658604&token=9ed5116a02d55d28445a5
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789684847&token=dcca1c60af48abf2da72e8d36783ccb46171516a003d7ec7b95fc308b7dc72b1
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
-http://mxonlive.xyz/live/xap/66187.m3u8?e=1789684847&token=71c9e571907c840088e7c541b2ddd14f9a222c9848d13bf705154d420ae97b71
+http://mxonlive.xyz/live/xap/66187.m3u8?e=1789693602&token=41488deaa89ed48e78189f94edea65320a12eac2c9536faf2b7fb3173169668d
 #EXTINF:-1 tvg-id="tapmad-15811" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895486181020x576.jpg" group-title="Live Events", Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582375033840_AG26_QF_bangladesh_vs_china_landscape_thumb.jpg" group-title="Live Events", Bangladesh Women vs People’s Republic of China Women - QF 1 - 17 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
