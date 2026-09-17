@@ -130,7 +130,7 @@ https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b9a8bdbfcea2fb4656204d06f615682a_playmist_thikana400x400.jpg" group-title="Bangla",Thikana
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS Cartoon",IN: Cartoon Network
-http://mxonlive.xyz/live/xap/150478.m3u8?e=1789736779&token=7873a0e7f8b1ac8a30d38e0c18619dc55ffa201ba69f801aa220928f3fecf08d
+http://mxonlive.xyz/live/xap/150478.m3u8?e=1789754252&token=8edc53d8323fb59dfbf144f40c954384cdb6a42be56d1e9e83d8258e4dabdb43
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
 http://mxonlive.xyz/live/xap/150483.m3u8?e=1789736779&token=8b6e43741f996cc9a8bc7dd4b7f7ef82251031b96958d8f5039fb11cac3afed8
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
@@ -198,21 +198,21 @@ http://mxonlive.xyz/live/xap/167581.m3u8?e=1789684847&token=4867a3f00f70933624dc
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
 http://mxonlive.xyz/live/xap/238478.m3u8?e=1789684847&token=b2e761ddf3d92a1b9070c20cdc219e5f0ef78757e10f29b0ce4f0a965bd3e271
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
-http://mxonlive.xyz/live/xap/238479.m3u8?e=1789693602&token=68667f137a546289ee77158797a1a5ef3dab5d407aee9d5c3a8c336b9c9182bb
+http://mxonlive.xyz/live/xap/238479.m3u8?e=1789754252&token=eed4fc82a832f07e57fb4ba676a3d3326bfba681b6c56823449008ea4e0cbe85
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
 http://mxonlive.xyz/live/xap/206278.m3u8?e=1789684847&token=9b9200fe2926eb18c51740cb86cba2c941041bcfc70d964f0fa475186b9a412e
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
-http://mxonlive.xyz/live/xap/383184.m3u8?e=1789673038&token=f993090fe042b13f5614ca93d80da1c7517a9b7867b3e4e956fe8a46214cd3cd
+http://mxonlive.xyz/live/xap/383184.m3u8?e=1789754252&token=875edeb1ca454b6ac66ad07e19a81cb732c748e38c772063654ea278d2493040
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1789736779&token=13979fd0f9fb46ce47c9b391696ede53d953f77367a1c84319a71a65ffaf00f9
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
 http://mxonlive.xyz/live/xap/206283.m3u8?e=1789693602&token=d44b539d12a982f8a8f73d0b00298cd69334632235ac7791b65e3b117734894e
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
-http://mxonlive.xyz/live/xap/206285.m3u8?e=1789736779&token=e63834d60eb6d0244f79520d0101e9fed10e440021089a4a071739ec854c9f80
+http://mxonlive.xyz/live/xap/206285.m3u8?e=1789754252&token=0ce62ff79c6625adac6da595b9eb8dbb127e7db15dbca1e9f697b72c65c1c62c
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
 http://mxonlive.xyz/live/xap/383183.m3u8?e=1789673038&token=b76c70c55e047b28467d5de17ac29e55e860f333ca2eb32a7e85051bd4cb27be
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
-http://mxonlive.xyz/live/xap/206286.m3u8?e=1789684847&token=9fc3311671c926ee29d3a10d162d03d2361a1b47021f68b81cb043957f4c9c17
+http://mxonlive.xyz/live/xap/206286.m3u8?e=1789754252&token=6d1a15356867aa875ab51584c6bb0081c496678e2a520445e3d0adbf66c6bdb1
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
 http://mxonlive.xyz/live/xap/206587.m3u8?e=1789736779&token=615ddfaff0df1b0107f2f5b3f08710821caa5e6dde3a24382fd58ab5c09c4866
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
@@ -222,15 +222,15 @@ http://mxonlive.xyz/live/xap/206289.m3u8?e=1789715759&token=e3f871ca7d32e2f5a4d4
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1789736779&token=fa84172189b408deb3dfc0c6b0eecb1cedbdef2899ac4b226ee501ae7ed2d6d0
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
-http://mxonlive.xyz/live/xap/206292.m3u8?e=1789715759&token=d6252dfcafc338f75a98dffbc13be431616be5adef30526662bd129bd5632f0e
+http://mxonlive.xyz/live/xap/206292.m3u8?e=1789754252&token=c6271afa116dcba7780646c96ae9c83937832c7df60c93663dad55c13a5e7a85
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1789736779&token=938e7201e47a4e5af4cfdaee610c88fd73bee64d005be430224d89f3e8f39052
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1789754252&token=6bc89f0a1d4f4f1d1d123be3c6ea024be3b9673dd7d465706cb0fe9e179a42d5
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1789715759&token=54045b3e2be7e70fe2caca1ef3a0c6d9734f10ab60ceec5b12ab8802768b0b43
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
 http://mxonlive.xyz/live/xap/206294.m3u8?e=1789684847&token=df6692aa228a40cd225f95d56d8470f4bd3437ce8f5d4457095c39ffab468679
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
-http://mxonlive.xyz/live/xap/206295.m3u8?e=1789736779&token=506b9862b184e55dc224c8befc12a38ab2bd008ec1641902a9d0960eaa406c26
+http://mxonlive.xyz/live/xap/206295.m3u8?e=1789754252&token=9568406afddb534ecb3449ec895a49e6d25e7507895660c4b868075df4523dde
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
 http://mxonlive.xyz/live/xap/206296.m3u8?e=1789736779&token=bd7b5d792b217efb34695aa1fdaea4095bcd616272657242460e8754885e6d9d
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
@@ -285,5 +285,17 @@ http://mxonlive.xyz/live/xap/66187.m3u8?e=1789693602&token=41488deaa89ed48e78189
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg" group-title="Live Events", India vs Afghanistan | India Tour of Afghanistan 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090542526" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419411300492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day1_landscape_thumb.jpg" group-title="Live Events", BMW PGA Championship - Day 1 - 17 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/master.m3u8?hdnea=exp=1789685473~acl=/*~id=20192000311940308336030659552520~hmac=2ecea82ef8a1f80c12fbc458f9fa4f9dfdedc65587f717aa5be896d5375c4fac
+#EXTINF:-1 tvg-id="tapmad-17285" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895534131020x576.jpg" group-title="Live Events", Levski Sofia vs RB Salzburg | UEFA Europa League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17286" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895566631020x576.jpg" group-title="Live Events", OFI vs Hoffenheim | UEFA Europa League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895591411020x576.jpg" group-title="Live Events", Betis vs Getafe | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894714901020x576.jpg" group-title="Live Events", England vs Sri Lanka | Sri Lanka Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090542669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg" group-title="Live Events", 2nd T20I - 17 Sep 2026 | Sri Lanka Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/master.m3u8?hdnea=exp=1789708840~acl=/*~id=98958507771675793209147512988664~hmac=fab4acfe06e1cc55763ac686890ae62f73aaeae9db31d23b89d3843a28641a77
+#EXTINF:-1 tvg-id="sonyliv-1090542648" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531414631688_UEL2627_MD1_OFI_Crete_vs_Hoffenheim_4sep_landscape_thumb.jpg" group-title="Live Events", OFI Crete vs Hoffenheim -  MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/master.m3u8?hdnea=exp=1789705239~acl=/*~id=47698494843227088780874092583453~hmac=ac3b563669ba48f4726a28da27ad38bfb3571f5d7c8de65bfa0486531298ba53
+#EXTINF:-1 tvg-id="sonyliv-1090542649" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532203409688_UEL2627_MD1_Levski_Sofia_vs_Salzburg_4sep_landscape_thumb.jpg" group-title="Live Events", Levski Sofia vs Salzburg - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/master.m3u8?hdnea=exp=1789705247~acl=/*~id=91054233544504039833976652336648~hmac=c272dfe731cbdd8c5ebb01329ff015682d96a631ac3dedef4e7c79935aefdd10
