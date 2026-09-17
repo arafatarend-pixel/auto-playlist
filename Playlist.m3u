@@ -214,7 +214,7 @@ http://mxonlive.xyz/live/xap/383183.m3u8?e=1789673038&token=b76c70c55e047b28467d
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1789684847&token=9fc3311671c926ee29d3a10d162d03d2361a1b47021f68b81cb043957f4c9c17
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1789642719&token=09a22f5a559bdfac13fb638d7cb02aa337b2e4fdeb72b6994eb3517ccb4370ea
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1789736779&token=615ddfaff0df1b0107f2f5b3f08710821caa5e6dde3a24382fd58ab5c09c4866
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1789658604&token=e2d22a2516ac74d6c3885176bb7f36884fa7083bf43da7045ab4c3910f788fc7
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
@@ -224,7 +224,7 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1789658604&token=086ab158a7fe64cb4ae7
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1789715759&token=d6252dfcafc338f75a98dffbc13be431616be5adef30526662bd129bd5632f0e
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1789715759&token=50af60861a042c8c5fda3aed6d9c76d9c028f6940fc82a521e5dfb82754e2609
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1789736779&token=938e7201e47a4e5af4cfdaee610c88fd73bee64d005be430224d89f3e8f39052
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1789715759&token=54045b3e2be7e70fe2caca1ef3a0c6d9734f10ab60ceec5b12ab8802768b0b43
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
@@ -281,13 +281,15 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789658604&token=9ed5116a02d55d28445a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789684847&token=dcca1c60af48abf2da72e8d36783ccb46171516a003d7ec7b95fc308b7dc72b1
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789693602&token=41488deaa89ed48e78189f94edea65320a12eac2c9536faf2b7fb3173169668d
-#EXTINF:-1 tvg-id="tapmad-16716" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895490801020x576.jpg" group-title="Live Events", Edinburgh Castle Rockers vs Belfast Wolves | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17442" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896278231020x576.jpg" group-title="Live Events", Lion City Sailors FC (SGP) vs BG Pathum United (THA) Live | AFC Champions League Two 2026/27
+#EXTINF:-1 tvg-id="tapmad-17457" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896296311020x576.jpg" group-title="Live Events", Shanghai Shenhua FC (CHN) vs Tampines Rovers FC (SGP) Live | AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17447" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896282781020x576.jpg" group-title="Live Events", Adelaide United FC (AUS) vs Tai Po FC (HKG) Live | AFC Champions League Two 2026/27
+#EXTINF:-1 tvg-id="tapmad-17462" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896299921020x576.jpg" group-title="Live Events", Kitchee SC (HKG) vs Gangwon FC (KOR) Live | AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896286361020x576.jpg" group-title="Live Events", FC Machida Zelvia (JPN) vs Preah Khan Reach Svay Rieng FC (CAM) Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17467" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896303281020x576.jpg" group-title="Live Events", Phnom Penh Crown FC (CAM) vs Kuching City FC (MAS) Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895491991020x576.jpg" group-title="Live Events", Rotterdam Dockers vs Dublin Guardians | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg" group-title="Live Events", India vs Afghanistan | India Tour of Afghanistan 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090542526" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419411300492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day1_landscape_thumb.jpg" group-title="Live Events", BMW PGA Championship - Day 1 - 17 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/master.m3u8?hdnea=exp=1789685473~acl=/*~id=20192000311940308336030659552520~hmac=2ecea82ef8a1f80c12fbc458f9fa4f9dfdedc65587f717aa5be896d5375c4fac
