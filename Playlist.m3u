@@ -281,12 +281,6 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789658604&token=9ed5116a02d55d28445a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789684847&token=dcca1c60af48abf2da72e8d36783ccb46171516a003d7ec7b95fc308b7dc72b1
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789693602&token=41488deaa89ed48e78189f94edea65320a12eac2c9536faf2b7fb3173169668d
-#EXTINF:-1 tvg-id="tapmad-17457" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896296311020x576.jpg" group-title="Live Events", Shanghai Shenhua FC (CHN) vs Tampines Rovers FC (SGP) Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17462" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896299921020x576.jpg" group-title="Live Events", Kitchee SC (HKG) vs Gangwon FC (KOR) Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17467" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896303281020x576.jpg" group-title="Live Events", Phnom Penh Crown FC (CAM) vs Kuching City FC (MAS) Live | AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895491991020x576.jpg" group-title="Live Events", Rotterdam Dockers vs Dublin Guardians | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg" group-title="Live Events", India vs Afghanistan | India Tour of Afghanistan 2026
