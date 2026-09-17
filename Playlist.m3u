@@ -82,7 +82,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangla",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="Bangla",Star News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png" group-title="BANGLA MUSIC",Channel 16
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://news21bangla.tv/wp-content/uploads/2025/07/Screenshot_23.png" group-title="Bangla",NEWS 21 BANGLA
@@ -178,7 +178,7 @@ http://mxonlive.xyz/live/xap/219689.m3u8?e=1789673038&token=37361a2fc7655df5bb15
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
-http://mxonlive.xyz/live/xap/167570.m3u8?e=1789684847&token=fc1c64a9d97c5a028fbdb7c6e476892cd2f121f58e70973cd543c410c20a47c1
+http://mxonlive.xyz/live/xap/167570.m3u8?e=1789715759&token=a00e2f3f81adf71e5510186283b537443cb0a3297478e99eb4d12fe0930e3c63
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
 http://mxonlive.xyz/live/xap/167571.m3u8?e=1789693602&token=5764c3ef68382e70c4c08940f1a0e4e31befd66077663ab749bd3f6d9062d173
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
@@ -281,3 +281,11 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789658604&token=9ed5116a02d55d28445a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789684847&token=dcca1c60af48abf2da72e8d36783ccb46171516a003d7ec7b95fc308b7dc72b1
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789693602&token=41488deaa89ed48e78189f94edea65320a12eac2c9536faf2b7fb3173169668d
+#EXTINF:-1 tvg-id="tapmad-16716" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895490801020x576.jpg" group-title="Live Events", Edinburgh Castle Rockers vs Belfast Wolves | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17442" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896278231020x576.jpg" group-title="Live Events", Lion City Sailors FC (SGP) vs BG Pathum United (THA) Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17447" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896282781020x576.jpg" group-title="Live Events", Adelaide United FC (AUS) vs Tai Po FC (HKG) Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896286361020x576.jpg" group-title="Live Events", FC Machida Zelvia (JPN) vs Preah Khan Reach Svay Rieng FC (CAM) Live | AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
