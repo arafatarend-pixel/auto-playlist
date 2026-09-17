@@ -222,9 +222,9 @@ http://mxonlive.xyz/live/xap/206289.m3u8?e=1789642719&token=14ad6e6a002d4ebde7d1
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1789658604&token=086ab158a7fe64cb4ae74bfac01f877612ea9464c7e7340916432f272fce1774
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
-http://mxonlive.xyz/live/xap/206292.m3u8?e=1789658604&token=c4bf2baa4b4831e67940a3e4a1664f3d02da3caf41c9b0d88df343cdfc75d3a1
+http://mxonlive.xyz/live/xap/206292.m3u8?e=1789715759&token=d6252dfcafc338f75a98dffbc13be431616be5adef30526662bd129bd5632f0e
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1789693602&token=e5de77293e3767efd4218fdba9877f0745a7af9b52f431615f9471cefb82daf8
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1789715759&token=50af60861a042c8c5fda3aed6d9c76d9c028f6940fc82a521e5dfb82754e2609
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1789642719&token=b4111832bbf6d4598ecb6909c6bab5da799080fc02f1d533880baed9c5097fd3
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
@@ -281,5 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789658604&token=9ed5116a02d55d28445a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789684847&token=dcca1c60af48abf2da72e8d36783ccb46171516a003d7ec7b95fc308b7dc72b1
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789693602&token=41488deaa89ed48e78189f94edea65320a12eac2c9536faf2b7fb3173169668d
-#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582327474840_AG26_QF_Pakistan_vs_Thailand_landscape_thumb.jpg" group-title="Live Events", Pakistan Women vs Thailand Women - QF 2 - 17 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582327474840_AG26_QF_Pakistan_vs_Thailand_landscape_thumb.jpg" group-title="Live Events", Pakistan Women vs Thailand Women - Quarter-Final - 17 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/master.m3u8?hdnea=exp=1789663835~acl=/*~id=57644709122269056211325315276836~hmac=03f983ea8ba4ad89d2dff23705512d10efefb57435ba8e4a672e34833f256677
