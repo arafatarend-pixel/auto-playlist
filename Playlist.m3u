@@ -114,7 +114,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Bangla"tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bangla",IND-Bangla: Star Jalsa HD
-http://mxonlive.xyz/live/xap/245898.m3u8?e=1789673038&token=d8d057af4b659032877cc63e8837acb38a4fd0173c731613cd75232781623756
+http://mxonlive.xyz/live/xap/245898.m3u8?e=1789754252&token=3a681858758fe73a4fcf85d396f5c6354430c3b9e6049b3c93162a70ffc80c86
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/COLORS BANGLA FHD.png", ┃BANGLA┃ COLORS BANGLA FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908665.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="BanglaPlusHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir8DIISD_3Ay4E2H__HTS4VFP7VXskYcIgkufU45epPzAFDKObL2D_p6mOal9B0RJpyaiA3feJuyaL8yvd0x-2nykRjc1pZPwT_aAGwmwFb4bEJf8oVDgty5NF30gzWlwHvh2P2c49pP2P8383ili_yboK1uSyqELcZygHTpSwru1VeK0mMwceugT5QLw/s1600/NadimRazaTVLogoDesign%282%29_copy_900x900_1.png",Bangla+ HD
@@ -174,7 +174,7 @@ http://mxonlive.xyz/live/xap/167568.m3u8?e=1789684847&token=090413a5bb4cf6010fcb
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS",PK: TEN SPORTS
 http://mxonlive.xyz/live/xap/167569.m3u8?e=1789684847&token=87e1c78fac1b2a5af3f507ce49357bec648de6bb9025f2d8577dec61274bfc93
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
-http://mxonlive.xyz/live/xap/219689.m3u8?e=1789673038&token=37361a2fc7655df5bb15ae2f4543d32bb354909402a4709a3ebbd531ac221a44
+http://mxonlive.xyz/live/xap/219689.m3u8?e=1789754252&token=11870543565b6e1c161a86205789515c586ae2869ae0e1112d6738c78d8cd07b
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 http://mxonlive.xyz/live/xap/167590.m3u8?e=1789715759&token=633f0b07034f41da6043009aee0d7e031dc5b0bc271276ff128f8c03e7c5b575
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
@@ -184,11 +184,11 @@ http://mxonlive.xyz/live/xap/167571.m3u8?e=1789693602&token=5764c3ef68382e70c4c0
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
 http://mxonlive.xyz/live/xap/167572.m3u8?e=1789736779&token=dfad7fb4b42e4b01b0f30bab9627f79efe0b3d28eaa6a8e805c48987c46f1a10
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5 HD
-http://mxonlive.xyz/live/xap/167580.m3u8?e=1789673038&token=f50dd3636326ea264cfc262c901a856dfd7a300bb84c413e84d5115027e33cb6
+http://mxonlive.xyz/live/xap/167580.m3u8?e=1789754252&token=070c5110acd3649efbd9408b9c12cb1560bb71fd0d7b8d6e634171de36739635
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
 http://mxonlive.xyz/live/xap/167575.m3u8?e=1789693602&token=630f0ff88bee1a5768af4e9197aab6074602be0db2527574bfaf224e85de59ba
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
-http://mxonlive.xyz/live/xap/167577.m3u8?e=1789673038&token=02e8141823baebafc06f1b2a234cc105090e4255c897b00cec4bb49a09600dba
+http://mxonlive.xyz/live/xap/167577.m3u8?e=1789754252&token=299e027726cf6dc9dde6bd9ac5b715af39d1e3cb439500106c0052d7bfc5b41c
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 1
 http://mxonlive.xyz/live/xap/167578.m3u8?e=1789736779&token=a274634afbf68cf2a404fcb85f0fb1c50e3f86a6b97f6ceff0fd44201960cd74
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 2
@@ -210,7 +210,7 @@ http://mxonlive.xyz/live/xap/206283.m3u8?e=1789693602&token=d44b539d12a982f8a8f7
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1789754252&token=0ce62ff79c6625adac6da595b9eb8dbb127e7db15dbca1e9f697b72c65c1c62c
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
-http://mxonlive.xyz/live/xap/383183.m3u8?e=1789673038&token=b76c70c55e047b28467d5de17ac29e55e860f333ca2eb32a7e85051bd4cb27be
+http://mxonlive.xyz/live/xap/383183.m3u8?e=1789754252&token=95826067959495048034a8a066a96187fc917feea876765be6ec303052e7d530
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1789754252&token=6d1a15356867aa875ab51584c6bb0081c496678e2a520445e3d0adbf66c6bdb1
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
@@ -262,7 +262,7 @@ http://mxonlive.xyz/live/xap/206307.m3u8?e=1789693602&token=cac4d86dffc2febef5e1
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
 http://mxonlive.xyz/live/xap/206268.m3u8?e=1789693602&token=a0db7ae0c4997b7eddd0414a368820f15157f5bd74c770b7f7d3d8c68cc9c0b9
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
-http://mxonlive.xyz/live/xap/66184.m3u8?e=1789673038&token=d9ca1d2c89584107bbcec78f53b64ae89fb168a63a97f0dc4e8bea423c1a9a6a
+http://mxonlive.xyz/live/xap/66184.m3u8?e=1789754252&token=399a3de368eb4b4ad3d5b603791ed64ca0c33ea69053bf10a6b923f673f4820e
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
 http://mxonlive.xyz/live/xap/66185.m3u8?e=1789693602&token=5606a17e424795bfd36efaaeec0194861ba9895a97fd3ba111fc0f1fc8416ac9
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
@@ -272,7 +272,7 @@ http://mxonlive.xyz/live/xap/206315.m3u8?e=1789736779&token=a396f139a33a76e8f2b6
 #EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX FHD
 http://mxonlive.xyz/live/xap/206315.m3u8?e=1789736779&token=a396f139a33a76e8f2b6dfdeba44737cac7c599022bc5e5096f1b73bf6b84c31
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max (TATAPLAY)
-http://mxonlive.xyz/live/xap/221259.m3u8?e=1789673038&token=bd19d2ac6ec3480bb52d9d9517dbdcc2fa4cab6c4ab613ba131c6b89240cbcbe
+http://mxonlive.xyz/live/xap/221259.m3u8?e=1789754252&token=4349cdc8b42f0f8ea76d71a702c0b91c2e9b1db3732e7c8a5a7fdb1c13eda7e5
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max HD
 http://mxonlive.xyz/live/xap/66179.m3u8?e=1789736779&token=d64101ca84cae12bed64507fe5945a894a2581688134bf89e541127fe38793de
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max [FHD]
@@ -281,21 +281,37 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789736779&token=d64101ca84cae12bed645
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789684847&token=dcca1c60af48abf2da72e8d36783ccb46171516a003d7ec7b95fc308b7dc72b1
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789693602&token=41488deaa89ed48e78189f94edea65320a12eac2c9536faf2b7fb3173169668d
-#EXTINF:-1 tvg-id="tapmad-16717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895491991020x576.jpg" group-title="Live Events", Rotterdam Dockers vs Dublin Guardians | European T20 Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg" group-title="Live Events", India vs Afghanistan | India Tour of Afghanistan 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17285" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895534131020x576.jpg" group-title="Live Events", Levski Sofia vs RB Salzburg | UEFA Europa League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17286" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895566631020x576.jpg" group-title="Live Events", OFI vs Hoffenheim | UEFA Europa League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895591411020x576.jpg" group-title="Live Events", Betis vs Getafe | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894714901020x576.jpg" group-title="Live Events", England vs Sri Lanka | Sri Lanka Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17058" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896376971020x576.jpg" group-title="Live Events", Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17287" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896470611020x576.jpg" group-title="Live Events", Celtic vs Ferencvaros | UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17288" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896472041020x576.jpg" group-title="Live Events", Juventus vs NEC | UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17289" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896475341020x576.jpg" group-title="Live Events", Viktoria Plzen vs Union | UEFA Europa League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17290" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896476851020x576.jpg" group-title="Live Events", Besiktas vs Marseille | UEFA Europa League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17291" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896478301020x576.jpg" group-title="Live Events", Lillestrom vs Torreense | UEFA Europa League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17292" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896479901020x576.jpg" group-title="Live Events", Palace vs Lech Poznan | UEFA Europa League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896481641020x576.jpg" group-title="Live Events", Real Sociedad vs Bournemouth | UEFA Europa League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090542748" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531987736688_UEL2627_MD1_Juventus_vs_NEC_4sep_landscape_thumb.jpg" group-title="Live Events", Juventus vs N.E.C. - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714242~acl=/*~id=33842501224503547446998357273498~hmac=498df48628bceb83bb59e9913b296761918cbbda978b7b0e0293ea574b661958
 #EXTINF:-1 tvg-id="sonyliv-1090542669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg" group-title="Live Events", 2nd T20I - 17 Sep 2026 | Sri Lanka Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/master.m3u8?hdnea=exp=1789708840~acl=/*~id=98958507771675793209147512988664~hmac=fab4acfe06e1cc55763ac686890ae62f73aaeae9db31d23b89d3843a28641a77
-#EXTINF:-1 tvg-id="sonyliv-1090542648" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531414631688_UEL2627_MD1_OFI_Crete_vs_Hoffenheim_4sep_landscape_thumb.jpg" group-title="Live Events", OFI Crete vs Hoffenheim -  MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/master.m3u8?hdnea=exp=1789705239~acl=/*~id=47698494843227088780874092583453~hmac=ac3b563669ba48f4726a28da27ad38bfb3571f5d7c8de65bfa0486531298ba53
-#EXTINF:-1 tvg-id="sonyliv-1090542649" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532203409688_UEL2627_MD1_Levski_Sofia_vs_Salzburg_4sep_landscape_thumb.jpg" group-title="Live Events", Levski Sofia vs Salzburg - MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/master.m3u8?hdnea=exp=1789705247~acl=/*~id=91054233544504039833976652336648~hmac=c272dfe731cbdd8c5ebb01329ff015682d96a631ac3dedef4e7c79935aefdd10
+#EXTINF:-1 tvg-id="sonyliv-1090542751" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532891246688_UEL2627_MD1_Crystal_Palace_vs_Lech_Poznan_4sep_landscape_thumb.jpg" group-title="Live Events", Crystal Palace vs Lech Poznan - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714252~acl=/*~id=23863775205631966793819838771269~hmac=e08e79063f80da3a2160a6f40319b49d1cf1c8359f87dcc7dec9f88a8a63115e
+#EXTINF:-1 tvg-id="sonyliv-1090542749" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532535195688_UEL2627_MD1_Real_Sociedad_vs_Bournemouth_4sep_landscape_thumb.jpg" group-title="Live Events", Real Sociedad vs Bournemouth - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714258~acl=/*~id=71543425378961874696389318215216~hmac=1b5898d162696268a9b49dcae468442c8052360c038f8880f042d683d0bc4dcf
+#EXTINF:-1 tvg-id="sonyliv-1090542752" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788533233404688_UEL2627_MD1_Besiktas_vs_Marseille_4sep_landscape_thumb.jpg" group-title="Live Events", Besiktas vs Marseille - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714268~acl=/*~id=04757765981567144795451856714555~hmac=497b7e1d2d2145582735cba7c6a865209472435285ab81e7243af2df238b7e24
+#EXTINF:-1 tvg-id="sonyliv-1090542754" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534760819688_UEL2627_MD1_Celtic_vs_Ferencvaros_4sep_landscape_thumb.jpg" group-title="Live Events", Celtic vs Ferencvaros - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714276~acl=/*~id=02939643857977954209358537157391~hmac=a1fc269489799d346ee51068c826bdc302b9a6bcb44632a54caf6186f44e2383
+#EXTINF:-1 tvg-id="sonyliv-1090542753" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534519058688_UEL2627_MD1_Viktoria_Plzen_vs_Union_SG_4sep_landscape_thumb.jpg" group-title="Live Events", Viktoria Plzen vs Union SG - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714268~acl=/*~id=04757765981567144795451856714555~hmac=497b7e1d2d2145582735cba7c6a865209472435285ab81e7243af2df238b7e24
+#EXTINF:-1 tvg-id="sonyliv-1090542755" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788535295410688_UEL2627_MD1_Lillestrom_vs_Torreense_4sep_landscape_thumb.jpg" group-title="Live Events", Lillestrom vs Torreense - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714268~acl=/*~id=04757765981567144795451856714555~hmac=497b7e1d2d2145582735cba7c6a865209472435285ab81e7243af2df238b7e24
