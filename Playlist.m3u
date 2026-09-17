@@ -274,9 +274,9 @@ http://mxonlive.xyz/live/xap/206315.m3u8?e=1789736779&token=a396f139a33a76e8f2b6
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max (TATAPLAY)
 http://mxonlive.xyz/live/xap/221259.m3u8?e=1789754252&token=4349cdc8b42f0f8ea76d71a702c0b91c2e9b1db3732e7c8a5a7fdb1c13eda7e5
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max HD
-http://mxonlive.xyz/live/xap/66179.m3u8?e=1789736779&token=d64101ca84cae12bed64507fe5945a894a2581688134bf89e541127fe38793de
+http://mxonlive.xyz/live/xap/66179.m3u8?e=1789754252&token=e7596d6d3775b7c3b643470275a102c406f093ef8ba439c9678659513f0e62d1
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max [FHD]
-http://mxonlive.xyz/live/xap/66179.m3u8?e=1789736779&token=d64101ca84cae12bed64507fe5945a894a2581688134bf89e541127fe38793de
+http://mxonlive.xyz/live/xap/66179.m3u8?e=1789754252&token=e7596d6d3775b7c3b643470275a102c406f093ef8ba439c9678659513f0e62d1
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789684847&token=dcca1c60af48abf2da72e8d36783ccb46171516a003d7ec7b95fc308b7dc72b1
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
@@ -299,6 +299,8 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896481641020x576.jpg" group-title="Live Events", Real Sociedad vs Bournemouth | UEFA Europa League 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-16966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896460151020x576.jpg" group-title="Live Events", Malaga vs Villarreal | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090542748" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531987736688_UEL2627_MD1_Juventus_vs_NEC_4sep_landscape_thumb.jpg" group-title="Live Events", Juventus vs N.E.C. - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714242~acl=/*~id=33842501224503547446998357273498~hmac=498df48628bceb83bb59e9913b296761918cbbda978b7b0e0293ea574b661958
 #EXTINF:-1 tvg-id="sonyliv-1090542669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg" group-title="Live Events", 2nd T20I - 17 Sep 2026 | Sri Lanka Tour of England 2026
