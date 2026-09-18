@@ -132,15 +132,15 @@ https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS Cartoon",IN: Cartoon Network
 http://mxonlive.xyz/live/xap/150478.m3u8?e=1789839195&token=cbdb5d0cb7b063d00a6f05f9c42b8636c156c1b825c684abf52f895b04b66d76
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
-http://mxonlive.xyz/live/xap/150483.m3u8?e=1789839195&token=4eeeb89ef8297d7cb5f3a854b2b37fd06bf2ecdd6ba518321b1dd3f4fe3f9910
+http://mxonlive.xyz/live/xap/150483.m3u8?e=1789849952&token=dd4fd1d6ee2cc212f79e0910255ccf07d2bd833fa141fdfb2690a7fd03b8459c
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
-http://mxonlive.xyz/live/xap/26187.m3u8?e=1789824711&token=51f8ae4b3c8c696d04ec6e060acf3357831fff4da8aa02acaca79084e77beda5
+http://mxonlive.xyz/live/xap/26187.m3u8?e=1789849952&token=0631a01a660c1cbbcc8c021909cfba90d9547b0e9949eef09a6ab22bcafd8ca1
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1789775796&token=0b61d99b73afacd2727c21818c2838df217fc1bfa02c8bac9cea9d953a1a1032
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1789839195&token=d15859942258699dac179a2703d400c2e554f65c5dd36bf8a5e98c78b5bbb3ef
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
-http://mxonlive.xyz/live/xap/153156.m3u8?e=1789839195&token=68788e1b5b2e02376e6abd84f2b11a4c5db7572d4ad1d3829022cdf8e66ada07
+http://mxonlive.xyz/live/xap/153156.m3u8?e=1789849952&token=545c34d87740d7202e577af2580c991c4b69c7323585be234f32f1a9b2d9135c
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
@@ -148,7 +148,7 @@ http://mxonlive.xyz/live/xap/153175.m3u8?e=1789775796&token=35d387d38c36db5c672c
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1789775796&token=98f2c2ffa3e85b4f230780a0d4323809137ad4fc07232d3fe48f7995d9258f89
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1789775796&token=dd60cf7e2bf5bd5fa9313ed7871cfdacd92b6cfbc1d4443b258d385b0e0f9c88
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1789849952&token=10c94358efac2f07511ea8b26672a4bc2dccbc25be9cc8b1a6c127fd6dab8be0
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1789824711&token=079d0ebcdd6ca2e2a86826411ffcca67cad5d56d18360d4ca872bf4c866ca650
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -224,11 +224,11 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1789824711&token=52657912cb78d369f1ba
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1789775796&token=502d7d5ff1fd060d8014006a669a21e73ede378f4127a4acf76724f659abe003
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1789824711&token=507877a0a59bb40c7b4023f3ad59f7836e9dd68df757c66270c5dd1cc8e893f3
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1789849952&token=41d73d790e83f4961799251730df24dbe79811eb95533803452c9abe47394b22
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1789824711&token=61af6bd4ca93eab055c06b48ddbfba2e93893109c39cd1ced78d6953d2ea2bc5
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
-http://mxonlive.xyz/live/xap/206294.m3u8?e=1789775796&token=a3490240b25ada0cb299873ef84c63b6e1caf4b840b74b50afb71984ef461dd3
+http://mxonlive.xyz/live/xap/206294.m3u8?e=1789849952&token=e2aa93fddfd2f6cc5f4207cbbb305bc819e0cc17043b4392a93fca12f1da1808
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1789839195&token=36b85a83d23182d4551fbfe74ee8b80e87aff01d00c5f92c115193d58f3c17a4
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
