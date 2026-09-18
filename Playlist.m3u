@@ -281,5 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789754252&token=e7596d6d3775b7c3b6434
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789775796&token=d1b3f88baadb23084499dc237dcf37ab98c31c9236403286068151daadeb78b5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789775796&token=9f54144f4791c1a86a11ea886e772b944842f52206f7da5e9cb7023135d3ca62
-#EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg" group-title="Live Events", India Women vs Japan Women - Quarter-Final - 18 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/master.m3u8?hdnea=exp=1789746633~acl=/*~id=99124452301996973151426864728567~hmac=af40513c86134359697890e268a93a6b64ef36388e080848f92e85ae440e1e5b
+#EXTINF:-1 tvg-id="tapmad-17375" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895630001020x576.jpg" group-title="Live Events", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
