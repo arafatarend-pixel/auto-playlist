@@ -283,11 +283,3 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1789775796&token=d1b3f88baadb23084499d
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789775796&token=9f54144f4791c1a86a11ea886e772b944842f52206f7da5e9cb7023135d3ca62
 #EXTINF:-1 tvg-id="tapmad-17375" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895630001020x576.jpg" group-title="Live Events", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17641" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897160501020x576.jpg" group-title="Live Events", Fortis FC Ltd. vs Chattogram City FC | Bangladesh Football League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17642" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161331020x576.jpg" group-title="Live Events", Bangladesh Police FC vs Rahamatgonj MFS | Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17643" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897161911020x576.jpg" group-title="Live Events", Fakirerpool Young Mens Club vs Dhaka Wanderers Club | Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17645" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897163231020x576.jpg" group-title="Live Events", PWD Sports Club vs Abahani Ltd. Dhaka | Bangladesh Football League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
