@@ -148,7 +148,7 @@ http://mxonlive.xyz/live/xap/153175.m3u8?e=1789775796&token=35d387d38c36db5c672c
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1789775796&token=98f2c2ffa3e85b4f230780a0d4323809137ad4fc07232d3fe48f7995d9258f89
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1789693602&token=3b8976de95a096c19f57c843db6bcac9f7f54c3647e156b569ada0a9a098823a
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1789775796&token=dd60cf7e2bf5bd5fa9313ed7871cfdacd92b6cfbc1d4443b258d385b0e0f9c88
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1789736779&token=8d44785bdbd34ba9cf1c946b5e7d0a94ce35657d1a47cc56c4059f65071fe4c6
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -222,7 +222,7 @@ http://mxonlive.xyz/live/xap/206289.m3u8?e=1789715759&token=e3f871ca7d32e2f5a4d4
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1789736779&token=fa84172189b408deb3dfc0c6b0eecb1cedbdef2899ac4b226ee501ae7ed2d6d0
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
-http://mxonlive.xyz/live/xap/206292.m3u8?e=1789754252&token=c6271afa116dcba7780646c96ae9c83937832c7df60c93663dad55c13a5e7a85
+http://mxonlive.xyz/live/xap/206292.m3u8?e=1789775796&token=502d7d5ff1fd060d8014006a669a21e73ede378f4127a4acf76724f659abe003
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
 http://mxonlive.xyz/live/xap/206279.m3u8?e=1789775796&token=5b0b8ee9b8c0d17355fdbe0c5ca058f0db4659f9affb6781980b9baa2aca8e02
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
@@ -281,7 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789754252&token=e7596d6d3775b7c3b6434
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789775796&token=d1b3f88baadb23084499dc237dcf37ab98c31c9236403286068151daadeb78b5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789775796&token=9f54144f4791c1a86a11ea886e772b944842f52206f7da5e9cb7023135d3ca62
-#EXTINF:-1 tvg-id="tapmad-15812" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895576171020x576.jpg" group-title="Live Events", Anitgua and Barbuda Falcons vs Guyana Amazon Warriors | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024067/178961947665553_Asain_games_26_QF_Sri-Lanka-vs-Malaysia_live_landscape_thumb.jpg" group-title="Live Events", Sri Lanka vs Malaysia - Quarter-Final - 18 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/master.m3u8?hdnea=exp=1789732238~acl=/*~id=67994694147398636397816820999205~hmac=847bdf39a769029a696e758504ff7b788af3d22f2c869ec5302558d5ae551488
