@@ -140,13 +140,13 @@ http://mxonlive.xyz/live/xap/150480.m3u8?e=1789875295&token=70c5e884a90ee9371c0a
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1789921107&token=a21e580042029155cd9f9004301fea1575e91837f83a567416103bbad599eb21
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
-http://mxonlive.xyz/live/xap/153156.m3u8?e=1789875295&token=9d4e5258fb5829dcc0335fc42d08493933d3d7b02ba4d09ca5cd54b96969fe15
+http://mxonlive.xyz/live/xap/153156.m3u8?e=1789931559&token=919c20fedeae20a5cc620ff3dbaee32214f69ba0fd2325688aceed098665cfa0
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
 http://mxonlive.xyz/live/xap/153175.m3u8?e=1789908968&token=1b07ff3af1649d7103a1b2a65a7e14cc3cef1ea11556bd5fb59664c06c9a2633
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
-http://mxonlive.xyz/live/xap/167551.m3u8?e=1789859105&token=47d30354e35f1c55986b6cddc9de83b538ce142477f79e7a8c11742ff053c39f
+http://mxonlive.xyz/live/xap/167551.m3u8?e=1789931559&token=1eeab0df9208874ab5c4de53ccaf6f2e2cd3064b391552bc482a92cfedba9127
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
 http://mxonlive.xyz/live/xap/76722.m3u8?e=1789849952&token=10c94358efac2f07511ea8b26672a4bc2dccbc25be9cc8b1a6c127fd6dab8be0
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
@@ -222,13 +222,13 @@ http://mxonlive.xyz/live/xap/206289.m3u8?e=1789908968&token=88b24cd87884ffc2dd30
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1789908968&token=2125a572c3763c658ca99b179e42ac971082db335050dc98c9d5763aee73553e
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
-http://mxonlive.xyz/live/xap/206292.m3u8?e=1789875295&token=09abcbaa3d3facc4b7e33f6fa18244e57d11223e19e26728b1622c5c2310f76f
+http://mxonlive.xyz/live/xap/206292.m3u8?e=1789931559&token=3c937db2a6d622cd1937d1fecbe7f15297d7a44292b81034770a5875621630ab
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1789921107&token=afda2d63c5091a6770e759de648a62c51e00d399447b5213a5fbead2a1239282
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1789931559&token=770882124d924173a1a75f2a585748751092cd396f09f5373df1cae6d9cf138d
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1789921107&token=c89bb80fdf1ecb2d25cc1992050ecc4eedaa32890be69da8f8dd7b1abee1fa8f
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
-http://mxonlive.xyz/live/xap/206294.m3u8?e=1789859105&token=4770dc2b064d413a272f62b3601ae65554251d1cb7291e74f4e880a93cbc7c1d
+http://mxonlive.xyz/live/xap/206294.m3u8?e=1789931559&token=97a261bf91f86baf447ab8817d5832e249d91cc544d69289e8bcbd8566641581
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1789921107&token=9d5c1a6eb171324d1c396b83e09b0e2d0f2be74199ffe4d84331755e1c3fe7ae
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
@@ -281,5 +281,13 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1789908968&token=3ce19784cc820177dab43
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789859105&token=bb94b461abf5978caaf0aff6e2bb0f13898fe4c79be28240c9b2059a5e27daa7
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789859105&token=35a45edd41c725be6543e4d4b152d1f08f9bfb5cb9d3e4aad5c83a3de8b70ac4
-#EXTINF:-1 tvg-id="tapmad-16969" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897169251020x576.jpg" group-title="Live Events", Celta vs Racing Santander | LaLiga 2026/27
+#EXTINF:-1 tvg-id="tapmad-16970" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898316371020x576.jpg" group-title="Live Events", Sevilla vs Barcelona | LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17684" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898299031020x576.jpg" group-title="Live Events", Le Mans vs Lorient | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17685" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898303781020x576.jpg" group-title="Live Events", OL vs Rennes | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17686" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898310121020x576.jpg" group-title="Live Events", Toulouse vs Le Havre | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17687" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898313201020x576.jpg" group-title="Live Events", Angers vs Troyes | French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
