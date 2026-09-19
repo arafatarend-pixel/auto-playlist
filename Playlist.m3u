@@ -160,7 +160,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="KIDS Cartoon",Mr Bean Animated
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T SPORTS
-http://mxonlive.xyz/live/xap/167590.m3u8?e=1789839195&token=5efff8475bb39f6c96d9d4e9b05561a9006194bcbbd008e4d2cd242d2fa0ef12
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="SPORTS",Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="SPORTS",Willow HD
@@ -176,7 +176,7 @@ http://mxonlive.xyz/live/xap/167569.m3u8?e=1789859105&token=b47a27d292c86eaece64
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
 http://mxonlive.xyz/live/xap/219689.m3u8?e=1789824711&token=4519ceb5e747862a73a9556546eb8d623e0b4ad9e5a5ed1431904224fb71f441
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
-http://mxonlive.xyz/live/xap/167590.m3u8?e=1789824711&token=2db9df18ec81dee1db5e487d05965a0f036e4069aa2b83c098069e3db3fc6cdc
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
 http://mxonlive.xyz/live/xap/167570.m3u8?e=1789824711&token=3bda028994c44716728c96c20ba4fe5f7ede0eaabeab07aeb97a930db5d12403
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
@@ -281,7 +281,9 @@ http://mxonlive.xyz/live/xap/66180.m3u8?e=1789839195&token=69b4095ee624e87f331a4
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1789859105&token=bb94b461abf5978caaf0aff6e2bb0f13898fe4c79be28240c9b2059a5e27daa7
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1789859105&token=35a45edd41c725be6543e4d4b152d1f08f9bfb5cb9d3e4aad5c83a3de8b70ac4
-#EXTINF:-1 tvg-id="tapmad-17515" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897631141020-23andlast.jpg" group-title="Live Events", GT2 European Series powered by Pirelli - Qualifying 1 & 2 | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-17521" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897643141020-23andlast.jpg" group-title="Live Events", GT World Challenge powered by AWS - Qualifying 1 (Group A & B) | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17646" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897163791020x576.jpg" group-title="Live Events", Arambagh Krira Shangha vs Bashundhara Kings | Bangladesh Football League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg" group-title="Live Events", Opening Ceremony - 19 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/master.m3u8?hdnea=exp=1789847479~acl=/*~id=65194787733168758066173947899973~hmac=be268cae8be128171c60a38e1b8149a36b0de5384205c6ca48e8a30cac143608
