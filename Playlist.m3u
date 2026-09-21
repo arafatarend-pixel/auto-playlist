@@ -140,13 +140,13 @@ http://mxonlive.xyz/live/xap/150480.m3u8?e=1789951479&token=007891affb23d24c0446
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1790001208&token=628528f505d4538e4d972a00df8b8377273db4a41c68743df105288894933497
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
-http://mxonlive.xyz/live/xap/153156.m3u8?e=1789951479&token=1d6590d304c1923c08f515dee44dd52ae61ef96b0e4d17b592830c89d60e7780
+http://mxonlive.xyz/live/xap/153156.m3u8?e=1790025150&token=c2edeaf3858c845684c01587e5b7407f3926cfd3a3f487fadb6872cb0c9d9e49
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1789951479&token=b1523d475b2e854527b3882f1159ffb42369c37be45211f6b3cab656b3f0641b
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1790025150&token=8aba25cd7767ccce71bb19a5b910c4ad8ac99583bae3d07f6f9f71ee805b07c4
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
-http://mxonlive.xyz/live/xap/167551.m3u8?e=1789951479&token=2a5d379d7753f7e809b7bacb178f8188a416f58944271a471a48b6f52b83990d
+http://mxonlive.xyz/live/xap/167551.m3u8?e=1790025150&token=9342e0f260780cacda5a8d005599b1e15d888a22adb0faa2eff71b5dee471bf0
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
 http://mxonlive.xyz/live/xap/76722.m3u8?e=1790001208&token=a2a977a4f685421b58c6da6b54dd6759ec2e2448ab2197348da5272442f88359
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
@@ -172,13 +172,13 @@ http://mxonlive.xyz/live/xap/167567.m3u8?e=1789987715&token=d918994061d6a9686144
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="SPORTS",PK | Geo Super HD
 http://mxonlive.xyz/live/xap/167568.m3u8?e=1790001208&token=d1f660b7784a43a3365f769410812555ac72567c7868ecbe206c6c1b31fe18b7
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS",PK: TEN SPORTS
-http://mxonlive.xyz/live/xap/167569.m3u8?e=1789951479&token=6772d0addd29f41df21e9ec5a0a8fca4e0cf4a4a808d7bb25ab349df86915c4a
+http://mxonlive.xyz/live/xap/167569.m3u8?e=1790025150&token=76e4dc656a4bb48dce8ee367bba0a6714d9236056aaf683438e761cddc8e12e2
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
 http://mxonlive.xyz/live/xap/219689.m3u8?e=1789987715&token=233ffdcf2b3241937925165eb2f525d503fdd0460c03893e6f432cedd941571f
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
-http://mxonlive.xyz/live/xap/167570.m3u8?e=1789951479&token=8f9b38b4ce915407a4555697a2848ecebf231b7eeea0a5082d1e3f6da9f3874e
+http://mxonlive.xyz/live/xap/167570.m3u8?e=1790025150&token=4b0b916d4645dc8a4587b5d35d1751b42f3199e504bcf9037d74b102923e4718
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
 http://mxonlive.xyz/live/xap/167571.m3u8?e=1789987715&token=e2df19c094707b76c045db9797491310b461871c78be7a1f43ff34877feef903
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
@@ -192,7 +192,7 @@ http://mxonlive.xyz/live/xap/167577.m3u8?e=1789987715&token=a1a7425f6aefbb482305
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 1
 http://mxonlive.xyz/live/xap/167578.m3u8?e=1789987715&token=9890402cdbcb91e8fc228d9d05fd076d80aa16de6deb918d24b679e488737942
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 2
-http://mxonlive.xyz/live/xap/167579.m3u8?e=1789951479&token=1352097dad82d7a73639c8e0515fb2d6424150168521273caa6975f6f529280e
+http://mxonlive.xyz/live/xap/167579.m3u8?e=1790025150&token=324a44bde2a9351d9cad33760d7b6d4c1565f0666213304ff5c042a6c0eac53e
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Cricbuzz" tvg-logo="https://en.wikipedia.org/wiki/Cricbuzz" group-title="SPORTS",IN | Astro Cricket HD
 http://mxonlive.xyz/live/xap/167581.m3u8?e=1790001208&token=b94be8fc1e686a119afb51e78cb263c2f2d38c42e2e49c9866ffc36f17303832
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
@@ -202,7 +202,7 @@ http://mxonlive.xyz/live/xap/238479.m3u8?e=1789969692&token=92c9183653211de46c00
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
 http://mxonlive.xyz/live/xap/206278.m3u8?e=1790025150&token=554ece993cf444bae331c0419db551c409778cbc7c197ae770f2221ade28717c
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
-http://mxonlive.xyz/live/xap/383184.m3u8?e=1789951479&token=601d905b4b32ade95399753e15af6bedc9b1233d93394af8a97e92188e394daf
+http://mxonlive.xyz/live/xap/383184.m3u8?e=1790025150&token=cce3087e3d49b11649d2f405e403f01f19e0d058bf221d28f5f23274bd917660
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1790001208&token=a3a9afb32a670cb3d0109aad6667df596bb574e44f5fb0a0604d75385231edca
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
@@ -210,7 +210,7 @@ http://mxonlive.xyz/live/xap/206283.m3u8?e=1790001208&token=0ea86a600660d7ff6438
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1789969692&token=c7c964396b8963861fe0ea9e2fccf2da62c13be57748ffdce338fac9760736f0
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
-http://mxonlive.xyz/live/xap/383183.m3u8?e=1789951479&token=a7cc4857c560cc6a170dedce890e66b6be396cb5af1b90bfc93820aac9b05f62
+http://mxonlive.xyz/live/xap/383183.m3u8?e=1790025150&token=22330f42c8659adcdb6cfe0c7e02342497d6ade9a688304acbc6564fbe379b68
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1789987715&token=b78f950ab037f23529a6020a4624e4388030e63de067eea258f775d416f9bfba
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
@@ -252,19 +252,19 @@ http://mxonlive.xyz/live/xap/221260.m3u8?e=1790001208&token=71c49c4169fd758516d2
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures HD
 http://mxonlive.xyz/live/xap/221260.m3u8?e=1789969692&token=5be768a4485c7d0d33c801e0f5ab70128b91eaa8fc83ec7cdfb80f6383056a2a
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures [FHD]
-http://mxonlive.xyz/live/xap/221260.m3u8?e=1789951479&token=a47f4c9cb6d7ed89450bd3bb0f515d0db3a9cbb3b95ee27a8dcb74132f3aa86d
+http://mxonlive.xyz/live/xap/221260.m3u8?e=1790025150&token=98f215494766fadf8d7a5ee65ffbb9ea6d5a811185edfac1a5a28b6a5c5b59c5
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA FHD (TATASKY)
-http://mxonlive.xyz/live/xap/221261.m3u8?e=1789951479&token=2c5ff7f6fad6232a0f590adbb974044cec5b7774ac2ac53a3ec9a909e88ccf28
+http://mxonlive.xyz/live/xap/221261.m3u8?e=1790025150&token=4b129d6304573690e62d4b2f9f4e3a0ecb6f6494769b8181b619e641a3a32db2
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA HD
 http://mxonlive.xyz/live/xap/206307.m3u8?e=1790001208&token=5c342bd99f04a0d0b9a15b123a6697a7478e87cc35ea0f9592c934ebe9e31806
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA [FHD]
-http://mxonlive.xyz/live/xap/206307.m3u8?e=1789951479&token=dbf047d8f92ccebb6b9c6a95f4932e04e86238d34b67a0fdad32cc5218ce5701
+http://mxonlive.xyz/live/xap/206307.m3u8?e=1790025150&token=0e7254522f974f6f8b724f5062869c882a793e16404e63513dcbba44875db553
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
-http://mxonlive.xyz/live/xap/206268.m3u8?e=1789951479&token=744619d12cba42260ee871cca3f20ef9afff7a3850f69c2987d238ba1f75cbff
+http://mxonlive.xyz/live/xap/206268.m3u8?e=1790025150&token=6be26c2f121620c1fa71467a0b683816151f43cb3b2203031698afcd97ef1f37
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
 http://mxonlive.xyz/live/xap/66184.m3u8?e=1789969692&token=18b8ced39b1525da0c558386442bc23eadc475e6e3354ff7194d3950ee7f16b0
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
-http://mxonlive.xyz/live/xap/66185.m3u8?e=1789951479&token=1549af8255988b74ff858146e45bb292273d9f2009b60cc72f074c6ecd049af0
+http://mxonlive.xyz/live/xap/66185.m3u8?e=1790025150&token=635601695abf098b8c0736dd0a020ae5ff4eb7a93d0804b963fe99d6c3d691fa
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
 http://mxonlive.xyz/live/xap/66186.m3u8?e=1789969692&token=d5805c89b5c6c93496cee96e6e7594e16bb0fc81e1ff08878b820a0273a48641
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX
@@ -278,12 +278,32 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1790001208&token=12223136c981ccf07a078
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max [FHD]
 http://mxonlive.xyz/live/xap/66179.m3u8?e=1789987715&token=64dcda09954701b370d7e494fa28a8ba1eb5e00bd2d046795d7033297570ac88
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
-http://mxonlive.xyz/live/xap/66189.m3u8?e=1789951479&token=0cc8b6ae4f40ff162f0a46bbc01ad81831fa9ca686e51966235c3c3ca79b6489
+http://mxonlive.xyz/live/xap/66189.m3u8?e=1790025150&token=9c1af1db80e18b75ad76282e4f271bdbc6b278636db2608114dc1d37ee50820d
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
-http://mxonlive.xyz/live/xap/66187.m3u8?e=1789951479&token=302e38f783fab304d879ebdf43771540c6cbe7c647a399c7b6037ebd2612cd17
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789943763712759_AG26_21st_Sep_Sepaktakraw_Regu_India_vs_Japan_live_landscape_thumb.jpg" group-title="Live Events", India vs Japan - Sepaktakraw Regu - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Live Events", Women's Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+http://mxonlive.xyz/live/xap/66187.m3u8?e=1790025150&token=8d443c9bb3452372ca9fef7233eb94924659d52141fd029ab083894be54a9028
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789929873781517_AG26_Table_Tennis_Womens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Live Events", India vs Pakistan - Women's Table Tennis - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/master.m3u8?hdnea=exp=1789995042~acl=/*~id=47480287947591599648177384096795~hmac=ada94450b00a8e15c964bfe4d9aa2be24b79f5d79aba7bdb9e1053c58f13cac5
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024325/1789935451359252_AG26_Swimming_Mens_100m_Breaststroke_Dhanush_Suresh_live_landscape_thumb.jpg" group-title="Live Events", India In Action - Swimming - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX8_22009/ENG/master.m3u8?hdnea=exp=1789995079~acl=/*~id=80623298273352762738848063669485~hmac=f6053add08d63b0fb5a608eeaf9bb9d689d5008a63067871997060c2544b51d8
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Live Events", Men's Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22009/ENG/master.m3u8?hdnea=exp=1789993238~acl=/*~id=70814667559223238665044724513517~hmac=c1945915f2d80ec0a87c61d8a521b28ca4ae57f80cf3a01f4497a42d6f6f38df
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1789948826999_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Live Events", Republic of Korea vs Kazakhstan - Women - Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037141/AG_DX1_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Live Events", Men's Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_DX2_22009/ENG/master.m3u8?hdnea=exp=1789993247~acl=/*~id=17240741076492404648582311619429~hmac=f9506d6e290b46522054988b62ce42ed913f2a5b6c45459c067c3abebe21988a
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932114986517_AG26_Table_Tennis_Womens_Team_India_vs_Pakistan_hindi_landscape_thumb.jpg" group-title="Live Events", Table Tennis - India vs Pakistan - Women's Team - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2037142/AG_Strea2009/HIN/master.m3u8?hdnea=exp=1789995055~acl=/*~id=38078669082055110559114455715723~hmac=a704983c98fe5603b858485ce91f223253a91c7013cef61b29e98bbc0c889767
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Live Events", India vs Pakistan - Women's Table Tennis - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX6_22009/ENG/master.m3u8?hdnea=exp=1789995055~acl=/*~id=38078669082055110559114455715723~hmac=a704983c98fe5603b858485ce91f223253a91c7013cef61b29e98bbc0c889767
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Live Events", Men's Final - Gymnastics - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX7_22009/ENG/master.m3u8?hdnea=exp=1789995070~acl=/*~id=22057628086045956480278865643585~hmac=82829990e4927b3089e5b35bad07fb219b1ea4beb7bc8e1385f78b3a64d27ae3
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Live Events", Malaysia vs Mongolia - Men's Team - Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/AG_AGMDS2009/ENG/master.m3u8?hdnea=exp=1789993238~acl=/*~id=70814667559223238665044724513517~hmac=c1945915f2d80ec0a87c61d8a521b28ca4ae57f80cf3a01f4497a42d6f6f38df
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Live Events", Korea vs Kazakhstan - Women's Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_AGMDS2009/ENG/master.m3u8?hdnea=exp=1789991454~acl=/*~id=62848847169889564535007961897431~hmac=eb5c5683c8e6474a3e86de5fd34dcb3e535ea9f33ed8a2486d5aa91665759898
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Live Events", Men's Sepaktakraw Regu - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/thumbnail/1789955178074_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Live Events", Nepal vs Thailand - Men's Team - Kabaddi - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120307/AG_DX3_22009/ENG/master.m3u8?hdnea=exp=1789993268~acl=/*~id=55580977646979441441902343086473~hmac=aed75460889673c54cf36afd3ff290afd6ff26e13efa125a5bce09c02b1a3f53
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Live Events", Heats - Swimming - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1789996837~acl=/*~id=70948126744539310746713801496947~hmac=02b77155043b8995b8dee72275a0126ada6659758f884515e57b84f86b0b5679
