@@ -210,9 +210,9 @@ http://mxonlive.xyz/live/xap/206283.m3u8?e=1790208275&token=82b6f17d98e35b58aff9
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1790208275&token=aaacdff0b4401aa527209e0f5de5177c791043e59ce0f1f691b831dd647f6ab3
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
-http://mxonlive.xyz/live/xap/383183.m3u8?e=1790188417&token=d189499686662ed3828a59f3dcb863c3489eb852cb92f29e9f7ba4c485ddf278
+http://mxonlive.xyz/live/xap/383183.m3u8?e=1790247395&token=6f1763d62706a81f12faa5117e347277c657ba9352a59e3660f4936280cc03df
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
-http://mxonlive.xyz/live/xap/206286.m3u8?e=1790208275&token=1c0887f4e50b46149bcb3ebdf5505cef3255aee68620ff3092cabe5aaa125070
+http://mxonlive.xyz/live/xap/206286.m3u8?e=1790247395&token=d61e94b7f8aa14883295c872cb212bfa8eb2ccbeaaf230cc7996788088bc8574
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
 http://mxonlive.xyz/live/xap/206587.m3u8?e=1790188417&token=3b964cd7c52a805ade59c3ba0438b332c5d9323fd8bc67c0f937d730f620cb5e
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
@@ -281,7 +281,7 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1790208275&token=24f2291feaf61437483d5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1790208275&token=135daba9299898ae755dfbcad665e07775908f7b3682b4cc7eeab7a12c7ee787
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790208275&token=5eed28535ffc4b3f7551ef5d6de9e8892428f256a57a08a18e910863289a0860
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Live Events", Day 5 - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/master.m3u8?hdnea=exp=1790191239~acl=/*~id=80535725456297424427585110989626~hmac=4d96a2eba733c14ad7107d746ac6259b6c2ac38ad45e224f6d71762d39c1a4b6
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024320/178992641642241_AG26_stream3_hindi_generic_landscape_thumb.jpg" group-title="Live Events", Day 5 - 23 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea2209/HIN/master.m3u8?hdnea=exp=1790189469~acl=/*~id=65786230356008192650239951937074~hmac=969bf434be774c6c9c24bbc0dc45cb4482ed9be1a8cd018d4eaa05814e0bcb80
+#EXTINF:-1 tvg-id="sonyliv-1090543690" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790026803564502_UEFA_INT_friendly_MD1_Azerbaijan_vs_Tajikstan_landscape_thumb.jpg" group-title="Live Events", Azerbaijan vs Tajikstan - 23 Sep 2026 | UEFA International Friendlies
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/master.m3u8?hdnea=exp=1790220038~acl=/*~id=42238316534714124527055951949374~hmac=42b88787f7e20192314a42425709e6a4355d82133cd267302ca230e17ab032d4
+#EXTINF:-1 tvg-id="sonyliv-1090543707" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027249384502_UEFA_INT_friendly_MD1_Gibraltar_vs_Sao_Tome_and_Principe_landscape_thumb.jpg" group-title="Live Events", Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 | UEFA International Friendlies
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DX1_22209/ENG/master.m3u8?hdnea=exp=1790220059~acl=/*~id=08395016948394767050462978754411~hmac=507731ab2db7e36f66d7035615a1a203aa3b483fb284ccf4c447793a78ac8f43
