@@ -252,17 +252,17 @@ http://mxonlive.xyz/live/xap/221260.m3u8?e=1790208275&token=0e1de020f10ddefad02e
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures HD
 http://mxonlive.xyz/live/xap/221260.m3u8?e=1790208275&token=0e1de020f10ddefad02e439a730d0ecaf58099e0e872e5b0489fdf5852dc7b20
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures [FHD]
-http://mxonlive.xyz/live/xap/221260.m3u8?e=1790208275&token=0e1de020f10ddefad02e439a730d0ecaf58099e0e872e5b0489fdf5852dc7b20
+http://mxonlive.xyz/live/xap/221260.m3u8?e=1790247395&token=56b1c5e5b6bc5f3eb90d252f0cb5dbf72825eae13b4d57fc7203f6b848d50f6a
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA FHD (TATASKY)
 http://mxonlive.xyz/live/xap/221261.m3u8?e=1790247395&token=1b9a22ccf20fe0d512ebc9e997b7b29eb441cd0207b317178d3ef2ab2eb8f3e1
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA HD
 http://mxonlive.xyz/live/xap/206307.m3u8?e=1790208275&token=53816a3ed4b2a72759c95152c5ed822e341a97435623b37c3bb3c85b3358dc72
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA [FHD]
-http://mxonlive.xyz/live/xap/206307.m3u8?e=1790208275&token=53816a3ed4b2a72759c95152c5ed822e341a97435623b37c3bb3c85b3358dc72
+http://mxonlive.xyz/live/xap/206307.m3u8?e=1790247395&token=30ddac691b31b73f1e2559970067ffd1d09f8fc7e168b1d5e15faed02b506a10
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
 http://mxonlive.xyz/live/xap/206268.m3u8?e=1790208275&token=51c6661babb6354c2f01e11feac4098ec1dfe8a4fe824fca89d21c1840ece85b
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
-http://mxonlive.xyz/live/xap/66184.m3u8?e=1790208275&token=bfc4010bb2997fa53cc77b89ab52be979bd852f390f08c2ce628a67286f79848
+http://mxonlive.xyz/live/xap/66184.m3u8?e=1790247395&token=2b18c31abc94ea28f805f52ba9b3fec87b8129c04a9fb856f6081e206b817fc9
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
 http://mxonlive.xyz/live/xap/66185.m3u8?e=1790208275&token=61cb41a433132bbd35e43b537864aff2f3357451d861685934a756fb577113a1
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
@@ -281,3 +281,9 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1790208275&token=24f2291feaf61437483d5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1790247395&token=8a86efcd79b88585c36fd20c461effe8a48c0caa3371e1dc40d340e79309836b
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790247395&token=59a2b3b423c4df3488869cfd1f33626cfa750cd30c2ae3779079f1d2f99e0d76
+#EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024552/1790159442582620_AG26_Mens-Cricket-Afghanistan-vs-Japan_landscape_thumb.jpg" group-title="Live Events", Afghanistan vs Japan - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/AG2026_D2309/ENG/master.m3u8?hdnea=exp=1790250635~acl=/*~id=72621186396639215885188354301790~hmac=30e31ee506f2980dd13ca5b28a8fc6c771627a62b5d43d2b364c9cc74ce101e4
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Events", People's Republic of China vs Vietnam - Women's Beach Volleyball - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX6_22309/ENG/master.m3u8?hdnea=exp=1790250643~acl=/*~id=16189330549829653858531974726517~hmac=f3b6933ef5bfa318a27f8bcbd283799ed2cd555dffc40a8b8823ae67f6a69511
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Live Events", Thailand vs Japan - Men's Team Regu Semifinal - Sepaktakraw - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022319/AG_AGMDS2309/ENG/master.m3u8?hdnea=exp=1790250648~acl=/*~id=58776016393859715268406046790075~hmac=507566a9b983c20e340c04abaced69d9fc5653fbf5ea6bdf752617ccb5e81cec
