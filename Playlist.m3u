@@ -232,7 +232,7 @@ http://mxonlive.xyz/live/xap/206294.m3u8?e=1790385122&token=b44ef0767f1a84299794
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
 http://mxonlive.xyz/live/xap/206295.m3u8?e=1790385122&token=47050f537cb4f8e02ddd2b97016058a124b9013608b5b397e0c5474530b59fb4
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
-http://mxonlive.xyz/live/xap/206296.m3u8?e=1790373754&token=71f7b5e2665db95284db130dbe37c72391253a2969ce6177ea493cf749c775fa
+http://mxonlive.xyz/live/xap/206296.m3u8?e=1790385122&token=5f84b2fc352ba1d5d319441122b76bdf92805517f8e034d78220f0e12c558e80
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1790385122&token=f01723b0f73c14995e24da10daf042a0d1829a93f3f75563066f0b3ea3d37cd3
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
@@ -262,7 +262,7 @@ http://mxonlive.xyz/live/xap/206307.m3u8?e=1790385122&token=4c02c49baa6c6247dc04
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
 http://mxonlive.xyz/live/xap/206268.m3u8?e=1790385122&token=22b02734808773d8d287fe9daa04ec4fc795bf600758cb59799cf5533d5921a2
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
-http://mxonlive.xyz/live/xap/66184.m3u8?e=1790373754&token=60a75a6af535d95380361edea82e7ba2097a3a9eea98d5fcd71b7b47dc53b92e
+http://mxonlive.xyz/live/xap/66184.m3u8?e=1790385122&token=91d71e9e6caac3ed5ad3c885f70a3104069ac3bb1dc595df4e2693048f608271
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
 http://mxonlive.xyz/live/xap/66185.m3u8?e=1790385122&token=23861a6b1c48c6c03146c53a189d4695d97ac6311414754240ebb46cb32e01e5
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
@@ -281,5 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1790385122&token=0a5c6d6a3011f8674cafc
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1790385122&token=7e2b33b8c9cb08247da7e4c0fb5434b183ea4d7f8d8933b327f666aef0e18454
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790385122&token=b0518af22fbab104445919775743ac19919027b2401971af167b313d24df9544
-#EXTINF:-1 tvg-id="sonyliv-1090544164" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024831/1790363071881721_Laver_cup26_Alcaraz_Mensik_vs_Bublik_Fritz_day1_session2_landscape_thumb.jpg" group-title="Live Events", Day 1 - Session 2 - 25 Sep 2026 | Laver Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/master.m3u8?hdnea=exp=1790401841~acl=/*~id=00241375648798018520405090714736~hmac=9c2ad187bc5eeb47c62ddd13c4246b41def79c5055d51cd5c6e3e68f0af3a8ee
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024841/179037011151861_AG26_26Sep_Athletics_Mens_Marathon_live_landscape_thumb.jpg" group-title="Live Events", Men's Marathon - Athletics - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790418035~acl=/*~id=35734745724062599657175865729110~hmac=9c35009c3eeac95f2a90c1a59c857a267420de14f9d7c4f2d8894086764dc96e
