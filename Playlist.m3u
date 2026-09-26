@@ -152,7 +152,7 @@ http://mxonlive.xyz/live/xap/76722.m3u8?e=1790471637&token=896f13f11138237f1c019
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1790471637&token=f898bb15697001da3f48d679cb3b74dc7b2ccdc40be5ff194fb921076c31590a
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
-http://mxonlive.xyz/live/xap/311373.m3u8?e=1790471637&token=c5c26ed5252bb21f3ce6028e0700ec5e2df269ac8d5c1ac6c6a60bf4c7273211
+http://mxonlive.xyz/live/xap/311373.m3u8?e=1790528025&token=b2d93ce388b2d269162741cee6349bb0cdbf497e7f801c20b1990344d87e19e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="KIDS Cartoon",Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/208314.jpg" group-title="KIDS Cartoon",Tom & Jerry TV
@@ -224,9 +224,9 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1790471637&token=d63d3edc50bb879df097
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1790471637&token=ecea2d8cfe8c7446fcb3bcddb6c8885634f6e250d01cd6f314ae54ab83498c18
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1790471637&token=c3ee3d817260047f2bafb2cdbc969a95158b0566f7731739d2954939f42a017e
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1790528025&token=7c1c250f66a0cd3074bcac44b28da0d2cc01e00e45446e3253346c517e3bafcf
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
-http://mxonlive.xyz/live/xap/206280.m3u8?e=1790471637&token=61d30ed5f8cec40abcf1c06abe82a6ee8525cbb284bcb9a8d61bbaee120aec7a
+http://mxonlive.xyz/live/xap/206280.m3u8?e=1790528025&token=add73adb6a6f78deb4dc69cb2498cd051c61ccb4cb4a723a08d36c4d41973d6e
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
 http://mxonlive.xyz/live/xap/206294.m3u8?e=1790471637&token=aee351342050ed519fbbe292ad5ffee1a4eec037ef5f119b1f5c7daa8adc0182
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
@@ -238,7 +238,7 @@ http://mxonlive.xyz/live/xap/221258.m3u8?e=1790471637&token=4201db03b90cb007621e
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1790471637&token=46c7761dfbf17073592abfc70c23dc4719fa6bfda677eef60428b33e9cf14693
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1790471637&token=46c7761dfbf17073592abfc70c23dc4719fa6bfda677eef60428b33e9cf14693
+http://mxonlive.xyz/live/xap/66178.m3u8?e=1790528025&token=1b1f8485c0bba17b9d0820b9c8744178b3bd554f9a1032663b9e83ca36ad79cd
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
 http://mxonlive.xyz/live/xap/221257.m3u8?e=1790471637&token=f782f9db051e1fc88d9ecb7bc11d38883a3aed0580737525e82db2e1d99dfca6
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select FHD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select FHD
@@ -274,17 +274,15 @@ http://mxonlive.xyz/live/xap/206315.m3u8?e=1790471637&token=e17d56588c3ddb1b7183
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max (TATAPLAY)
 http://mxonlive.xyz/live/xap/221259.m3u8?e=1790471637&token=5a1362b5261121191c4624f00f88806bdeaa033ef8b90d5f8e64e2d5ee78198f
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max HD
-http://mxonlive.xyz/live/xap/66179.m3u8?e=1790471637&token=7423adf9916990ddb6b5ba6180127499bb54c8ef9ff25f88124b832dd9db3785
+http://mxonlive.xyz/live/xap/66179.m3u8?e=1790528025&token=7671f62bb91b719eb137572b4e205d9b35ac5cd6e8f9cf49dd9c18c45cd062bb
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max [FHD]
-http://mxonlive.xyz/live/xap/66179.m3u8?e=1790471637&token=7423adf9916990ddb6b5ba6180127499bb54c8ef9ff25f88124b832dd9db3785
+http://mxonlive.xyz/live/xap/66179.m3u8?e=1790528025&token=7671f62bb91b719eb137572b4e205d9b35ac5cd6e8f9cf49dd9c18c45cd062bb
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1790471637&token=33804594c02fbd1b86ad1c2a722b86ad488381909fb79196b799ec5e863c45bc
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790471637&token=164318a75c5c1a4a030680eb85c1030925150e13cdf1fc4eb47f6984f549ae58
-#EXTINF:-1 tvg-id="sonyliv-1090544604" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024855/1790381377640145_Laver_cup26_Zverev_vs_DeMinaur_day2_session1_landscape_thumb.jpg" group-title="Live Events", Day 2 - Session 1 - 26 Sep 2026 | Laver Cup 2026
+#EXTINF:-1 tvg-id="sonyliv-1090544604" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024857/1790382017179945_Laver_cup26_Alcaraz_vs_Fritz_day2_session2_landscape_thumb.jpg" group-title="Live Events", Alcaraz vs Fritz - Day 2 - Session 2 - 26 Sep 2026 | Laver Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/master.m3u8?hdnea=exp=1790466635~acl=/*~id=76855608038276546667725630120860~hmac=736658a05c5b7a54da89bfaa910829ba7dcec3a34486df67ee1de65229bbe139
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024931/1790428370998318_Miyazaki_vs_sindhu_badminton_R3_landscape_thumb.jpg" group-title="Live Events", Tomoka Miyazaki vs PV Sindhu - Women's Singles - Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX8_22509/ENG/master.m3u8?hdnea=exp=1790466638~acl=/*~id=94005504795699855713018885071829~hmac=d280ab63fa8b683402c7388a93033a61a8c6cdb2e1b6f113882b2adabf3f22ec
 #EXTINF:-1 tvg-id="sonyliv-1090544607" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789124317583736_UNL_26_Iceland-vs-Estonia_live_landscape_thumb.jpg" group-title="Live Events", Iceland vs Estonia - 26 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022316/unl_esto2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb
 #EXTINF:-1 tvg-id="sonyliv-1090544609" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789193081403736_UNL_26_Faroe-Islands-vs-Kazakhstan_live_landscape_thumb.jpg" group-title="Live Events", Faroe Islands vs Kazakhstan - 26 Sep 2026 | UEFA Nations League 2026-27
