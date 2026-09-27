@@ -210,11 +210,11 @@ http://mxonlive.xyz/live/xap/206283.m3u8?e=1790632314&token=416c7684ef63a0940b70
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1790557643&token=6fe8b90311022313ffbe31f7b4b2edd31a8e2ea33fba2c6ea6e4127f409f3b6b
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
-http://mxonlive.xyz/live/xap/383183.m3u8?e=1790581325&token=4af3a39162956334ed7ccaf4fffd014097b2b56fb200f6f7f03ccba2577798d0
+http://mxonlive.xyz/live/xap/383183.m3u8?e=1790632314&token=e96dacd82a42807b2290539dc3ce7920387462b176a9aa3a19958e6f5ca8e8e7
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1790557643&token=a149ed2dc3a21041e3476c4fe297b9c9be808cf50c438b198475be6b2a3b9cf0
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1790581325&token=07cde5484f3f5db0099a01c391591fc49e171ca23566ace850327f8d2123ef0f
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1790632314&token=eae1fea949dd55baa2c92528b120bf905f976080194766a80cf731aa0c11fc18
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1790557643&token=e5189c0365a3e8bebb75bf08924ff606f543353961c750d05de7bd27b1b37e01
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
