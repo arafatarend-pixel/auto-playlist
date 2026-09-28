@@ -78,7 +78,7 @@ https://sm-monirul.top/toffee/play/nexus_tv.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Bangla",Global TV
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b36e6e9d0ee3e8ec8ddd9a8c61acf71
 #EXTINF:-1 tvg-id="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-name="Green TV HD" tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d" group-title="Bangla",Green TV HD
-https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangla",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="Bangla",Star News
@@ -114,7 +114,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Bangla"tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bangla",IND-Bangla: Star Jalsa HD
-http://mxonlive.xyz/live/xap/245898.m3u8?e=1790618657&token=4cdd2debc81ad16d728f9e53a5d1fe74bba8d83dd5e719b0c827c8080a63036e
+http://mxonlive.xyz/live/xap/245898.m3u8?e=1790641266&token=0e2f44b254a5b13aa88705183459e4bb6edacc56c81b621717d20f1bca1fc7b6
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/COLORS BANGLA FHD.png", ┃BANGLA┃ COLORS BANGLA FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908665.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="BanglaPlusHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir8DIISD_3Ay4E2H__HTS4VFP7VXskYcIgkufU45epPzAFDKObL2D_p6mOal9B0RJpyaiA3feJuyaL8yvd0x-2nykRjc1pZPwT_aAGwmwFb4bEJf8oVDgty5NF30gzWlwHvh2P2c49pP2P8383ili_yboK1uSyqELcZygHTpSwru1VeK0mMwceugT5QLw/s1600/NadimRazaTVLogoDesign%282%29_copy_900x900_1.png",Bangla+ HD
@@ -281,9 +281,9 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1790641266&token=8c76633569187abdcefcf
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1790641266&token=cadd97ccb34e2a858cf16647bc32bc0c0a6b80b93bbe8d84d30349b1afba85bf
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790641266&token=33c070dc11b9eb1de9327d4a8baf47361857c83f2345a66cbee4f234fbb65d9d
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Live Events", Day 10 - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/master.m3u8?hdnea=exp=1790641239~acl=/*~id=17225322857500001342774385967642~hmac=afb632b758dc4d5ae15aedb79d844984f32e052facf0725c907b2d880b50fbc0
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Live Events", Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds1_2709/ENG/master.m3u8?hdnea=exp=1790641243~acl=/*~id=24879853086753614370891348231346~hmac=181181ee4d1448852a79f35b76a4cd2bdda573ae67996fab7b30c90e4660ff96
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Live Events", Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022319/ag_dx4_22709/ENG/master.m3u8?hdnea=exp=1790639434~acl=/*~id=01079861290062040213759107468445~hmac=851ba5d3aade0fae4753e5d4fdd8967cba77f2337cb3a77cc3ad086c1f94d7e7
+#EXTINF:-1 tvg-id="sonyliv-1090545171" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790034832920628_UNL2627_Georgia_vs_Ukraine_landscape_thumb.jpg" group-title="Live Events", Georgia vs Ukraine - 28 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/unl_geor2809/ENG/master.m3u8?hdnea=exp=1790653842~acl=/*~id=39912320091136581813929596207098~hmac=8dcb963e29d47c4eaa7465f12d1bdbe232bc280c7bd25f4a9f12b21f85640d1b
+#EXTINF:-1 tvg-id="sonyliv-1090545166" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033937035628_UNL2627_Armenia_vs_Montenegro_landscape_thumb.jpg" group-title="Live Events", Armenia vs Montenegro - 28 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120300/unl_arme2809/ENG/master.m3u8?hdnea=exp=1790652065~acl=/*~id=07010048893117896340000968870080~hmac=81611055ab17dc839f035fd1781d117a6ca018dfe2e36ef907ab9b9c571f9670
+#EXTINF:-1 tvg-id="sonyliv-1090545170" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790034559031628_UNL2627_Latvia_vs_Cyprus_landscape_thumb.jpg" group-title="Live Events", Latvia vs Cyprus - 28 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120304/unl_latv2809/ENG/master.m3u8?hdnea=exp=1790652072~acl=/*~id=78821581431104966931043648670947~hmac=391caba57d3edc4aa113f2c905f820d3e6f1e349d471da0205a0743d5399a598
