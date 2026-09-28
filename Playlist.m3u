@@ -18,7 +18,7 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1784102560&u=ee5437a7-c16b-4700-b3
 #EXTINF:-1 tvg-id="100000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Bangla",Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1784102560&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ddcd867c4b5ff4b8041ee4e513423464
 #EXTINF:-1 tvg-id="BOISHAKHITV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/Boishakhi_TV_HD_logo_2022.png" group-title="Bangla",BOISHAKHI TV
-http://mxonlive.xyz/live/xap/245923.m3u8?e=1790641266&token=bd03dcf0aad6956909d7071759fd2e9799388616109b1f10dfa5593caa9cdff0
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8?e=1784102570&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=04a0e9e55654c1f01a51941732d5fe10
 #EXTINF:-1 tvg-id="ekushey.bd" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla",Ekushay TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1 tvg-id="229000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Bangla",Maasranga TV
@@ -160,7 +160,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="KIDS Cartoon",Mr Bean Animated
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T SPORTS
-http://mxonlive.xyz/live/xap/167590.m3u8?e=1790641266&token=1995719d5608237b8ef196ed7bbd24270249f09974ade696eae80f6a94351ffd
+http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="SPORTS",Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="SPORTS",Willow HD
@@ -176,7 +176,7 @@ http://mxonlive.xyz/live/xap/167569.m3u8?e=1790641266&token=ad94862087a9951ce3fb
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
 http://mxonlive.xyz/live/xap/219689.m3u8?e=1790641266&token=6c55aaefbca8675fa59583b48592ce2b0edb2763308a6a206cad95769fda76c9
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
-http://mxonlive.xyz/live/xap/167590.m3u8?e=1790641266&token=1995719d5608237b8ef196ed7bbd24270249f09974ade696eae80f6a94351ffd
+http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
 http://mxonlive.xyz/live/xap/167570.m3u8?e=1790641266&token=9a8e2e82bfa2afd99bb9eb094e8fe579be11a4696f9d893342fc5faa0b60997c
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
@@ -281,13 +281,3 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1790641266&token=8c76633569187abdcefcf
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1790641266&token=cadd97ccb34e2a858cf16647bc32bc0c0a6b80b93bbe8d84d30349b1afba85bf
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790641266&token=33c070dc11b9eb1de9327d4a8baf47361857c83f2345a66cbee4f234fbb65d9d
-#EXTINF:-1 tvg-id="sonyliv-1090545177" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790035516907628_UNL2627_Belgium_vs_France_landscape_thumb.jpg" group-title="Live Events", Belgium vs France - 29 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662856~acl=/*~id=22014688582705949546215953965352~hmac=510333c05544b5ec3f5ceefe51e9e3a4592baad8465c8ae3a81cda7e6a6e5a59
-#EXTINF:-1 tvg-id="sonyliv-1090545178" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035683567813_UNL2627_Turkiye_vs_Italy_landscape_thumb.jpg" group-title="Live Events", Türkiye vs Italy - 29 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662870~acl=/*~id=33580144775567217679888563389258~hmac=315d87686f9fd6b770df1a7213ccfe6f5dea30f9113b94070a09b5c4372bff3a
-#EXTINF:-1 tvg-id="sonyliv-1090545175" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035158217813_UNL2627_Sweden_vs_Poland_landscape_thumb.jpg" group-title="Live Events", Sweden vs Poland - 29 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662856~acl=/*~id=22014688582705949546215953965352~hmac=510333c05544b5ec3f5ceefe51e9e3a4592baad8465c8ae3a81cda7e6a6e5a59
-#EXTINF:-1 tvg-id="sonyliv-1090545176" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035361465813_UNL2627_Northern_Ireland_vs_Hungary_landscape_thumb.jpg" group-title="Live Events", Northern Ireland vs Hungary - 29 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662885~acl=/*~id=57050115264436775756505463585966~hmac=b211a83627bd91064c34f71a38fced43a91e3a71629eaec8a863bc9b34f98a83
-#EXTINF:-1 tvg-id="sonyliv-1090545174" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790034970629813_UNL2627_Romania_vs_Bosnia_and_Herzegovina_landscape_thumb.jpg" group-title="Live Events", Romania vs Bosnia & Herzegovina - 29 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662893~acl=/*~id=21805643776543711435395635779953~hmac=6fa0619f014afe187b480c787f47f39973c722c107a7a5a9ec2f6676dbf0f72c
