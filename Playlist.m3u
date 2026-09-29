@@ -236,7 +236,7 @@ http://mxonlive.xyz/live/xap/206296.m3u8?e=1790731900&token=4ed4cdd265716e9570c2
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1790731900&token=d499e0dc5769c9340cb39157be8455312108ac7a88da3cfb2b32acce9c87076e
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1790731900&token=5443d35a81d20e77428f63d79ae491a92018e8dd96270adcfd64bfb4ac1bf73d
+http://mxonlive.xyz/live/xap/66177.m3u8?e=1790755102&token=50993975d08e98daa4a545a5b20d7370a974a7e2afc604c76e676b79d36f5aee
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1790731900&token=5443d35a81d20e77428f63d79ae491a92018e8dd96270adcfd64bfb4ac1bf73d
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
@@ -256,7 +256,7 @@ http://mxonlive.xyz/live/xap/221260.m3u8?e=1790731900&token=af0e152df15db62ed447
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA FHD (TATASKY)
 http://mxonlive.xyz/live/xap/221261.m3u8?e=1790731900&token=55323b6d7d05623e57e554614068ebbb86af69e69663758d84b6b071278208d9
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA HD
-http://mxonlive.xyz/live/xap/206307.m3u8?e=1790731900&token=943ab0c8ad8ba0bef128cf6df42b8ce48231a2e549504157fa2cccbadb827c65
+http://mxonlive.xyz/live/xap/206307.m3u8?e=1790755102&token=f06c9f26150735c3b78642a0a32b7958a7253c6cba46b561d2796095c80d1d6f
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA [FHD]
 http://mxonlive.xyz/live/xap/206307.m3u8?e=1790731900&token=943ab0c8ad8ba0bef128cf6df42b8ce48231a2e549504157fa2cccbadb827c65
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
