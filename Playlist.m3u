@@ -174,9 +174,9 @@ http://mxonlive.xyz/live/xap/167568.m3u8?e=1790731900&token=5df251a33693772cda81
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS",PK: TEN SPORTS
 http://mxonlive.xyz/live/xap/167569.m3u8?e=1790731900&token=dfa866bf86d5585eef83c4ecd16090bb36b83e0744a6844f548ac265e8eb0c00
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
-http://mxonlive.xyz/live/xap/219689.m3u8?e=1790731900&token=149112fece138c474b1f533c511b8ece8ccaf9130a41e6a13a64d4c66569b818
+http://mxonlive.xyz/live/xap/219689.m3u8?e=1790797760&token=f3fb833dfd5de925b5b69a0093f57275437efdbd8aa7bb99378688da60e36209
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
-http://mxonlive.xyz/live/xap/167590.m3u8?e=1790755102&token=dac29614909659bac9b1adfa3b31c581f0c1fe92f1f8fa3033e49ffae103184d
+http://mxonlive.xyz/live/xap/167590.m3u8?e=1790797760&token=b1f39124c10d90baf6ff0d9092ca9f84b0e4e09c8b30a8022ea2213b64453b54
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
 http://mxonlive.xyz/live/xap/167570.m3u8?e=1790755102&token=574adb518649f7ebe15a2e1b1b6c52d6e475e99189dc24058c594e5d806de7ba
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
@@ -230,7 +230,7 @@ http://mxonlive.xyz/live/xap/206280.m3u8?e=1790731900&token=c0d54f4c70b134d04ae2
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
 http://mxonlive.xyz/live/xap/206294.m3u8?e=1790731900&token=4f6bad14a5e942abf1937d77d78836121ee65eb9ada4eeb24c599738c9a87942
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
-http://mxonlive.xyz/live/xap/206295.m3u8?e=1790731900&token=b753747bdd86efc59e0305d7d7eda8768cc4c17af470014f16bce2327d878a21
+http://mxonlive.xyz/live/xap/206295.m3u8?e=1790797760&token=820258b42b72c4de17d07b40e6bd6d1d9f166183d4265eeab55fc4379db90a8b
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
 http://mxonlive.xyz/live/xap/206296.m3u8?e=1790755102&token=88fd530d7e70327bd1d4274e37ab3eea5575be4d8ec21c0534c52f1dbac73ac3
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
