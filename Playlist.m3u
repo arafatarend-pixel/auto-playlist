@@ -281,5 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1790810982&token=b9b87bf2ab70973250731
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1790810982&token=fd97cc4e8685045b33289963bf44eb529247f7bd5f42ac8a84f916a0ef69afd9
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790810982&token=65f8fb017e8a255a7b0d016e3722b09706b89b04ff5bf397c1ce720601edbfe9
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Live Events", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790810431~acl=/*~id=72485697055333046493379522301852~hmac=de2821fff1944acfc233eb24642c465c6923cbf8876a5feaaafb4e8a8bfcabb4
+#EXTINF:-1 tvg-id="sonyliv-1090545705" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790029127566502_UEFA_INT_friendly_MD2_Lithuania_vs_Andorra_landscape_thumb.jpg" group-title="Live Events", Lithuania vs Andorra - 30 Sep 2026 | UEFA International Friendlies
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/master.m3u8?hdnea=exp=1790824847~acl=/*~id=86411463764682491393386580722232~hmac=c4bee9a02355ec6e8f5640ce8b340c602b9b94f194c174ed928750608e2b4666
