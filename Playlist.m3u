@@ -122,7 +122,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR JALSHA HD.png", ┃BANGLA┃ STAR JALSHA HD
 http://mxonlive.xyz/live/xap/245898.m3u8?e=1790810982&token=0ea432275b510e8a217d420ac542efe7aa11358369c65926b4a0be6a6b80235f
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ZEE BANGLA.png", ┃BANGLA┃ ZEE BANGLA
-http://mxonlive.xyz/live/xap/245893.m3u8?e=1790828788&token=e23b85afe6d0a9e7004e01f4b9f78a99031f1730fc6726eba4573298fc9c9800
+http://mxonlive.xyz/live/xap/245893.m3u8?e=1790873084&token=3f0d4bef2f38d861f1035e1b12d4531501c26b0a4e5825a335d45d3b1e80caaf
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR JALSHA MOVIES.png", ┃BANGLA┃ STAR JALSHA MOVIES
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908675.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg" group-title="Bangla",Enter TV
@@ -134,13 +134,13 @@ http://mxonlive.xyz/live/xap/150478.m3u8?e=1790810982&token=66a266f5625439c442a0
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
 http://mxonlive.xyz/live/xap/150483.m3u8?e=1790810982&token=c6445fcc4c558ed44ba2839fa6427382cab004fc13a346c27db685f06f0dea6e
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
-http://mxonlive.xyz/live/xap/26187.m3u8?e=1790810982&token=c55cc2e933f0c399d950e7af056da9e6400cc0baa4a1078014f5de7b6add96ab
+http://mxonlive.xyz/live/xap/26187.m3u8?e=1790873084&token=485fd35bb39fe872b19da7ef1581a9abd00fe75362721aa29549bc0f5532129f
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1790810982&token=a8c42147c6b6410b4e9a2382a28224acd48a0c943ea744ebcd06a3ea6318aca3
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1790828788&token=6635606d6aa463c80c1d571d44677f7d63beb0ee8a311d6f34be71a5e5db295f
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
-http://mxonlive.xyz/live/xap/153156.m3u8?e=1790810982&token=8da4ad2e4937d4cd737b95f6b5adfe77499c54e8583f7ff879caee1b410988cc
+http://mxonlive.xyz/live/xap/153156.m3u8?e=1790873084&token=8231c41af0d2fb17a413ac91c5e420e77c6bc0e785a138ab258914ebcd36569a
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
@@ -148,7 +148,7 @@ http://mxonlive.xyz/live/xap/153175.m3u8?e=1790873084&token=3716babc080f27bc6936
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1790810982&token=f8d4092a9f589c2392dde83c9f1f0798467cbf9ae261bda2a19f54204b4629ba
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1790810982&token=ba2a760b29a70116d77630a119eb89521dc56b50435b41578af9855caba9835e
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1790873084&token=f93c5e83fc9722c734a26b4a62be36657b225b5924be0650ebcc6d6f975d6f52
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1790810982&token=b286b5fffa9a624b46ab717ce61889b72a6bca42fa7e06ab45d93ae24e4e2feb
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -204,13 +204,13 @@ http://mxonlive.xyz/live/xap/206278.m3u8?e=1790873084&token=a0b89bff613ca0681aba
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
 http://mxonlive.xyz/live/xap/383184.m3u8?e=1790810982&token=9f58b179684a6161bc8e1d37d7da36d6dfdee5d20269665dbd6c505f54efd685
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
-http://mxonlive.xyz/live/xap/206282.m3u8?e=1790828788&token=44c0f2127b12959744603ee76fe68097bd37ceb36f091ead1db68837b6c57593
+http://mxonlive.xyz/live/xap/206282.m3u8?e=1790873084&token=82bd856bdec3ff2ccb4e80a91f6cda608ccf506725d1fce5771ac8ef7821ac9e
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
 http://mxonlive.xyz/live/xap/206283.m3u8?e=1790810982&token=16dfaf6191f98e478221a90fff0be20be0d3e7ed504378e245c95da142694121
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
-http://mxonlive.xyz/live/xap/206285.m3u8?e=1790810982&token=f56403e4a8a178a4359e0149d9c58d8531f85400cee4042dd1cce5121201b2ed
+http://mxonlive.xyz/live/xap/206285.m3u8?e=1790873084&token=fbd07e80f8e9afd5ecce688374cefb44d22ceb3f28746e6585fe19f0b6606a20
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
-http://mxonlive.xyz/live/xap/383183.m3u8?e=1790828788&token=e3e41cc452d9f3ce8cb67f1f4d84626a48f5f3f2d53f8ecd4e7e9cf1d009306f
+http://mxonlive.xyz/live/xap/383183.m3u8?e=1790873084&token=7309fb2eacd596be9b39c66e052b16a455dfb121694b43efba35f4fcc2e4eddb
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1790810982&token=28cefc7c02eb8eff1669c3d3e3ccf7d7d95cc1b0cac7e91742930e5786438f37
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
