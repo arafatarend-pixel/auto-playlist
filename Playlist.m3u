@@ -122,7 +122,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR JALSHA HD.png", ┃BANGLA┃ STAR JALSHA HD
 http://mxonlive.xyz/live/xap/245898.m3u8?e=1790731900&token=b96f13a689983384d2ce22292dcfd6f135316c2ea647abfb402384a627c9625b
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ZEE BANGLA.png", ┃BANGLA┃ ZEE BANGLA
-http://mxonlive.xyz/live/xap/245893.m3u8?e=1790755102&token=b46761118d8ce3d5d0f0a498e045481ad9ddc00c7ff9f5bf80d3e46ea0c8a0e4
+http://mxonlive.xyz/live/xap/245893.m3u8?e=1790810982&token=482481d6c767dc0e56d42dd97cae6654d6a611ce2f9873f118bd0282d8dcc44e
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR JALSHA MOVIES.png", ┃BANGLA┃ STAR JALSHA MOVIES
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908675.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg" group-title="Bangla",Enter TV
@@ -134,7 +134,7 @@ http://mxonlive.xyz/live/xap/150478.m3u8?e=1790731900&token=06abf4c189428bb69fd9
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
 http://mxonlive.xyz/live/xap/150483.m3u8?e=1790731900&token=6d69cc222c134968049b17c2abb222af2e71b8988e930598e19604b1d307d8d7
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
-http://mxonlive.xyz/live/xap/26187.m3u8?e=1790731900&token=2efca4d75db87529435ce28e6f35dec75692c772018dff3eba3584e678fe17ae
+http://mxonlive.xyz/live/xap/26187.m3u8?e=1790810982&token=c55cc2e933f0c399d950e7af056da9e6400cc0baa4a1078014f5de7b6add96ab
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
 http://mxonlive.xyz/live/xap/150480.m3u8?e=1790731900&token=88d0709737e1c0525d0cf0e276142aa7604e0ea6bb6a5278b6120d9d7e1ab560
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
@@ -144,7 +144,7 @@ http://mxonlive.xyz/live/xap/153156.m3u8?e=1790731900&token=f97a01d4faf05768af00
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1790731900&token=2911b496779a4c97e3a7de87bc9892ad6e99aa94da1329cd43c18f5cf38b2803
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1790810982&token=8db41e492130bf6a97c44df7d77f549c8a3483254609c4635f92ad6a7964e1c7
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1790731900&token=b9d17135fc6fa77124e0b9ca43325217af0b9c3e9cab2bede19e825f926eddea
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
@@ -283,6 +283,10 @@ http://mxonlive.xyz/live/xap/66189.m3u8?e=1790731900&token=c1df1385b1a95ddf6876f
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790731900&token=581c7e65aa66789af0487c80e127aef60a5773ed4ba8ce1d4f7879392de0352e
 #EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Live Events", Archery - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="Live Events", Archery - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/HIN/master.m3u8?hdnea=exp=1790770837~acl=/*~id=18556418162688324692849439423751~hmac=89bdff25413e6c9adb72017c37739b0a48877f7e73f9977331bcbfd7c4ded984
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg" group-title="Live Events", Squash - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_dx1_32909/ENG/master.m3u8?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030
 #EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Live Events", Esports - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx3_32909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
 #EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789293295442741_AG26_Softball_pictogram_landscape_thumb.jpg" group-title="Live Events", Chinese Taipei vs People's Republic of China - Women's Softball - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -293,3 +297,5 @@ https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_2909/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Live Events", Archery  - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds2_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Live Events", Sepaktakraw - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030
