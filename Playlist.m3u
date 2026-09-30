@@ -160,7 +160,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="KIDS Cartoon",Mr Bean Animated
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T SPORTS
-http://mxonlive.xyz/live/xap/167590.m3u8?e=1790755102&token=dac29614909659bac9b1adfa3b31c581f0c1fe92f1f8fa3033e49ffae103184d
+http://mxonlive.xyz/live/xap/167590.m3u8?e=1790810982&token=f6b2a09c4f598d4202fb20826bb7d42146b295a154554e46c75fc02accee52c8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="SPORTS",Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="SPORTS",Willow HD
@@ -174,7 +174,7 @@ http://mxonlive.xyz/live/xap/167568.m3u8?e=1790810982&token=0040dbb5c6bda5d40ef1
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS",PK: TEN SPORTS
 http://mxonlive.xyz/live/xap/167569.m3u8?e=1790810982&token=5b8bf6c8be1224003e4975934241190cd32fcdc1bad72c1a81872308f728aeba
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
-http://mxonlive.xyz/live/xap/219689.m3u8?e=1790797760&token=f3fb833dfd5de925b5b69a0093f57275437efdbd8aa7bb99378688da60e36209
+http://mxonlive.xyz/live/xap/219689.m3u8?e=1790810982&token=8636a6c2ee1bc3b6723fd54aa897245f4f21276eaef7e025c6e07819e6508657
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 http://mxonlive.xyz/live/xap/167590.m3u8?e=1790797760&token=b1f39124c10d90baf6ff0d9092ca9f84b0e4e09c8b30a8022ea2213b64453b54
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
@@ -214,13 +214,13 @@ http://mxonlive.xyz/live/xap/383183.m3u8?e=1790810982&token=7ac4194c157508817910
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1790810982&token=28cefc7c02eb8eff1669c3d3e3ccf7d7d95cc1b0cac7e91742930e5786438f37
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1790731900&token=0e4098b4e3662e3eae89f5c1defec03ce92ba042eb6dcf8d56b6f52394eed6b5
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1790810982&token=9bd282607c826358ee31538cd52235cc4caa3836b902401bc351e77612bc779a
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1790810982&token=159f740e22fb3a7dd605c95dc84f66900623e1a9ce0cc2fe42e3d52551d9b2ec
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
-http://mxonlive.xyz/live/xap/206289.m3u8?e=1790731900&token=9cab98be58a02efcefe152ec9b905400d03f95efe2d99d6400c0e49e6ac2b7f7
+http://mxonlive.xyz/live/xap/206289.m3u8?e=1790810982&token=6e235ac3a867caf798bf7d05f79e1a1522a8869d15c0cfb657702bc0b3dd1701
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
-http://mxonlive.xyz/live/xap/206291.m3u8?e=1790731900&token=8d5601d3c0fce082576aefdd895ca04fa718e6e77e7e76c474b67f22e73e4937
+http://mxonlive.xyz/live/xap/206291.m3u8?e=1790810982&token=d09b387a19f9861662fa942b23d4b30adcdbd6de22faa24523df7d7a8d5accb1
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1790797760&token=36d280fc349852623e5c898ced81dd5ce3735a5b593dd34ebab671b420777ac9
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
@@ -287,15 +287,17 @@ https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/HIN/master.m3u8?hdnea=exp=1790770837~acl=/*~id=18556418162688324692849439423751~hmac=89bdff25413e6c9adb72017c37739b0a48877f7e73f9977331bcbfd7c4ded984
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Live Events", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025341/1790724059340657_AG26_30Sep_Squash_Womens_Team_QF_live_landscape_thumb.jpg" group-title="Live Events", India In Action - Squash - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg" group-title="Live Events", Squash - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120307/ag_dx1_32909/ENG/master.m3u8?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030
 #EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Live Events", Esports - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx3_32909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
-#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789293295442741_AG26_Softball_pictogram_landscape_thumb.jpg" group-title="Live Events", Chinese Taipei vs People's Republic of China - Women's Softball - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds3_2909/ENG/master.m3u8?hdnea=exp=1790769079~acl=/*~id=56769000876767830180256141455703~hmac=97f74e2f537963af709a5a51ddf6037e86663410fedc2c8a28de0a28e81acba8
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Live Events", Men's & Women's Quarterfinals - Beach Volleyball - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025347/1790728680024979_AG26_golf_india_in_action_live_landscape_thumb.jpg" group-title="Live Events", India In Action - Golf - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_33009/ENG/master.m3u8?hdnea=exp=1790778033~acl=/*~id=50406613612023948957312797628286~hmac=405cc55c8c35983b0dd53509a6c3c72276b6d99d47bfbb57cfcb5d32a222c060
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Live Events", Wrestling - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_2909/ENG/master.m3u8?hdnea=exp=1790769088~acl=/*~id=86894233202059025580570457759464~hmac=14e26c4bfab9fa6092a251be500916a817ef61ea25c4c3c2083c05fb004ac2d9
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Live Events", Women's Hockey - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Live Events", Archery  - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds2_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Live Events", Judo - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds3_2909/ENG/master.m3u8?hdnea=exp=1790769079~acl=/*~id=56769000876767830180256141455703~hmac=97f74e2f537963af709a5a51ddf6037e86663410fedc2c8a28de0a28e81acba8
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Live Events", Esports - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
