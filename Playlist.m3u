@@ -140,7 +140,7 @@ http://mxonlive.xyz/live/xap/150480.m3u8?e=1790929570&token=024fb47b438e0a4958b4
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1790929570&token=c3b9972f18f33088b58edd1f751e417f75514e69a287cef0b960f1288a80f3af
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
-http://mxonlive.xyz/live/xap/153156.m3u8?e=1790903196&token=987a24bb30474124aa1df5e9a542c3191ae02604da24fce69dd28fece584100c
+http://mxonlive.xyz/live/xap/153156.m3u8?e=1790929570&token=d6e35506f8bb90e0bf7516acf2da107aed7a8775edfff49837c7c3b97c74ef02
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
@@ -200,7 +200,7 @@ http://mxonlive.xyz/live/xap/238478.m3u8?e=1790929570&token=3c847952368f274e215f
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
 http://mxonlive.xyz/live/xap/238479.m3u8?e=1790929570&token=b41169676d5df65ed924eb86f081a3618d953b84b1d2058484ac8cf2109f257c
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
-http://mxonlive.xyz/live/xap/206278.m3u8?e=1790903196&token=ee21269ed09cf7ba35216d395b8d81b633575f6b930ac4aa2e59fd57ee29fe88
+http://mxonlive.xyz/live/xap/206278.m3u8?e=1790929570&token=b8a5a5108107fc41c25de5e0b619702cabb9deeb3095dade2bc9d274f22fe1c2
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
 http://mxonlive.xyz/live/xap/383184.m3u8?e=1790929570&token=9c423ebdc48c5c7efce32bac008a7163faccf1dac19c3cd218c7eee49717c12e
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
@@ -281,5 +281,17 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1790929570&token=ab9ed3bab07bf5a119d56
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1790929570&token=25e0c797f8d6aad2436e1de477c814aafb69545e6938f8fa237e9e1e3dbc0ada
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790929570&token=69b5ec7f362f424518b664ec680991af98e69a1236a9633bb654fd36b7286e36
-#EXTINF:-1 tvg-id="sonyliv-1090545728" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025240/1790650314984639_UNL2627_MD3_Azerbaijan_vs_LiechTenstein_landscape_thumb.jpg" group-title="Live Events", Azerbaijan vs Liechtenstein - 1 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0110/ENG/master.m3u8?hdnea=exp=1790911260~acl=/*~id=90929653931195751812920234535787~hmac=69e83da0125cbc281e5783029a3e95136a48f7611c155eef4d05f6a652037700
+#EXTINF:-1 tvg-id="sonyliv-1090545737" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741708462683_UNL2627_Denmark_vs_Portugal_landscape_thumb.jpg" group-title="Live Events", Denmark vs Portugal - 2 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922041~acl=/*~id=11572129435925745096253805425042~hmac=23ea53f370a924f1c44b2432a8542d7e7e357a854f747e56ba90499d5c94b41b
+#EXTINF:-1 tvg-id="sonyliv-1090545735" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741478728683_UNL2627_Germany_vs_Serbia_landscape_thumb.jpg" group-title="Live Events", Germany vs Serbia- 2 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922049~acl=/*~id=33886019851040017654443234106550~hmac=47cf0c3ad680cbaf0e79888d2da99e3561f3df712d646ec2c4396bda7f111db3
+#EXTINF:-1 tvg-id="sonyliv-1090545732" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741070586683_UNL2627_Greece_vs_Netherlands_landscape_thumb.jpg" group-title="Live Events", Greece vs Netherlands - 2 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922059~acl=/*~id=62836652303536520043421607026598~hmac=32b54ff515bd2a048d1b5146abe9f706d4c6eb4a282a1c643dba6504be68f5c5
+#EXTINF:-1 tvg-id="sonyliv-1090545731" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790740927241668_UNL2627_Wales_vs_Norway_landscape_thumb.jpg" group-title="Live Events", Wales vs Norway - 1 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922041~acl=/*~id=11572129435925745096253805425042~hmac=23ea53f370a924f1c44b2432a8542d7e7e357a854f747e56ba90499d5c94b41b
+#EXTINF:-1 tvg-id="sonyliv-1090545734" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741352461668_UNL2627_Republic_of_Ireland_vs_Austria_landscape_thumb.jpg" group-title="Live Events", Republic of Ireland vs Austria - 2 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922077~acl=/*~id=62897635173395004053636664825523~hmac=da0d916323c68fcb93584b7a0b25800136494929e32f737b58352336016d8de3
+#EXTINF:-1 tvg-id="sonyliv-1090545733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741194386683_UNL2627_Israel_vs_Kosovo_landscape_thumb.jpg" group-title="Live Events", Israel vs Kosovo - 2 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922087~acl=/*~id=90381771596611440385157073945460~hmac=903a60b094932696277d23bb5bd3b16dab668a161ed37071222a345d7511b7ff
+#EXTINF:-1 tvg-id="sonyliv-1090545736" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741596147668_UNL2627_Malta_vs_Gibraltar_landscape_thumb.jpg" group-title="Live Events", Malta vs Gibraltar - 2 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922077~acl=/*~id=62897635173395004053636664825523~hmac=da0d916323c68fcb93584b7a0b25800136494929e32f737b58352336016d8de3
