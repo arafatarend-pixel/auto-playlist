@@ -148,7 +148,7 @@ http://mxonlive.xyz/live/xap/153175.m3u8?e=1790929570&token=fdc766b20b2d2b61a744
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1790929570&token=95ea432c3bcf4dbcc84e6c354fc0b5e4c906b7232c4e320288af03be2a8ba997
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1790929570&token=3125cf9572dcc35fbe887bee827766c4907abf23e1de5c69fa07ed06ef34bd79
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1790976992&token=2bec999779eeb34934671cdaf6d648b1a888c3694fddde5fd7f42f1fe615f60a
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1790929570&token=0b343b7fc9196a3bd23397bbf1c0868333644ec931d2ab55fb64b4bffee31574
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -224,7 +224,7 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1790929570&token=ead416ae8178c21aaf9d
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1790929570&token=33f5705781568b9fae51713357f8fb8ccdf93b28f0c858a0c35f684a187c9460
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1790903196&token=72d19a5249f33766a95b3a2e7a12c093634f9dcb30212c13b75345ea9abcebd4
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1790976992&token=b4ebe84f61c33f4dd3701052b24c8aef696c07bcd2bc73397735b55b5678cd94
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1790929570&token=f12aee7591a7c64215732218debf5f1408ac69f0d9615f07bbcedf3164c278c5
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
@@ -281,17 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1790929570&token=ab9ed3bab07bf5a119d56
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1790929570&token=25e0c797f8d6aad2436e1de477c814aafb69545e6938f8fa237e9e1e3dbc0ada
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1790929570&token=69b5ec7f362f424518b664ec680991af98e69a1236a9633bb654fd36b7286e36
-#EXTINF:-1 tvg-id="sonyliv-1090545737" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741708462683_UNL2627_Denmark_vs_Portugal_landscape_thumb.jpg" group-title="Live Events", Denmark vs Portugal - 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922041~acl=/*~id=11572129435925745096253805425042~hmac=23ea53f370a924f1c44b2432a8542d7e7e357a854f747e56ba90499d5c94b41b
-#EXTINF:-1 tvg-id="sonyliv-1090545735" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741478728683_UNL2627_Germany_vs_Serbia_landscape_thumb.jpg" group-title="Live Events", Germany vs Serbia- 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922049~acl=/*~id=33886019851040017654443234106550~hmac=47cf0c3ad680cbaf0e79888d2da99e3561f3df712d646ec2c4396bda7f111db3
-#EXTINF:-1 tvg-id="sonyliv-1090545732" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741070586683_UNL2627_Greece_vs_Netherlands_landscape_thumb.jpg" group-title="Live Events", Greece vs Netherlands - 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922059~acl=/*~id=62836652303536520043421607026598~hmac=32b54ff515bd2a048d1b5146abe9f706d4c6eb4a282a1c643dba6504be68f5c5
-#EXTINF:-1 tvg-id="sonyliv-1090545731" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790740927241668_UNL2627_Wales_vs_Norway_landscape_thumb.jpg" group-title="Live Events", Wales vs Norway - 1 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922041~acl=/*~id=11572129435925745096253805425042~hmac=23ea53f370a924f1c44b2432a8542d7e7e357a854f747e56ba90499d5c94b41b
-#EXTINF:-1 tvg-id="sonyliv-1090545734" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741352461668_UNL2627_Republic_of_Ireland_vs_Austria_landscape_thumb.jpg" group-title="Live Events", Republic of Ireland vs Austria - 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922077~acl=/*~id=62897635173395004053636664825523~hmac=da0d916323c68fcb93584b7a0b25800136494929e32f737b58352336016d8de3
-#EXTINF:-1 tvg-id="sonyliv-1090545733" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790741194386683_UNL2627_Israel_vs_Kosovo_landscape_thumb.jpg" group-title="Live Events", Israel vs Kosovo - 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922087~acl=/*~id=90381771596611440385157073945460~hmac=903a60b094932696277d23bb5bd3b16dab668a161ed37071222a345d7511b7ff
-#EXTINF:-1 tvg-id="sonyliv-1090545736" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741596147668_UNL2627_Malta_vs_Gibraltar_landscape_thumb.jpg" group-title="Live Events", Malta vs Gibraltar - 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922077~acl=/*~id=62897635173395004053636664825523~hmac=da0d916323c68fcb93584b7a0b25800136494929e32f737b58352336016d8de3
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025576/1790883954328809_AG26_2nd_Oct_Gold_Mens_live_landscape_thumb.jpg" group-title="Live Events", Golf - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/ag_dx5_00110/ENG/master.m3u8?hdnea=exp=1790932836~acl=/*~id=36689614383447670994324810889023~hmac=9c5b3dd3e2698a050ff828efcc4cb8df32ba30bd4014d6b6f3eb79edf4438251
