@@ -78,7 +78,7 @@ https://sm-monirul.top/toffee/play/nexus_tv.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Bangla",Global TV
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8?e=1784102573&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b36e6e9d0ee3e8ec8ddd9a8c61acf71
 #EXTINF:-1 tvg-id="ae87cbb4-8054-41e5-99ee-df09d9e0ac5e" tvg-name="Green TV HD" tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d" group-title="Bangla",Green TV HD
-https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8?e=1784102578&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=57bcdefd396bd85d72461ff29cbde00d
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangla",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="Bangla",Star News
@@ -122,7 +122,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR JALSHA HD.png", ┃BANGLA┃ STAR JALSHA HD
 http://mxonlive.xyz/live/xap/245898.m3u8?e=1791093977&token=1adad9899e99d6c847b118677286f77579439a487d7639f26fa1939d2275cfa0
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ZEE BANGLA.png", ┃BANGLA┃ ZEE BANGLA
-http://mxonlive.xyz/live/xap/245893.m3u8?e=1791093977&token=cb39e2efe310369b560d4f2e70955e3cfa545911a41a369d9a1a0352eb6900e2
+http://mxonlive.xyz/live/xap/245893.m3u8?e=1791116194&token=2462f8bd107c739665670461d12dd2fd56f585f5c4921a0a3f974fcd3a0bdc64
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR JALSHA MOVIES.png", ┃BANGLA┃ STAR JALSHA MOVIES
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908675.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g06jByt1/entertv.jpg" group-title="Bangla",Enter TV
@@ -152,7 +152,7 @@ http://mxonlive.xyz/live/xap/76722.m3u8?e=1791072702&token=9821e627a9cef39ac5eb4
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1791093977&token=024ae3b5182710f2f59f466eb3b40ce72517eb06c942dc9c8209666f5ad4a1e1
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
-http://mxonlive.xyz/live/xap/311373.m3u8?e=1791093977&token=ddabde74ae6e4686a8b6a1c7795cbefbfe248a882ffce5271a75d60698e4bd18
+http://mxonlive.xyz/live/xap/311373.m3u8?e=1791116194&token=87cbd2b158ca020349639e94d502d39a05bc7de93cb32f94fa6e8dce4e63ea7e
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="KIDS Cartoon",Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/208314.jpg" group-title="KIDS Cartoon",Tom & Jerry TV
@@ -198,9 +198,9 @@ http://mxonlive.xyz/live/xap/167581.m3u8?e=1791072702&token=27c1dd7b5eb687e41036
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
 http://mxonlive.xyz/live/xap/238478.m3u8?e=1791059056&token=024a71e677511e4c6e6cb7cf24f4ba92c95d813dae417e3ada84ab701a0bd24b
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
-http://mxonlive.xyz/live/xap/238479.m3u8?e=1791093977&token=a8e04eff57e3dc2f2f2d5fe35adb552abff4ac354d9b7d8c7cadde0808e393be
+http://mxonlive.xyz/live/xap/238479.m3u8?e=1791116194&token=1d78703fef5a7a00ac6a960628f32981a293b6e4f83e7308704c678ee164bc96
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
-http://mxonlive.xyz/live/xap/206278.m3u8?e=1791072702&token=92af6ada1c809c2ce0c945d7dae77a069d434bf13c532e8199af11541b367e66
+http://mxonlive.xyz/live/xap/206278.m3u8?e=1791116194&token=395759f5dd0b0582f6a489beabe1a3f3f6485118b5093169230df6ca099ca621
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
 http://mxonlive.xyz/live/xap/383184.m3u8?e=1791093977&token=89708961c1c070a1dbeabfca0c42bb66d60bc519598c0cbd903664564ed58362
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
@@ -226,7 +226,7 @@ http://mxonlive.xyz/live/xap/206292.m3u8?e=1791072702&token=013818cf0dc4e74c2e54
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
 http://mxonlive.xyz/live/xap/206279.m3u8?e=1791072702&token=2d98630b1d418150f7386c3f72c928c5b9144c743b85909f863f8c6d744d1299
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
-http://mxonlive.xyz/live/xap/206280.m3u8?e=1791093977&token=60d33df4f3f5042928581b6b8c4d33f1476d9a1d98d0bc4fc28bc68b937118d1
+http://mxonlive.xyz/live/xap/206280.m3u8?e=1791116194&token=50e580d5f80d1aa1a62505a7dbd0d069997eb21836b87e3b8265ee5a08d0fa7b
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
 http://mxonlive.xyz/live/xap/206294.m3u8?e=1791093977&token=412c4068df6c5ab3e8bbe6412d8a57a095d97a10483e83879ee924739f596685
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
@@ -236,7 +236,7 @@ http://mxonlive.xyz/live/xap/206296.m3u8?e=1791093977&token=9119354566658a09816c
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1791093977&token=4f6f6c722ef36a21e3691362547eabbc54ab84e4e6619f27af281582108f2ab0
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1791093977&token=78083d025615fc725aab0fc6742f9cfec12a148ae691827a4236edc129e34988
+http://mxonlive.xyz/live/xap/66177.m3u8?e=1791116194&token=0f22e8cf518abccf5695f22ab83cdb9c46048ede805a078cd32c9dadb936e46e
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1791093977&token=78083d025615fc725aab0fc6742f9cfec12a148ae691827a4236edc129e34988
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
@@ -281,23 +281,27 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791116194&token=3127676720fe4088ca3be
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791093977&token=f29e2fac296d5686e368e0ef80f758a2ec9c508939a69f5014d01d5198ac4d23
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791093977&token=375daaa154334fab0c944e9bd8428be28497965b0312b769d555d702d923e70e
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [English]
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - India's International Friendlies 2026 [English]
 https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Hindi]
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - India's International Friendlies 2026 [Hindi]
 https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/HIN/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Tamil]
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - India's International Friendlies 2026 [Tamil]
 https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TAM/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Telugu]
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - India's International Friendlies 2026 [Telugu]
 https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TEL/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Kannada]
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - India's International Friendlies 2026 [Kannada]
 https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/KAN/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - 3 Oct 2026 - India's International Friendlies 2026 [Malayalam]
+#EXTINF:-1 tvg-id="sonyliv-1090546668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="Live Events", India vs Brazil - India's International Friendlies 2026 [Malayalam]
 https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/MAL/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
-#EXTINF:-1 tvg-id="sonyliv-1090546669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032955786967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb_bengali.jpg" group-title="Live Events", India vs Brazil - 3 Oct 2026 (Bengali) - India's International Friendlies 2026 [Bengali]
+#EXTINF:-1 tvg-id="sonyliv-1090546628" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747906736683_UNL2627_Croatia_vs_England_landscape_thumb.jpg" group-title="Live Events", Croatia vs England - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084037~acl=/*~id=55593780702326351750085828860730~hmac=37ed3ca771e3e8a73db761ea85cef811c1da57bb1b6989e98ec7e90ea1111100
+#EXTINF:-1 tvg-id="sonyliv-1090546669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032955786967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb_bengali.jpg" group-title="Live Events", India vs Brazil (Bengali) - India's International Friendlies 2026 [Bengali]
 https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/BEN/master.m3u8?hdnea=exp=1791076113~acl=/*~id=23300786148273193556789446748749~hmac=064397d208ce4425cadc5d64bacb96b8277556f502cb675825bc731fe9f680e6
-#EXTINF:-1 tvg-id="sonyliv-1090546613" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747681984683_UNL2627_Finland_vs_Albania_landscape_thumb.jpg" group-title="Live Events", Finland vs Albania - 3 Oct 2026 - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0310/ENG/master.m3u8?hdnea=exp=1791076124~acl=/*~id=37021490200030125360992437427294~hmac=0f98b7f16b9d618ea47e956108ba66b2f123eea2636d07b82f8381e89c35c7c9
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Live Events", Football - 3 Oct 2026 - 20th Asian Games Aichi-Nagoya 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8?hdnea=exp=1791058832~acl=/*~id=08429568719682706116188112177312~hmac=f1a238c14faf47a068e4b0e3b9f16c457f62fc6a6a0a447e1a3c62548290508d
-#EXTINF:-1 tvg-id="sonyliv-1090546606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg" group-title="Live Events", Alfred Dunhill Links Championship - Day 3 - 3 Oct 2026 - DP World Tour [English]
+#EXTINF:-1 tvg-id="sonyliv-1090546637" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748023774683_UNL2627_Iceland_vs_Bulgaria_landscape_thumb.jpg" group-title="Live Events", Iceland vs Bulgaria - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084048~acl=/*~id=11421288747896566546231094062447~hmac=e502e4edca80037663e0b7e400adbab922881f00bede2797ee64defcc7dc1437
+#EXTINF:-1 tvg-id="sonyliv-1090546671" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748351517683_UNL2627_Estonia_vs_Luxembourg_landscape_thumb.jpg" group-title="Live Events", Estonia vs Luxembourg - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084060~acl=/*~id=64890104261540344446004052037941~hmac=2c23b7986b8831a105b1f3955311386be562d428293855f41cf2e8f0325b2d1a
+#EXTINF:-1 tvg-id="sonyliv-1090546635" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748179104683_UNL2627_Belarus_vs_San_Marino_landscape_thumb.jpg" group-title="Live Events", Belarus vs San Marino - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/master.m3u8?hdnea=exp=1791084072~acl=/*~id=64279375501500974893339703948345~hmac=6d31d5b216a9438417d4fc45584844ec58dc528a53f3ecf6b4ab1fde5b893fcc
+#EXTINF:-1 tvg-id="sonyliv-1090546606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg" group-title="Live Events", Alfred Dunhill Links Championship - Day 3 - DP World Tour [English]
 https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60
