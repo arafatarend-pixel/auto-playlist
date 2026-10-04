@@ -144,7 +144,7 @@ http://mxonlive.xyz/live/xap/153156.m3u8?e=1791093977&token=40da325adbe2239d5c71
 #EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS Cartoon",Discovery kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS Cartoon",IN: Disney Junior
-http://mxonlive.xyz/live/xap/153175.m3u8?e=1791133260&token=fc11a6cc621a738da019fd6b09b798d19c084ef082b14357fd3670e1b605b450
+http://mxonlive.xyz/live/xap/153175.m3u8?e=1791156803&token=20c67c1f759f06c9c6da1ececeadb8f49c4afe61253a7711faa1719e11f41b64
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1791093977&token=e29644552466f59f7d885495b4fb2056fa7b7b7dab86a5922b5e5b906f937f69
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
@@ -188,7 +188,7 @@ http://mxonlive.xyz/live/xap/167580.m3u8?e=1791072702&token=38c75a0426e4425db8c1
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
 http://mxonlive.xyz/live/xap/167575.m3u8?e=1791093977&token=81130c40e1c71e331fb804baa0ca10803261a122634e859182c3b57048d914a7
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
-http://mxonlive.xyz/live/xap/167577.m3u8?e=1791133260&token=a2e8da746055b2b638d0cd614539336ba4f24a40d2433ff03659d9a068bf3b8f
+http://mxonlive.xyz/live/xap/167577.m3u8?e=1791156803&token=6b99f348d244caf24b61e241d5fa5ef4dc1030a2ab29539930323e72a99a46ed
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 1
 http://mxonlive.xyz/live/xap/167578.m3u8?e=1791133260&token=8d9289b800c07adf6665320f6adabb7c01ccd939a63856950bc8fd56596227ca
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 2
@@ -196,7 +196,7 @@ http://mxonlive.xyz/live/xap/167579.m3u8?e=1791093977&token=c828ae66318b930f754d
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Cricbuzz" tvg-logo="https://en.wikipedia.org/wiki/Cricbuzz" group-title="SPORTS",IN | Astro Cricket HD
 http://mxonlive.xyz/live/xap/167581.m3u8?e=1791072702&token=27c1dd7b5eb687e410367cff5fb684a796cdafdbfab7d6c7d3f13dcbe02ec07a
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
-http://mxonlive.xyz/live/xap/238478.m3u8?e=1791133260&token=d730de67ffb419c6c84cbe46bc86d367a5415c8d5bcc47497360b2873b654de1
+http://mxonlive.xyz/live/xap/238478.m3u8?e=1791156803&token=68a92d66ebb05616a0d54455999198af7cbd9dfa4b151a0162d95cff3c0fcbc7
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
 http://mxonlive.xyz/live/xap/238479.m3u8?e=1791116194&token=1d78703fef5a7a00ac6a960628f32981a293b6e4f83e7308704c678ee164bc96
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
@@ -206,17 +206,17 @@ http://mxonlive.xyz/live/xap/383184.m3u8?e=1791093977&token=89708961c1c070a1dbea
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1791133260&token=34cf952616f3fdc8eb6ac96ae395f64aff14a03d1b412843c0e615275b81bb6e
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
-http://mxonlive.xyz/live/xap/206283.m3u8?e=1791072702&token=0eb8062da48d66225496265df2298852e867c0d15ee18ef26ffed70fde12abb6
+http://mxonlive.xyz/live/xap/206283.m3u8?e=1791156803&token=5a3142a2c645289b43e7df331b11f4dcf3b80c73c5d485da1dbf492f9901ee01
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
-http://mxonlive.xyz/live/xap/206285.m3u8?e=1791133260&token=1bd701852e365ca306dd129684b0fc9053b9ec0c06df5a8cc03997669d1973f3
+http://mxonlive.xyz/live/xap/206285.m3u8?e=1791156803&token=98c146a4090b3b429b2656e10e5400dc7e9c2e69048069bee96304a9a4d363bf
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
 http://mxonlive.xyz/live/xap/383183.m3u8?e=1791093977&token=6ca8cb14804a61a1726c300ac75fa43f952149bd973b908d9fc3fddf62c9290f
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1791093977&token=74ac10646fa876b4e6e49181de45d42d3cb291c46fe83bc07b6a64c617522310
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1791072702&token=84c5e4dd9a1c72e6389c645b8bfd8f4042a0d8c285e161d0770a0a558c88ae67
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1791156803&token=ff8dc2744286952826b817dfc3b9069623e0c489a6b9d369a4d0d6e5f2f43996
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
-http://mxonlive.xyz/live/xap/206287.m3u8?e=1791093977&token=24e99f0cc90363de070e2b3291d71884f84e4da7046966cc3e313f61aa9d3268
+http://mxonlive.xyz/live/xap/206287.m3u8?e=1791156803&token=4d9355ecd2a0ba3c49ed1495591d4c05967c3d1bde8641cde2f1245ff758babe
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://mxonlive.xyz/live/xap/206289.m3u8?e=1791093977&token=545e0489c6e8494da0ea658519b81e9b4ae5b617e2efd4fe18af915160f2ae11
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
@@ -224,13 +224,13 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1791133260&token=06014166ab649fe98f94
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1791072702&token=013818cf0dc4e74c2e547e143415f8aecfd955ae195a0cca90cef6aee37c8ce8
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1791072702&token=2d98630b1d418150f7386c3f72c928c5b9144c743b85909f863f8c6d744d1299
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1791156803&token=492a5e8a520fbd33ec50fd52cf19e4c1858bb4cfa774d93fb71d4ed15a3ef8d5
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1791133260&token=37baa3237751cba24881c78951e4cb7957b5750a63db573c108ed90cb5ed5460
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
 http://mxonlive.xyz/live/xap/206294.m3u8?e=1791093977&token=412c4068df6c5ab3e8bbe6412d8a57a095d97a10483e83879ee924739f596685
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
-http://mxonlive.xyz/live/xap/206295.m3u8?e=1791093977&token=91b51b5ef44452dc348402fb478a9826c63278e7739a32264109d06c9f0eecfb
+http://mxonlive.xyz/live/xap/206295.m3u8?e=1791156803&token=8e1df1f4de02cf5ba457ab035031aa7a9ef37d25a3cc5960c851051005216526
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
 http://mxonlive.xyz/live/xap/206296.m3u8?e=1791133260&token=491d82023f3ea2b9bca81781f2daf3907e86666f425f4120e823c407b1c6f73f
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
@@ -281,9 +281,13 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791116194&token=3127676720fe4088ca3be
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791093977&token=f29e2fac296d5686e368e0ef80f758a2ec9c508939a69f5014d01d5198ac4d23
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791093977&token=375daaa154334fab0c944e9bd8428be28497965b0312b769d555d702d923e70e
-#EXTINF:-1 tvg-id="sonyliv-1090546684" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794130646993_UNL2627_MD4_Spain_vs_Czechia_landscape_thumb.jpg" group-title="Live Events", Spain vs Czechia - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/master.m3u8?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c
-#EXTINF:-1 tvg-id="sonyliv-1090546685" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794256973993_UNL2627_MD4_Switzerland_vs_Slovenia_landscape_thumb.jpg" group-title="Live Events", Switzerland vs Slovenia - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/master.m3u8?hdnea=exp=1791094847~acl=/*~id=29857471698863511311167754058006~hmac=b9fcb55ab971e083be4c6ace9b0af0de4626c9afd602243ba39c5f6d9ac1fbde
-#EXTINF:-1 tvg-id="sonyliv-1090546686" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794384535993_UNL2627_MD4_North_Macedonia_vs_Scotland_landscape_thumb.jpg" group-title="Live Events", North Macedonia vs Scotland - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/master.m3u8?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c
+#EXTINF:-1 tvg-id="sonyliv-1090546670" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg" group-title="Live Events", UFC 332 - Silva vs Wang -  UFC 332 - Silva vs Wang [English]
+https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/master.m3u8?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7
+#EXTINF:-1 tvg-id="sonyliv-1090546670" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg" group-title="Live Events", UFC 332 - Silva vs Wang -  UFC 332 - Silva vs Wang [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/HIN/master.m3u8?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7
+#EXTINF:-1 tvg-id="sonyliv-1090546670" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg" group-title="Live Events", UFC 332 - Silva vs Wang -  UFC 332 - Silva vs Wang [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/TAM/master.m3u8?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7
+#EXTINF:-1 tvg-id="sonyliv-1090546670" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg" group-title="Live Events", UFC 332 - Silva vs Wang -  UFC 332 - Silva vs Wang [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/TEL/master.m3u8?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7
+#EXTINF:-1 tvg-id="sonyliv-1090546670" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg" group-title="Live Events", UFC 332 - Silva vs Wang -  UFC 332 - Silva vs Wang [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/KAN/master.m3u8?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7
