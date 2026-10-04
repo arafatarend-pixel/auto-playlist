@@ -214,17 +214,17 @@ http://mxonlive.xyz/live/xap/383183.m3u8?e=1791175458&token=bda8d02cadb0edc27470
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
 http://mxonlive.xyz/live/xap/206286.m3u8?e=1791175458&token=7829b8fcfaa3fb4bbb04c79fabcd39b662a3a845e4988e98f31e6411c07df2f3
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
-http://mxonlive.xyz/live/xap/206587.m3u8?e=1791197823&token=7a4611443b115531242039df61c2e3999b9a421119f6abe557eb88bbe5062a5f
+http://mxonlive.xyz/live/xap/206587.m3u8?e=1791214985&token=b5fa0ef71dca3d731b8234f7a005d7fe020db0d9b6bc911cf6d2d2894dd059ed
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
 http://mxonlive.xyz/live/xap/206287.m3u8?e=1791175458&token=5705d8a5c7ef64ba68b8286fd5b80f86c245e41fb15b5f23322c88c22772a080
 #EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
 http://mxonlive.xyz/live/xap/206289.m3u8?e=1791175458&token=5720ea477391a3639a9300102f046060ff98e8c3f09abb32ea9911b107ae1272
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
-http://mxonlive.xyz/live/xap/206291.m3u8?e=1791175458&token=6dbcb53ef1187737730718f6211ba5f68f2e9f5222b943b4238ad6d2090d6c3f
+http://mxonlive.xyz/live/xap/206291.m3u8?e=1791214985&token=7c364749375cd1a8b33bfb23775e548482998b87fd28b91f0d1a595d308b6bd3
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1791197823&token=14e148d35978cba0793149ba98178b1592186119f2afc8b6e58cb58de46e3bae
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1791156803&token=492a5e8a520fbd33ec50fd52cf19e4c1858bb4cfa774d93fb71d4ed15a3ef8d5
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1791214985&token=4170726c94d6e4710818244b98482c8635cd412e6ff9a1b99183fff3ed144d85
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1791156803&token=e3652b8337ab8086c0f744cddaf18776bd6d02bcb82442805e020149df7f7730
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
@@ -281,7 +281,9 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791197823&token=ad9b5d2dbee481859e21c
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791175458&token=199ea2a1644ac1778c9892367e25207b4b853b60e72168ac77da4e4f9f303183
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791175458&token=ec25ee1a9903579e9fa7725c9ab38d66025f278c221157b67989cae55b95b957
-#EXTINF:-1 tvg-id="sonyliv-1090546998" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794655063993_UNL2627_MD4_Azerbaijan_vs_Lithuania_landscape_thumb.jpg" group-title="Live Events", Azerbaijan vs Lithuania - UEFA Nations League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0410/ENG/master.m3u8?hdnea=exp=1791159645~acl=/*~id=92910531809185250033124669951355~hmac=3c59e45c28dfdf9f9c4e6e8022ff5ebbf3c21a39bbc81f5eb39e06bb72b4c0b7
+#EXTINF:-1 tvg-id="sonyliv-1090547001" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795255287993_UNL2627_MD4_Kosovo_vs_Austria_landscape_thumb.jpg" group-title="Live Events", Kosovo vs Austria - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/ENG/master.m3u8?hdnea=exp=1791170438~acl=/*~id=08922464962888233002080627803239~hmac=f47b2b14697e97819a2e0088a3a3e0a267f1aff6d21e671deaa9bbb128f8fbbb
+#EXTINF:-1 tvg-id="sonyliv-1090547002" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795407473993_UNL2627_MD4_Malta_vs_Andorra_landscape_thumb.jpg" group-title="Live Events", Malta vs Andorra - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/master.m3u8?hdnea=exp=1791170451~acl=/*~id=49942054377503995884123288737081~hmac=5e44a13982713fc689270f1eb6dea66addaaf5bf1560fa51c98b5337111b5278
 #EXTINF:-1 tvg-id="sonyliv-1090546993" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561630121673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day4_landscape_thumb.jpg" group-title="Live Events", Alfred Dunhill Links Championship - Day 4 - DP World Tour [English]
 https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/master.m3u8?hdnea=exp=1791152440~acl=/*~id=96695579875630881645621748058433~hmac=1b33b96a4c678e6ede1df62edb1d9216a593ec5a217d0974f8d2026f9ddc22e4
