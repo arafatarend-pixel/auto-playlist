@@ -132,11 +132,11 @@ https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS Cartoon",IN: Cartoon Network
 http://mxonlive.xyz/live/xap/153154.m3u8?e=1791175458&token=0a59d9608b19d8fb5b94c1300139e6a30042f730d5666ac61f7a8a0035d86f32
 #EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS Cartoon",IN: Pogo
-http://mxonlive.xyz/live/xap/150483.m3u8?e=1791116194&token=89c9e800fa9578b9149d0db62d4df1cea4a5a20aaa4eb7cbe7c88ada0f45d7ec
+http://mxonlive.xyz/live/xap/150483.m3u8?e=1791197823&token=0021ea018314529710f3851252f18cdf7307d4cdca3da9a0e626608978decd29
 #EXTINF:-1 tvg-id="" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS Cartoon",IN | Sony yay
-http://mxonlive.xyz/live/xap/26187.m3u8?e=1791156803&token=cbf5a0d49298c7ef6658a3dd901cabcac7f2ff9618e9e7f690dc06c1a9799554
+http://mxonlive.xyz/live/xap/26187.m3u8?e=1791197823&token=b1a97d115b84d42ac04d24b66b1750fb71c2f565b9db4eb4a75ee4978cd64813
 #EXTINF:-1 tvg-id="" tvg-name="IN: Hungama**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="KIDS Cartoon",IN: Hungama**
-http://mxonlive.xyz/live/xap/150480.m3u8?e=1791116194&token=50c9935feb9ed6d44c34900517bb983176576b43666faa6947ffbc70dfe18edb
+http://mxonlive.xyz/live/xap/150480.m3u8?e=1791197823&token=380363044c2de2decc05702da79f75cfae96f91d532cee86b60c929a054dd061
 #EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="KIDS Cartoon",IN: Nick
 http://mxonlive.xyz/live/xap/150482.m3u8?e=1791175458&token=a582da4c4f0ec62d1d817ca06a0a5e30ae0fcd68227203028db92d6222944ccc
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="KIDS Cartoon",IND: Nick Junior
@@ -198,9 +198,9 @@ http://mxonlive.xyz/live/xap/167581.m3u8?e=1791156803&token=6ee28633679cde33d7f6
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
 http://mxonlive.xyz/live/xap/238478.m3u8?e=1791156803&token=68a92d66ebb05616a0d54455999198af7cbd9dfa4b151a0162d95cff3c0fcbc7
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
-http://mxonlive.xyz/live/xap/238479.m3u8?e=1791116194&token=1d78703fef5a7a00ac6a960628f32981a293b6e4f83e7308704c678ee164bc96
+http://mxonlive.xyz/live/xap/238479.m3u8?e=1791197823&token=f0e354736731c012ccf607eed52baa9011e7e829a6cc3bea8ef2e5b56fa8e853
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
-http://mxonlive.xyz/live/xap/206278.m3u8?e=1791116194&token=395759f5dd0b0582f6a489beabe1a3f3f6485118b5093169230df6ca099ca621
+http://mxonlive.xyz/live/xap/206278.m3u8?e=1791197823&token=e4c8ad30174e10524153881ab8552430876f2135bff3156362d7a06335ba74b7
 #EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART ENG
 http://mxonlive.xyz/live/xap/383184.m3u8?e=1791175458&token=58d0ea66a70d31ebdd4776c04f918fcc7447c6dd0cb534fac149674e373ac6f8
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
@@ -222,7 +222,7 @@ http://mxonlive.xyz/live/xap/206289.m3u8?e=1791175458&token=5720ea477391a3639a93
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
 http://mxonlive.xyz/live/xap/206291.m3u8?e=1791175458&token=6dbcb53ef1187737730718f6211ba5f68f2e9f5222b943b4238ad6d2090d6c3f
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
-http://mxonlive.xyz/live/xap/206292.m3u8?e=1791175458&token=6b81f4a5cf6f3d621043822d3ec7227750a65753454a4dce2a6013a9fd04eaf1
+http://mxonlive.xyz/live/xap/206292.m3u8?e=1791197823&token=14e148d35978cba0793149ba98178b1592186119f2afc8b6e58cb58de46e3bae
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
 http://mxonlive.xyz/live/xap/206279.m3u8?e=1791156803&token=492a5e8a520fbd33ec50fd52cf19e4c1858bb4cfa774d93fb71d4ed15a3ef8d5
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
@@ -276,10 +276,12 @@ http://mxonlive.xyz/live/xap/221259.m3u8?e=1791156803&token=c69eafcb894932002dc7
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max HD
 http://mxonlive.xyz/live/xap/66179.m3u8?e=1791175458&token=19a65d5334d9521f708687c2941f464042498f2d458ed12ef1d52fe0751a0146
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max [FHD]
-http://mxonlive.xyz/live/xap/66179.m3u8?e=1791116194&token=3127676720fe4088ca3be013a01ef163e395ff689118a0b5e8af0bd369cf5231
+http://mxonlive.xyz/live/xap/66179.m3u8?e=1791197823&token=ad9b5d2dbee481859e21cc65186e58ed59edf7cd4b7b82cd88cf2579ed2b02ec
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | MOVIES",IN | SONY MAX 2
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791175458&token=199ea2a1644ac1778c9892367e25207b4b853b60e72168ac77da4e4f9f303183
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791175458&token=ec25ee1a9903579e9fa7725c9ab38d66025f278c221157b67989cae55b95b957
+#EXTINF:-1 tvg-id="sonyliv-1090546998" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794655063993_UNL2627_MD4_Azerbaijan_vs_Lithuania_landscape_thumb.jpg" group-title="Live Events", Azerbaijan vs Lithuania - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0410/ENG/master.m3u8?hdnea=exp=1791159645~acl=/*~id=92910531809185250033124669951355~hmac=3c59e45c28dfdf9f9c4e6e8022ff5ebbf3c21a39bbc81f5eb39e06bb72b4c0b7
 #EXTINF:-1 tvg-id="sonyliv-1090546993" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561630121673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day4_landscape_thumb.jpg" group-title="Live Events", Alfred Dunhill Links Championship - Day 4 - DP World Tour [English]
 https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/master.m3u8?hdnea=exp=1791152440~acl=/*~id=96695579875630881645621748058433~hmac=1b33b96a4c678e6ede1df62edb1d9216a593ec5a217d0974f8d2026f9ddc22e4
