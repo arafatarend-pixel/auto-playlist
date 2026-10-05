@@ -148,7 +148,7 @@ http://mxonlive.xyz/live/xap/153175.m3u8?e=1791175458&token=2e2751efa5cf4d535c6c
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS Cartoon",IN | DISNEY HD
 http://mxonlive.xyz/live/xap/167551.m3u8?e=1791175458&token=ebbdf02cd1298d9f5c1632677e276d8da27fffa4df0f9918d1e7bd554c188b53
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="KIDS Cartoon",NICK HD+ [FHD]
-http://mxonlive.xyz/live/xap/76722.m3u8?e=1791156803&token=34b949b7f5c930423f4753e9c3d528d7acc62c6506f29c618b129d4322f6486b
+http://mxonlive.xyz/live/xap/76722.m3u8?e=1791240581&token=8869c1afcda15a1e170d94d9d393fb53b6956a31f9c0662f4738da5f5ef32cb0
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="KIDS Cartoon",24/7 MOTU PATLU 01
 http://mxonlive.xyz/live/xap/307079.m3u8?e=1791175458&token=4a60f21aef9a361e896712ac42f0bd9e6820435551ecf5fb4ccb691c90c02521
 #EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="KIDS Cartoon",24/7 MOTU PATLU 02
@@ -168,9 +168,9 @@ https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.clo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="SPORTS",Bein Sports xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PK: PTV SPORTS HD
-http://mxonlive.xyz/live/xap/167567.m3u8?e=1791156803&token=a57c328b75d393d2dafae3a8b1586d1a6d9dcf83cbba62728700f6c638daaf9a
+http://mxonlive.xyz/live/xap/167567.m3u8?e=1791240581&token=d1dc892f9a5b9abd64db5a5685153e35408f9ee2f60c0bf1d8814df04e670aa8
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="SPORTS",PK | Geo Super HD
-http://mxonlive.xyz/live/xap/167568.m3u8?e=1791156803&token=d4e810f2f89e1db90966ae359a1dedcc0f658e2f91940d5a67a0c4c161bad968
+http://mxonlive.xyz/live/xap/167568.m3u8?e=1791240581&token=facfebda714b08785d16e742bb7a7b43e492aa1e84dd26058faa03eb6a30d484
 #EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="SPORTS",PK: TEN SPORTS
 http://mxonlive.xyz/live/xap/167569.m3u8?e=1791175458&token=e35c48325d2e9d327db6ea905198eab5f80c2e3b41df0b33489e495b8291d3ae
 #EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="SPORTS",PK: A Sports HD (Server 1)
@@ -178,7 +178,7 @@ http://mxonlive.xyz/live/xap/219689.m3u8?e=1791175458&token=cbb1d36ea4e72d101d4c
 #EXTINF:-1 tvg-id="" tvg-name="T-SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png" group-title="SPORTS",T-SPORTS
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | SONY TEN 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="SPORTS",IN | SONY TEN 1 HD
-http://mxonlive.xyz/live/xap/167570.m3u8?e=1791156803&token=7738c5d7107e41700b91fc3a0bb157fc15f6de18f3040077fc95248e8bdb6fe1
+http://mxonlive.xyz/live/xap/167570.m3u8?e=1791240581&token=190fc42de6793017328433edd8a350c37b02b6e794638d3fd795bb7e1287c699
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | SONY TEN 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="SPORTS",IN | SONY TEN 2 HD
 http://mxonlive.xyz/live/xap/167571.m3u8?e=1791175458&token=fb189584fc99515f8b7d4479acde60251a44f0f1212134758eb2e9fd97e68b6d
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | SONY TEN 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="SPORTS",IN | SONY TEN 3 HD
@@ -186,7 +186,7 @@ http://mxonlive.xyz/live/xap/167572.m3u8?e=1791175458&token=885dbfd15a1b51f20af2
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",IN | SONY TEN 5 HD
 http://mxonlive.xyz/live/xap/167580.m3u8?e=1791175458&token=1571937c99ed3c2183f1d1656455feaf57765cfe3824853088ef4aa68a0587a6
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="SPORTS",IN | Star Sports 1 HD
-http://mxonlive.xyz/live/xap/167575.m3u8?e=1791156803&token=e6b32ebec8782c5d5afbcde8cdb55f429eac1e200a09d899a6a6af4cc27c53f7
+http://mxonlive.xyz/live/xap/167575.m3u8?e=1791240581&token=5f58e8a62ed747d1fa9940d0a0a5404571413517a1ea0423d8514d70003e5aa6
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="SPORTS",IN | Star Sports 3 HD
 http://mxonlive.xyz/live/xap/167577.m3u8?e=1791175458&token=6852f1f0d294b8d79efb754c728d03af1871a7bf109275c10ffe86c36cc676cc
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 1
@@ -194,9 +194,9 @@ http://mxonlive.xyz/live/xap/167578.m3u8?e=1791175458&token=9e0b02b26508d772e7f9
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="SPORTS",IN | STAR SPORTS SELECT 2
 http://mxonlive.xyz/live/xap/167579.m3u8?e=1791214985&token=d8855ff1c66882be78d92f60cc1728be13ded43aa043e3bcb3137314dd89d2ca
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="Cricbuzz" tvg-logo="https://en.wikipedia.org/wiki/Cricbuzz" group-title="SPORTS",IN | Astro Cricket HD
-http://mxonlive.xyz/live/xap/167581.m3u8?e=1791156803&token=6ee28633679cde33d7f6dc3d758c8f560304924f06431328aa0112fc736d7aae
+http://mxonlive.xyz/live/xap/167581.m3u8?e=1791240581&token=79ce187ec8229235a824770f5a1875ad775e285f76d3f46c15de292bf7b1452b
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="http://vod-logo.net/photos/21983d23cf9b0231583ecd219b73ed98.png" group-title="SPORTS",Af | DSTV: Super Sports Premier League
-http://mxonlive.xyz/live/xap/238478.m3u8?e=1791156803&token=68a92d66ebb05616a0d54455999198af7cbd9dfa4b151a0162d95cff3c0fcbc7
+http://mxonlive.xyz/live/xap/238478.m3u8?e=1791240581&token=be7f065a39868c8d9b9e68bc0d57aee2ed8d5ddab35e602cf0548b3f7b1e268b
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="https://www.thesportsdb.com/channel/3420-supersport-la-liga-tv-schedule" group-title="SPORTS",Af | DSTV: Super Sports La Liga
 http://mxonlive.xyz/live/xap/238479.m3u8?e=1791197823&token=f0e354736731c012ccf607eed52baa9011e7e829a6cc3bea8ef2e5b56fa8e853
 #EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HINDI
@@ -206,7 +206,7 @@ http://mxonlive.xyz/live/xap/383184.m3u8?e=1791175458&token=58d0ea66a70d31ebdd47
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
 http://mxonlive.xyz/live/xap/206282.m3u8?e=1791214985&token=c1ac16bfe79b9376870bcbe3da0041d03ea61e4dd8ddd99915cdcda0f91ace00
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD ENG
-http://mxonlive.xyz/live/xap/206283.m3u8?e=1791156803&token=5a3142a2c645289b43e7df331b11f4dcf3b80c73c5d485da1dbf492f9901ee01
+http://mxonlive.xyz/live/xap/206283.m3u8?e=1791240581&token=37a5043bda7618a12793fc518b489901310ec884b800fbbd4260a474bfe6e810
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD Hindi
 http://mxonlive.xyz/live/xap/206285.m3u8?e=1791175458&token=20bff6af49a156edf5d9affabf118dc044f660996485a62234a98158a222d3c9
 #EXTINF:-1 tvg-id="" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD ENG
@@ -224,13 +224,13 @@ http://mxonlive.xyz/live/xap/206291.m3u8?e=1791227755&token=394aa2f2031ba86c4994
 #EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
 http://mxonlive.xyz/live/xap/206292.m3u8?e=1791197823&token=14e148d35978cba0793149ba98178b1592186119f2afc8b6e58cb58de46e3bae
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
-http://mxonlive.xyz/live/xap/206279.m3u8?e=1791227755&token=93a501f0d2ff92027921845d333a1485d18e1377442706c52da34eac5d12dc20
+http://mxonlive.xyz/live/xap/206279.m3u8?e=1791240581&token=1c93196664e44f512f29d4e7164bdd4ea582efde6b1e1ca5960280c37665466d
 #EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
 http://mxonlive.xyz/live/xap/206280.m3u8?e=1791156803&token=e3652b8337ab8086c0f744cddaf18776bd6d02bcb82442805e020149df7f7730
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
-http://mxonlive.xyz/live/xap/206294.m3u8?e=1791156803&token=1763e9654ebb128c1a9d31fabe18881b5e88590406fa25f02d8751470e002d7f
+http://mxonlive.xyz/live/xap/206294.m3u8?e=1791240581&token=aada0a71a1e9d69cc03f529fd4ef81ce4cbbe986f09eab397e76f84bba9c390c
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 ENG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 ENG FHD
-http://mxonlive.xyz/live/xap/206295.m3u8?e=1791156803&token=8e1df1f4de02cf5ba457ab035031aa7a9ef37d25a3cc5960c851051005216526
+http://mxonlive.xyz/live/xap/206295.m3u8?e=1791240581&token=e2886091d41a119aa928f6c158576c24059eda013b117185ff6fa25a48108275
 #EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
 http://mxonlive.xyz/live/xap/206296.m3u8?e=1791227755&token=bca21ad82e5ad81b02579c43d063b60f073df15abb2adbd9804c3700500adf2e
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
@@ -256,23 +256,23 @@ http://mxonlive.xyz/live/xap/221260.m3u8?e=1791175458&token=5b92c13fa4b5e24bd904
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA FHD (TATASKY)
 http://mxonlive.xyz/live/xap/221261.m3u8?e=1791175458&token=79e0a0d94d756e31b3864c8052da8f4a82055231ad70a8a6da0dc1b1fc8091e6
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA HD
-http://mxonlive.xyz/live/xap/206307.m3u8?e=1791156803&token=293403aab7e1f34446ffcc716b19936c059126202f929529a697c81f6c2b276e
+http://mxonlive.xyz/live/xap/206307.m3u8?e=1791240581&token=7cb482133ca186155f2adcd3e1844657a03c348eb7ee1bf0f58b3c60bda1d9e3
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IN | ZEE CINEMA [FHD]
 http://mxonlive.xyz/live/xap/206307.m3u8?e=1791175458&token=727bd052a9a649916a2c5be8225c474363504501c6703c22373f1672964a8342
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="INDIAN | MOVIES",IND: Zee Cinema USA
-http://mxonlive.xyz/live/xap/206268.m3u8?e=1791156803&token=f8927c48d3a8cde6f3258b08174688dce2502068e68cc39f29d168590aa8b49b
+http://mxonlive.xyz/live/xap/206268.m3u8?e=1791240581&token=f994fb5f43e097d9890e0cd08a9b194d607ed8ae63b20b3557b976d985e2269b
 #EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | MOVIES",IN: Dhamaka Movies B4U
-http://mxonlive.xyz/live/xap/66184.m3u8?e=1791175458&token=6a3a09754eade1a8273e3a400d7ed1ed4edf015abbc68f66abbf1c5aea808382
+http://mxonlive.xyz/live/xap/66184.m3u8?e=1791240581&token=4f88cffcaf3792d3e4f7488a3a9222efaee35a1b8658fdbe5938873fa7f16678
 #EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://tvwish.com/img/channel/35.jpg" group-title="INDIAN | MOVIES",IN: Oscar Movies
 http://mxonlive.xyz/live/xap/66185.m3u8?e=1791156803&token=591936f5588e5f495370ac93b1bd86230e756d1a324782c20701ae273a8ff1cd
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://i.imgur.com/f8LVeMG.png" group-title="INDIAN | MOVIES",IN: STAR GOLD ROMANCE
-http://mxonlive.xyz/live/xap/66186.m3u8?e=1791156803&token=8f026fe13d493b238fa489609c3f1b1683ac61ff17f3717ebb68fca8623c9208
+http://mxonlive.xyz/live/xap/66186.m3u8?e=1791240581&token=d97be5bc38a3776242ad0bafd79310accae5ba3e248d2c45b57263b39ce6d774
 #EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX
 http://mxonlive.xyz/live/xap/206315.m3u8?e=1791175458&token=5984d5eb4ad757a5dd018d207f532ee530e7b1dedc52a29360c055aa64d82e1f
 #EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="INDIAN | MOVIES",IN: COLORS CINEPLEX FHD
 http://mxonlive.xyz/live/xap/206315.m3u8?e=1791175458&token=5984d5eb4ad757a5dd018d207f532ee530e7b1dedc52a29360c055aa64d82e1f
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max (TATAPLAY)
-http://mxonlive.xyz/live/xap/221259.m3u8?e=1791156803&token=c69eafcb894932002dc7a4bc275e4c710862a2044b9073c047734411f58581bc
+http://mxonlive.xyz/live/xap/221259.m3u8?e=1791240581&token=18517b6098f31efeff7a011903db3c44727032d5530d681ad0b4bb55f7bee827
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max HD
 http://mxonlive.xyz/live/xap/66179.m3u8?e=1791175458&token=19a65d5334d9521f708687c2941f464042498f2d458ed12ef1d52fe0751a0146
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | MOVIES",IN | Sony Max [FHD]
