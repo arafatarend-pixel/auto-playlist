@@ -236,7 +236,7 @@ http://mxonlive.xyz/live/xap/206296.m3u8?e=1791227755&token=bca21ad82e5ad81b0257
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="INDIAN | MOVIES",IN | STAR GOLD THRILLS
 http://mxonlive.xyz/live/xap/221258.m3u8?e=1791250855&token=78699b5ea1a0fb7a6d0f0a3152194499c1a2cd45632a34a4a6d0184fa592c034
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold HD
-http://mxonlive.xyz/live/xap/66177.m3u8?e=1791214985&token=b2d62c9c7b9da343b81667cf47f1f8bd5890fc2f4c0d704d86e9132a1efde2fe
+http://mxonlive.xyz/live/xap/66177.m3u8?e=1791275465&token=a81a963e9ecb5ae51d4300a82346f2900500654e9bbda46f2c4dc868c401e42b
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | MOVIES",IN | Star Gold [FHD]
 http://mxonlive.xyz/live/xap/66177.m3u8?e=1791250855&token=80652b79b0670d5eba38880b473bfee49eb33cde96af5de005dc55c9ba9a6e7d
 #EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | MOVIES",IN | Star Gold Select
@@ -246,7 +246,7 @@ http://mxonlive.xyz/live/xap/66176.m3u8?e=1791250855&token=19d6f4050224ce97372a3
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="INDIAN | MOVIES",IND: Star Gold 2
 http://mxonlive.xyz/live/xap/106133.m3u8?e=1791250855&token=139d92a695e59e46df96107fc699cad8018d6549772a55bc65712913347a55c5
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD HD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="INDIAN | MOVIES",IN: STAR GOLD HD (TATASKY)
-http://mxonlive.xyz/live/xap/112982.m3u8?e=1791214985&token=62bd5d1b64ce6160e75624389fbaa404043fa85e2196d07ace2fec41d744e7b6
+http://mxonlive.xyz/live/xap/112982.m3u8?e=1791275465&token=8ae3d605d492ac37f0172cff8c52676906ef81ef13465131a70cbaba25b7919b
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures SD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures SD
 http://mxonlive.xyz/live/xap/221260.m3u8?e=1791250855&token=5a7286421094b0c174299ba43928e3d591c90e4518f4e4001e57e6281d643cef
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | MOVIES",IN | & Pictures HD
@@ -281,3 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791275465&token=25361b3c9ce7637b4a3a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791250855&token=9970a7cababd3e712d21f593b3a0ece6fdca4b8a33733544869bee52007b7999
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791250855&token=1102aaf0c0aa93ef3b7b463f1cfd760a0b1cb76560c6a537f34f0e0bbe5393bd
+#EXTINF:-1 tvg-id="sonyliv-1090547070" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg" group-title="Live Events", Cyprus vs Latvia - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/master.m3u8?hdnea=exp=1791256841~acl=/*~id=36871665722074013850628360155464~hmac=fdef97d5ac34695225e113fde93e3d2be920a043f5b8cc67adecc3b088dbfe73
