@@ -24,7 +24,7 @@ https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1 tvg-id="229000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Bangla",Maasranga TV
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1784102562&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2044540ee613d44b1175f2885b2ab1ee
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png" group-title="Bangla",Channel 1 News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla",Ekattor TV
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8?e=1784102532&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3b9afdda2bd5332e8f49ed7dfa321a06
 #EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-name="Independent TV" tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697" group-title="Bangla",Independent TV
@@ -281,7 +281,3 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791275465&token=25361b3c9ce7637b4a3a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791275465&token=df8f35f2980bb386d4c260e1b50d0ac582c0527e64b8f8b488b49442f73559a5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791275465&token=99fba3d00c144d5cbe9c467ab54c5f28862258302da2d609e9894f9997254b9e
-#EXTINF:-1 tvg-id="sonyliv-1090547324" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg" group-title="Live Events", Hooghly Hitters vs Namma Bengaluru Smashers - Volleyball Championship League 2026  [English]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/master.m3u8?hdnea=exp=1791420638~acl=/*~id=62441916876151266317346075795007~hmac=d8af036f8e9de9e20f30bc44b4b8909135fb76cf642a89e351940b152f73999d
-#EXTINF:-1 tvg-id="sonyliv-1090547324" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg" group-title="Live Events", Hooghly Hitters vs Namma Bengaluru Smashers - Volleyball Championship League 2026  [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/HIN/master.m3u8?hdnea=exp=1791420638~acl=/*~id=62441916876151266317346075795007~hmac=d8af036f8e9de9e20f30bc44b4b8909135fb76cf642a89e351940b152f73999d
