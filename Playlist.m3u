@@ -92,7 +92,7 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="Bangla",Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="Bangla",Movie Bangla
-https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://data.jaagobd.com/media/channel_logos/rb.png" group-title="Bangla",Ruposhi Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png" group-title="Bangla",JonmoBhumi TV
@@ -281,5 +281,3 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791275465&token=25361b3c9ce7637b4a3a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791275465&token=df8f35f2980bb386d4c260e1b50d0ac582c0527e64b8f8b488b49442f73559a5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791275465&token=99fba3d00c144d5cbe9c467ab54c5f28862258302da2d609e9894f9997254b9e
-#EXTINF:-1 tvg-id="sonyliv-1090548315" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026166/179128435533336_UEL_MD2_Celta-vs-Juventus_live_landscape_thumb.jpg" group-title="Live Events", Celta vs Juventus- 16 Oct 2026 | UEFA Europa League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133435~acl=/*~id=12786026835876431190512389195846~hmac=fdc843b4f8b17ad7886e3e73f818bbf674defefd6f182549d0bff855dfcb3309
