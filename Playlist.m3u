@@ -50,7 +50,7 @@ https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?e=1784102570&u=ee5437
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Bangla",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangla",Bijoy TV
-https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8?e=1784102572&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e11a2b199c36c7359982e55ec018196d
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="Bangla",Asian TV
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8?e=1784102565&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=e4293f68c5bc8aa8e6ac3e088ca754f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzayWMQexbfPV-jTx3ZNoq-XOmlHKSX1SCjg&s" group-title="Bangla",Probashi TV
@@ -281,5 +281,7 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791275465&token=25361b3c9ce7637b4a3a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791275465&token=df8f35f2980bb386d4c260e1b50d0ac582c0527e64b8f8b488b49442f73559a5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791275465&token=99fba3d00c144d5cbe9c467ab54c5f28862258302da2d609e9894f9997254b9e
-#EXTINF:-1 tvg-id="sonyliv-1090552122" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890776152359_UYL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg" group-title="Live Events", RC Lens vs Como | UEFA Youth League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2120301/footlive0411/ENG/master.m3u8?hdnea=exp=1793839852~acl=/*~id=69885559663089223148204455128802~hmac=37e47dcf73cd02f2f58618579ea185c58639360a21d6a6aaf73b14855f7a13c3
+#EXTINF:-1 tvg-id="sonyliv-1090551922" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg" group-title="Live Events", Stade Rennais FC vs Olympiacos FC | UEFA Europa League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa74cprod-PlaybackConfig/2120299/footlive0411/ENG/master.m3u8?hdnea=exp=1793850656~acl=/*~id=42709376307326580607588270268245~hmac=40ca6580fcb86f51ddde14ffb878b77dc876647b0fdc12ef81ecbfc0acf03cc6
+#EXTINF:-1 tvg-id="sonyliv-1090552123" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg" group-title="Live Events", Dortmund vs Real Betis | UEFA Youth League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2018458/footlive0411/ENG/master.m3u8?hdnea=exp=1793847058~acl=/*~id=50344397498331578114539821408348~hmac=ce6e01f2d2e531069c1ab0a54614ae6fe64b89f731cf6fe127dea4097a027fbf
