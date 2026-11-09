@@ -281,3 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791275465&token=25361b3c9ce7637b4a3a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791275465&token=df8f35f2980bb386d4c260e1b50d0ac582c0527e64b8f8b488b49442f73559a5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791275465&token=99fba3d00c144d5cbe9c467ab54c5f28862258302da2d609e9894f9997254b9e
+#EXTINF:-1 tvg-id="sonyliv-1090553315" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956868102809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day4_landscape_thumb.jpg" group-title="Live Events", 3rd Unofficial Test - Day 4 | India A Tour of New Zealand [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/Criclive0911/ENG/master.m3u8?hdnea=exp=1794302448~acl=/*~id=95740809679267799515646474828651~hmac=237f5925d306aba4d95a5d2123569fd619d5b34a44a749d97b9c227d8dd9b694
