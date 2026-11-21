@@ -62,7 +62,7 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Bangla",Anando TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla",Deepto TV
-https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8?e=1784102563&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=89a6bfdee0a7ecb358080b2c44f18b41
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Bangla",Duronto TV
 https://tvsen5.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.fmp4.m3u8?token=26849003e1fe1bed0b0c40f6d3be853eb9a2b4f7-6a6a5971089a426fc1829aad7d929e8a-1784095967-1784095067&remote=no_check_ip
 #EXTINF:-1 tvg-id="141000" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla",SRK TV
@@ -281,3 +281,9 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791275465&token=25361b3c9ce7637b4a3a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791275465&token=df8f35f2980bb386d4c260e1b50d0ac582c0527e64b8f8b488b49442f73559a5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791275465&token=99fba3d00c144d5cbe9c467ab54c5f28862258302da2d609e9894f9997254b9e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Live Events",Chennaiyin FC vs Punjab FC - MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2111/ENG/master.m3u8?hdnea=exp=1795311826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=86e941175ff04991a967f5fa17fddc15c2f253b17442f36fe707dd58e4a5cb53
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Events",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795305026~acl=/*~id=74280774191358653832960359624827~hmac=77ace95851cbf9bdafc1177d066a01301ff9798b4aba4e6f2e9563647c3700b8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Live Events",Sri Lanka A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795305026~acl=/*~id=74280774191358653832960359624827~hmac=77ace95851cbf9bdafc1177d066a01301ff9798b4aba4e6f2e9563647c3700b8
