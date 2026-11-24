@@ -281,5 +281,7 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791275465&token=25361b3c9ce7637b4a3a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791275465&token=df8f35f2980bb386d4c260e1b50d0ac582c0527e64b8f8b488b49442f73559a5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791275465&token=99fba3d00c144d5cbe9c467ab54c5f28862258302da2d609e9894f9997254b9e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg" group-title="Live Events",NorthEast United vs Sporting Club Delhi - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2411/ENG/master.m3u8?hdnea=exp=1795585430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c8de5b4c5c211e13cb7cd917141f826d947617176928d98b8ab4981faa14ec67
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg" group-title="Live Events",Galatasaray vs Aston Villa - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2411/ENG/master.m3u8?hdnea=exp=1795592630~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9903a0349f4fb1ec97b99cebf2ce36ec5b38ac6beb190f362c6efbebd465bd7b
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg" group-title="Live Events",Bodø/Glimt vs LASK - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2411/ENG/master.m3u8?hdnea=exp=1795592630~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9903a0349f4fb1ec97b99cebf2ce36ec5b38ac6beb190f362c6efbebd465bd7b
