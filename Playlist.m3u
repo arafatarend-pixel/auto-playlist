@@ -281,5 +281,5 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791275465&token=25361b3c9ce7637b4a3a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791275465&token=df8f35f2980bb386d4c260e1b50d0ac582c0527e64b8f8b488b49442f73559a5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791275465&token=99fba3d00c144d5cbe9c467ab54c5f28862258302da2d609e9894f9997254b9e
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030114/1795761699256622_AO_wildcard_playoffs_2027_Mens_Doubles_Final_landscape_thumb.jpg" group-title="Live Events",Men's & Women's Doubles - Final - AO Asia Pacific Wildcard Playoffs 2027
-https://sonydaimenew.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795815826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=06ac9f556af2289b765452408107d69e6cfa897faffefde04228932b4b359411
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Live Events",Pakistan A vs Bangladesh A - Semi-Final - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795816214~acl=/*~id=70698983192081031079768862902179~hmac=ca8e5e9134b486a8476ce77b162180343570e8a78dbfb76545297f0ede550c1e
