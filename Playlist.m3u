@@ -281,5 +281,7 @@ http://mxonlive.xyz/live/xap/66179.m3u8?e=1791275465&token=25361b3c9ce7637b4a3a5
 http://mxonlive.xyz/live/xap/66189.m3u8?e=1791275465&token=df8f35f2980bb386d4c260e1b50d0ac582c0527e64b8f8b488b49442f73559a5
 #EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | MOVIES",IN | Zee Anmol Cinema
 http://mxonlive.xyz/live/xap/66187.m3u8?e=1791275465&token=99fba3d00c144d5cbe9c467ab54c5f28862258302da2d609e9894f9997254b9e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" group-title="Live Events",BMW Australian PGA Championship - Day 2 - DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Live Events",2nd Test - Day 1 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795787029~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a291f353869418f53da2976d2513f096058339b28ec9c06710f555c3046b1eab
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952
